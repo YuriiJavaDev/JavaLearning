@@ -3,6 +3,7 @@
 Welcome! This is the main navigator for my educational projects.
 
 ## 📁 JavaBasics (Course 1)
+- [Task 22 V0.1: Cashier System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_22_V0.1) — This project simulates a simple cashier terminal. It focuses on basic arithmetic operations and handling multiple integer inputs sequentially.
 - [Task 21 V1.1: Player Registration System V1.1](https://github.com/YuriiJavaDev/JavaBasics_Task_21_V1.1) — This project is a transitional milestone in Java learning journey. While the base task requires simple console input/output, this implementation elevates the solution into an **enterprise-ready architecture**.
 - [Task 21 V0.1: Player Registration System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_21_V0.1) — This project represents the basic foundation of a Player Registration System.
 - [Task 20: Login System](https://github.com/YuriiJavaDev/JavaBasics_Task_20) — This project demonstrates how to handle user input in Java using the Scanner class to read and display a password from the keyboard.
