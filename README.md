@@ -3,6 +3,7 @@
 Welcome! This is the main navigator for my educational projects.
 
 ## 📁 JavaBasics (Course 1)
+- [Task 27 V0.1: Time-based Greeting System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_27_V0.1) — This project simulates an adaptive greeting system. It utilizes **Multi-Branch Conditional Logic** to analyze time-of-day data and return a context-specific greeting.
 - [Task 26 V0.1: Simple Login System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_26_V0.1) — This project simulates a basic security gate. It focuses on the **Single-Branch Conditional** structure (`if` without `else`) and introduces the concept of string value comparison.
 - [Task 25 V0.1: Clothing Advisor V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_25_V0.1) — This project simulates a simple weather assistant. It uses conditional branching to analyze temperature data and provide appropriate clothing recommendations.
 - [Task 24 V0.1: Cinema Access Control V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_24_V0.1) — This project simulates a cinema ticketing system. It introduces the fundamental concept of **Conditional Logic**, where the program executes different blocks of code based on a boolean condition (age verification).
