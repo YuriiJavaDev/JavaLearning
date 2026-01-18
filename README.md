@@ -29,3 +29,6 @@ Welcome! This is the main navigator for my educational projects.
 - PostgreSQL integration (in progress).
 - ...
 - Multithreading and GitLab tasks (Petro).
+
+## 🎨 Credits
+- Social preview illustration found via open sources.
