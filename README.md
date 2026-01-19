@@ -3,6 +3,7 @@
 Welcome! This is the main navigator for my educational projects.
 
 ## 📁 JavaBasics (Course 1)
+- [Task 29 V0.1: Exclusive Club Entry System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_29_V0.1) — This project simulates an entry control system for an exclusive club. It utilizes **Nested Conditional Logic** to validate a user's eligibility based on two factors: minimum age and specific residency (Prague).
 - [Task 28 V0.1: Secure Access System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_28_V0.1) — This project simulates a two-factor security gate. It utilizes **Nested Conditional Logic** to perform a hierarchical check of user credentials: age verification followed by a secret code validation.
 - [Task 27 V0.1: Time-based Greeting System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_27_V0.1) — This project simulates an adaptive greeting system. It utilizes **Multi-Branch Conditional Logic** to analyze time-of-day data and return a context-specific greeting.
 - [Task 26 V0.1: Simple Login System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_26_V0.1) — This project simulates a basic security gate. It focuses on the **Single-Branch Conditional** structure (`if` without `else`) and introduces the concept of string value comparison.
