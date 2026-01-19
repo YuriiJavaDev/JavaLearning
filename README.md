@@ -3,6 +3,7 @@
 Welcome! This is the main navigator for my educational projects.
 
 ## 📁 JavaBasics (Course 1)
+- [Task 38 V0.1: Party Access Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_38_V0.1) — This project explores the **Associativity of Logical Operators**. It tests the admission logic for a private event by evaluating three mandatory conditions using the logical AND (`&&`) operator with different grouping strategies.
 - [Task 37 V0.1: Concert Ticket Purchase Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_37_V0.1) — This project analyzes the impact of **Operator Grouping** on logical expressions. It compares standard Java precedence rules with custom-defined logic using parentheses to determine concert ticket eligibility.
 - [Task 36 V0.1: Vacation Planner Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_36_V0.1) — This project simulates a vacation feasibility check. It focuses on the **Precedence of Logical Operators**, demonstrating how Java evaluates complex boolean expressions containing both `||` (OR) and `&&` (AND) without explicit parentheses.
 
