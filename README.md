@@ -3,6 +3,7 @@
 Welcome! This is the main navigator for my educational projects.
 
 ## 📁 JavaBasics (Course 1)
+- [Task 41 V0.1: Online Store Order Parity Checker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_41_V0.1) — This project simulates a basic order sorting mechanism for an e-commerce platform. It utilizes the **Ternary Operator** to perform a parity check on order numbers, classifying them as either "Even" or "Odd".
 - [Task 40 V0.1: Sports Performance Analysis V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_40_V0.1) — This project simulates a sports timing system. It focuses on the **Ternary Operator**, a concise alternative to the standard `if-else` statement for simple value assignments based on a condition.
 
 - [Task 39 V0.1: Bank Loan Approval Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_39_V0.1) — This project simulates a banking decision system using two distinct sets of evaluation rules. It focuses on **Complex Logical Expressions** and the strategic use of parentheses to enforce specific business requirements using the same applicant data.
