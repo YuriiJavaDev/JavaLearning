@@ -48,8 +48,12 @@ Welcome! This is the main navigator for my educational projects.
 - [Task 05: Game Character Profile](https://github.com/YuriiJavaDev/JavaBasics_Task_5) — This project demonstrates the use of various Java primitive and reference data types. The goal was to create a profile for a game character by storing different types of information (level, gold, rating, and name) and displaying them in the console.
 - [Task 04: Compilation Error Analysis & Clean Code](https://github.com/YuriiJavaDev/JavaBasics_Task_4) — This project focuses on debugging a non-compilable Java program. The objective was to identify, analyze, and comment out lines that cause compilation errors or violate task constraints, ensuring the program runs without.
 - [Task 03: Code Blocking & Shortcuts](https://github.com/YuriiJavaDev/JavaBasics_Task_3) — This project focuses on the use of single-line comments (//) to control code execution. The primary goal was to demonstrate how to block the execution of all commands in a Java program so that it produces no output, as per the task requirements.
+---
+
+# Screen output
 - [Task 02: Phrase Assembly with Console Output](https://github.com/YuriiJavaDev/JavaBasics_Task_2) — This project demonstrates the difference between System.out.print() and System.out.println() methods in Java. The goal is to assemble phrases from individual words by controlling the cursor position on the console, ensuring that words appear on the same line or move to a new one as required.
 - [Task 01: Console Output Basics](https://github.com/YuriiJavaDev/JavaBasics_Task_1) — This is a foundational Java project designed to demonstrate basic console output operations. The goal of the task is to correctly use standard output streams to display mixed data types (integers and Unicode characters) on separate lines.
+---
 
 ## 💾 Databases and Backend (Course 2)
 - PostgreSQL integration (in progress).
