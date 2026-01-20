@@ -3,21 +3,29 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics (Course 1)
+
+##
 - [Task 43 V0.1: Amusement Park Ticketing System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_43_V0.1) — This project implements a multi-tier age categorization logic for an amusement park. It utilizes **Nested Ternary Operators** to evaluate four distinct age groups within a single expression.
 - [Task 42 V0.1: Dynamic Greeting System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_42_V0.1) — This project implements a simple time-aware greeting mechanism. It utilizes the **Ternary Operator** to evaluate the current hour and select between two different greeting strings ("Good morning" or "Good day").
 - [Task 41 V0.1: Online Store Order Parity Checker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_41_V0.1) — This project simulates a basic order sorting mechanism for an e-commerce platform. It utilizes the **Ternary Operator** to perform a parity check on order numbers, classifying them as either "Even" or "Odd".
 - [Task 40 V0.1: Sports Performance Analysis V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_40_V0.1) — This project simulates a sports timing system. It focuses on the **Ternary Operator**, a concise alternative to the standard `if-else` statement for simple value assignments based on a condition.
+---
 
+##
 - [Task 39 V0.1: Bank Loan Approval Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_39_V0.1) — This project simulates a banking decision system using two distinct sets of evaluation rules. It focuses on **Complex Logical Expressions** and the strategic use of parentheses to enforce specific business requirements using the same applicant data.
 - [Task 38 V0.1: Party Access Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_38_V0.1) — This project explores the **Associativity of Logical Operators**. It tests the admission logic for a private event by evaluating three mandatory conditions using the logical AND (`&&`) operator with different grouping strategies.
 - [Task 37 V0.1: Concert Ticket Purchase Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_37_V0.1) — This project analyzes the impact of **Operator Grouping** on logical expressions. It compares standard Java precedence rules with custom-defined logic using parentheses to determine concert ticket eligibility.
 - [Task 36 V0.1: Vacation Planner Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_36_V0.1) — This project simulates a vacation feasibility check. It focuses on the **Precedence of Logical Operators**, demonstrating how Java evaluates complex boolean expressions containing both `||` (OR) and `&&` (AND) without explicit parentheses.
+---
 
+##
 - [Task 35 V0.1: Smart Thermostat Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_35_V0.1) — This project simulates the core logic of a smart thermostat. It focuses on **Range Validation**, using logical operators to check if a numeric value resides between defined inclusive boundaries (20°C to 25°C).
 - [Task 34 V0.1: Picnic Planner Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_34_V0.1) — This project simulates a decision-making algorithm for weekend planning. It focuses on **Advanced Logical Operators** to evaluate multiple boolean conditions simultaneously.
 - [Task 33 V0.1: Football Match Result Recorder V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_33_V0.1) — This project simulates a basic sports scoring system. It demonstrates how to use **Relational Operators** to compare two numeric values and store the resulting truth value in a `boolean` variable.
 - [Task 32 V0.1: Boolean Fundamentals V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_32_V0.1) — This project introduces the **Boolean Primitive Type** in Java. It demonstrates how to store and display logical truth values, which serve as the foundation for conditional execution and decision-making in programming.
- 
+---
+
+## 
 - [Task 31 V0.1: Loyalty Program Discount Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_31_V0.1) — This project simulates a loyalty program logic. It utilizes **Nested Conditional Logic** to calculate specific discount percentages based on user demographics (age) and membership status (club card).
 - [Task 30 V0.1: Conference Access Management V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_30_V0.1) — This project simulates a conference registration system. It utilizes **Complex Nested Conditionals** to perform high-level visitor filtering based on age and specialized invitation categories (VIP vs. GUEST).
 - [Task 29 V0.1: Exclusive Club Entry System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_29_V0.1) — This project simulates an entry control system for an exclusive club. It utilizes **Nested Conditional Logic** to validate a user's eligibility based on two factors: minimum age and specific residency (Prague).
@@ -42,10 +50,17 @@ Welcome! This is the main navigator for my educational projects.
 - [Task 11: Hero Health Tracking](https://github.com/YuriiJavaDev/JavaBasics_Task_11) — This project simulates tracking a character's health in a game environment. It demonstrates the practical use of unary operators: increment (++) and decrement (--).
 - [Task 10: Prize Distribution Logic](https://github.com/YuriiJavaDev/JavaBasics_Task_10) — This project demonstrates the use of integer division and the modulo operator (%) in Java. It simulates a scenario where a set number of prizes must be distributed equally among teams, and the remainder is calculated.
 - [Task 09: Single-Line Variable Management](https://github.com/YuriiJavaDev/JavaBasics_Task_9) — This project demonstrates Java's ability to declare and initialize multiple variables of the same type in a single statement. While this approach increases compactness, it is explored here primarily for syntax understanding.
+---
+
+## Memory addressing and variables.
+How to declare a variable and assign a value to it.
 - [Task 08: Bank Account Transactions](https://github.com/YuriiJavaDev/JavaBasics_Task_8) — This project simulates basic banking operations using integer variables. It demonstrates how to perform balance transfers between accounts and apply bonuses using fundamental arithmetic operations in Java.
 - [Task 07: Memory Allocation & Concatenation](https://github.com/YuriiJavaDev/JavaBasics_Task_7) — This project focuses on understanding the memory footprint of different primitive data types in Java. It demonstrates how to combine descriptive text with actual variable values using string concatenation.
 - [Task 06: String Manipulation & Immutability](https://github.com/YuriiJavaDev/JavaBasics_Task_6) — This project demonstrates how Java handles String variables and references. It explores the concept of object assignment and string immutability by creating a copy of a variable and modifying it independently.
 - [Task 05: Game Character Profile](https://github.com/YuriiJavaDev/JavaBasics_Task_5) — This project demonstrates the use of various Java primitive and reference data types. The goal was to create a profile for a game character by storing different types of information (level, gold, rating, and name) and displaying them in the console.
+---
+
+## How to make comments in code.
 - [Task 04: Compilation Error Analysis & Clean Code](https://github.com/YuriiJavaDev/JavaBasics_Task_4) — This project focuses on debugging a non-compilable Java program. The objective was to identify, analyze, and comment out lines that cause compilation errors or violate task constraints, ensuring the program runs without.
 - [Task 03: Code Blocking & Shortcuts](https://github.com/YuriiJavaDev/JavaBasics_Task_3) — This project focuses on the use of single-line comments (//) to control code execution. The primary goal was to demonstrate how to block the execution of all commands in a Java program so that it produces no output, as per the task requirements.
 ---
