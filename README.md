@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics (Course 1)
 ## The "for" loop: introduction and nuances of work.
+- [Task 49 V0.1: Train Seating V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_49_V0.1) — This project simulates the identification of even-numbered seats in a train carriage. It utilizes a **For Loop** to iterate through a range of numbers (0 to 10) and incorporates an **If Statement** with the **Modulo Operator (%)** to filter and display only even values.
 - [Task 48 V0.1: New Year Countdown V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_48_V0.1) — This project simulates a festive New Year's Eve countdown. It utilizes a **For Loop** to iterate backwards from 5 to 1, demonstrating precise control over loop initialization, termination conditions, and decrementing steps.
 ---
 
