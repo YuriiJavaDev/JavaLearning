@@ -3,8 +3,11 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics (Course 1)
+## The "for" loop: introduction and nuances of work.
+- [Task 48 V0.1: New Year Countdown V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_48_V0.1) — This project simulates a festive New Year's Eve countdown. It utilizes a **For Loop** to iterate backwards from 5 to 1, demonstrating precise control over loop initialization, termination conditions, and decrementing steps.
+---
 
-## The while loop: introduction and nuances of its operation.
+## The "while" loop: introduction and nuances of its operation.
 - [Task 47 V0.1: Coffee Expense Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_47_V0.1) — This project implements a budget-tracking utility specifically for coffee expenses. It utilizes a **While Loop** to continuously collect user input for beverage costs. The sequence is terminated when a negative value is detected, acting as a sentinel signal.
 - [Task 46 V0.1: Cinema Seats V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_46_V0.1) — This project simulates the display of available seating in a cinema row. It utilizes a **While Loop** to iterate through seat numbers starting from 2, incrementing by 2, until reaching the limit of 10.
 - [Task 45 V0.1: Smartphone Unlock V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_45_V0.1) — This project simulates a smartphone security interface. It employs a **While Loop** integrated with the **Scanner class** to continuously prompt the user for a password until the predefined correct value ("java") is entered.
