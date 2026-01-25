@@ -69,6 +69,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Strings and text: String type, working with strings.
+- [Task 15.1: Anagram Encoder V0.1](https://github.com/YuriiJavaDev/anagrams) — An advanced continuation of string manipulation topics. This is project implements a complex algorithm to reverse only letters within words while preserving the exact positions of all non-letter characters. It demonstrates professional-grade coding with JUnit 5 testing, Maven lifecycle management, and efficient use of StringBuilder.
 - [Task 15: String data cleaning and manipulation](https://github.com/YuriiJavaDev/JavaBasics_Task_15) — This project focuses on data normalization using the String class. It simulates a real-world scenario where user-provided data (like a city name) contains unnecessary spaces and needs to be formatted.
 - [Task 14: Escaping a quote by Yurii Gagarin](https://github.com/YuriiJavaDev/JavaBasics_Task_14) — This project demonstrates the use of escaping characters in Java strings. It shows how to include special characters, such as double quotes, inside a String object literal without breaking the code structure.
 - [Task 13: User Profile Creation](https://github.com/YuriiJavaDev/JavaBasics_Task_13) — This project demonstrates string concatenation in Java. It shows how to combine multiple object types (String) into a single output using the + operator.
