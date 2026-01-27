@@ -4,6 +4,8 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## The "do-while" loop: introduction and nuances of work.
+- [Task 54 V0.1: ATM PIN Validator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_54_V0.1) — This project simulates 
+- [Task 53 V0.1: ATM PIN Validator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_53_V0.1) — This project simulates an ATM user interface for PIN-code validation. It utilizes the **Do-While Loop** to repeatedly request input from the user until a valid **four-digit positive integer** (between 1000 and 9999) is provided.
 - [Task 52 V0.1: Game Bootstrapper V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_52_V0.1) — This project demonstrates the unique behavior of the **Do-While Loop** in Java. Unlike a standard `while` loop, the `do-while` structure ensures that the code block is executed **at least once** because the exit condition is checked only after the iteration is complete.
 ---
 
