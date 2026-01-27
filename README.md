@@ -4,7 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## The "do-while" loop: introduction and nuances of work.
-- [Task 51 V0.1: Game Bootstrapper V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_51_V0.1) — This project demonstrates the unique behavior of the **Do-While Loop** in Java. Unlike a standard `while` loop, the `do-while` structure ensures that the code block is executed **at least once** because the exit condition is checked only after the iteration is complete.
+- [Task 52 V0.1: Game Bootstrapper V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_52_V0.1) — This project demonstrates the unique behavior of the **Do-While Loop** in Java. Unlike a standard `while` loop, the `do-while` structure ensures that the code block is executed **at least once** because the exit condition is checked only after the iteration is complete.
 ---
 
 ## The "for" loop: introduction and nuances of work.
