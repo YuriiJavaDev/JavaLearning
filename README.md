@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## The "do-while" loop: introduction and nuances of work.
+- [Task 51 V0.1: Game Bootstrapper V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_51_V0.1) — This project demonstrates the unique behavior of the **Do-While Loop** in Java. Unlike a standard `while` loop, the `do-while` structure ensures that the code block is executed **at least once** because the exit condition is checked only after the iteration is complete.
+---
+
 ## The "for" loop: introduction and nuances of work.
 - [Task 51 V0.1: Coordinate Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_51_V0.1) — This project simulates the tracking of two objects moving in opposite directions. It utilizes an advanced **For Loop** structure where two variables are initialized, updated, and evaluated simultaneously within a single loop header.
 - [Task 50 V0.1: Product Cost Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_50_V0.1) — This project implements a calculation engine for a dynamic pricing model. In this scenario, the price of an item is directly proportional to its position in the sequence (e.g., the 1st item costs 1, the 2nd costs 2, etc.). It utilizes a **For Loop** to aggregate the total cost for a set number of products (N).
