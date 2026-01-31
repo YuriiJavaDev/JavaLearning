@@ -13,6 +13,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## The "for" loop: introduction and nuances of work.
 🧩 **Nested for-loops: working with 2D grids.**
+- [Task 59 V0.1: Password Finder V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_59_V0.1) — This project simulates a brute-force search for a "perfect password" consisting of two numbers. It employs **nested for-loops** to iterate through possible combinations and utilizes an early exit strategy once the target condition (sum equals 13) is met.
 - [Task 58 V0.1: Asteroid Field Visualization V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_58_V0.1) — This program simulates a space shuttle's radar view of an asteroid field. It uses **nested for-loops** to generate a precise 5x7 grid of star symbols (⭐). The project demonstrates basic 2-dimensional rendering in a console environment.
 - [Task 57 V0.1: Radar Coordinate System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_57_V0.1) — This project simulates a radar scanning grid by generating a 3x4 coordinate table. It utilizes **nested for-loops** to iterate through rows (i) and columns (j), outputting the precise position of each cell in an `i,j` format.
 
