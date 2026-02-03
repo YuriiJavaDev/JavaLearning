@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Introduction to Fractional Numbers and the Double Type.
+- [Task 66 V0.1: Price Formatter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_66_V0.1) — This project demonstrates the critical difference between **visual formatting** and **mathematical rounding**. It ensures financial integrity by synchronizing the stored variable value with the displayed price, preventing discrepancies between customer receipts and internal accounting records.
 - [Task 65 V0.1: Vending Machine V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_65_V0.1) — This project simulates the payment processing unit of a smart vending machine. It introduces interactive user input using the **Scanner** class, allowing the system to capture real-time payment data in a floating-point format.
 - [Task 64 V0.1: Space Navigation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_64_V0.1) — This project simulates a navigation calculation for a spacecraft. It demonstrates how to perform division using the **double** data type to ensure high precision in mission-critical calculations.
 --- 
