@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Introduction to Fractional Numbers and the Double Type.
+- [Task 64 V0.1: Space Navigation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_64_V0.1) — This project simulates a navigation calculation for a spacecraft. It demonstrates how to perform division using the **double** data type to ensure high precision in mission-critical calculations.
+---
+
 ## Numbers and Symbols in Java.
 - [Task 63 V0.1: Cyrillic Rune V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_63_V0.1) — This project concludes the series of character studies by exploring a Cyrillic symbol. It demonstrates that Java's **char** type natively supports a wide range of global characters through the Unicode standard.
 - [Task 62 V0.1: Rune Decryptor V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_62_V0.1) — This project simulates the decryption of an ancient rune. It focuses on the relationship between the **char** data type and its underlying **ASCII** numeric representation, demonstrating how Java handles character encoding.
