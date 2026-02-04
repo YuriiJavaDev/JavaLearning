@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Accuracy issues and special values.
+- [Task 68 V0.1: Chemical Experiment V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_68_V0.1) — This project simulates a laboratory experiment where a scientist mixes two precise components (0.1 and 0.2) to reach a target concentration of 0.3. It demonstrates the inherent precision issues of the `double` data type in Java when performing floating-point arithmetic.
+---
+
 ## Introduction to Fractional Numbers and the Double Type.
 - [Task 67 V0.1: Magic Apples V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_67_V0.1) — This project simulates the distribution of magical items where fractional parts are required. It highlights a common pitfall in Java: **integer division**, and demonstrates how to use **type casting** to obtain a precise `double` result from `int` operands.
 - [Task 66 V0.1: Price Formatter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_66_V0.1) — This project demonstrates the critical difference between **visual formatting** and **mathematical rounding**. It ensures financial integrity by synchronizing the stored variable value with the displayed price, preventing discrepancies between customer receipts and internal accounting records.
