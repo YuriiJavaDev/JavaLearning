@@ -6,7 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 ## Accuracy issues and special values.
 - [Task 70 Mystic Numbers V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_70_V0.1) — This project simulates an exploration into undefined mathematical territories. It demonstrates how Java's `double` type handles operations that do not result in a real number, specifically the square root of a negative value, resulting in the **NaN** (Not a Number) constant.
 - [Task 69 Cosmic Boundary V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_69_V0.1) — This project simulates an exploration into the limits of numerical calculations. It investigates how Java's `double` type handles division by zero, representing states like **Infinity** that exist beyond standard arithmetic results.
-- [Task 68 Chemical Experiment V0.1 V0.2 V0.3](https://github.com/YuriiJavaDev/JavaBasics_Task_68_V0.1) — This project simulates a laboratory experiment where a scientist mixes two precise components (0.1 and 0.2) to reach a target concentration of 0.3. It demonstrates the inherent precision issues of the `double` data type in Java when performing floating-point arithmetic and provides a professional solution.
+- [Task 68 Chemical Experiment V0.1 V0.2 V0.3](https://github.com/YuriiJavaDev/JavaBasics_Task_68_V0.1) — This project simulates a laboratory experiment in which a scientist mixes two precisely measured components (0.1 and 0.2) to achieve a target concentration of 0.3. It demonstrates the inherent precision issues of the double data type when performing floating-point operations in Java and offers a professional solution, as well as a creative hack for simple calculations.
 ---
 
 ## Introduction to Fractional Numbers and the Double Type.
