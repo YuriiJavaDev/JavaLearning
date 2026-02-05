@@ -4,7 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Rounding and formatting numbers.
-- [Task 75 Magic Shop V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_75_V0.1) — This 
+- [Task 75 Global Sales Reporting V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_75_V0.1) — This project simulates the reporting system of a global corporate leader. It focuses on presenting massive financial figures in a human-readable format by utilizing the **DecimalFormat** grouping separator to distinguish thousands and maintain precise decimal alignment. 
 - [Task 74 Financial Report V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_74_V0.1) — This project simulates the preparation of a quarterly financial report for investors. It demonstrates how to use the **DecimalFormat** class in Java to maintain a consistent professional appearance by ensuring all monetary values are displayed with exactly two decimal places.
 - [Task 73 Magic Shop V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_73_V0.1) — This project simulates a currency formatting system for a magical shop. It highlights a common task in software development: rounding a `double` value to exactly two decimal places for financial displays using the **scaling and rounding** technique.
 - [Task 72 Laser Calibration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_72_V0.1) — This project simulates resource management for space colonization. It focuses on converting high-precision engineering estimates into actionable logistics data by using the **Math.round** method to determine the nearest whole number of materials needed.
