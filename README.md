@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Rounding and formatting numbers.
+- [Task 73 Magic Shop V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_73_V0.1) — This project simulates a currency formatting system for a magical shop. It highlights a common task in software development: rounding a `double` value to exactly two decimal places for financial displays using the **scaling and rounding** technique.
 - [Task 72 Laser Calibration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_72_V0.1) — This project simulates resource management for space colonization. It focuses on converting high-precision engineering estimates into actionable logistics data by using the **Math.round** method to determine the nearest whole number of materials needed.
 ---
 
