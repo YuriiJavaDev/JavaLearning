@@ -4,6 +4,8 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Introduction to Arrays.
+- [Task 85 Tournament Scoreboard V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_85_V0.1) — This project 
+- [Task 84 Array Basics V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_84_V0.1) — This project introduces the fundamental concepts of arrays in Java. It demonstrates how to allocate memory for a fixed-size collection, assign values to specific positions using indices, and retrieve data from the start and end of the array.
 - [Task 83 Tournament Scoreboard V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_83_V0.1) — This project simulates a tournament management system where scores are pre-calculated for each round. It focuses on using a `for` loop to automate data entry (sequential numbers 1 through 10) and simultaneous data display, mimicking a real-time scoreboard.
 - [Task 82 Weather Station Update Languages List V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_82_V0.1) — This project simulates a weather station data management system. It focuses on the default initialization of floating-point arrays and the precise manipulation of data at a specific index. The task reinforces the concept of zero-based indexing and manual array traversal.
 - [Task 81 Fantasy Favorite Languages List V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_81_V0.1) — This project simulates a simple blog entry preparation where a list of favorite programming languages is stored in a fixed-size array. The primary focus is understanding how to retrieve the total capacity of an array using the built-in `length` property.
