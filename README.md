@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Basic operations with one-dimensional arrays.
+- [Task 88 Galactic Defender Leaderboard V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_88_V0.1) — This project simulates a high score table for the "Galactic Defender" game. It focuses on **Array Literals**, a concise way to initialize and populate an array simultaneously, and demonstrates how to output data line-by-line for a leaderboard format.
+---
+
 ## Introduction to Arrays.
 - [Task 87 Quarterly Array Mapping V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_87_V0.1) — This project explores advanced indexing techniques by dividing a 120-element array into four logical checkpoints. It demonstrates how to perform arithmetic operations using values stored at specific calculated offsets within the array structure.
 - [Task 86 Array Tail Operations V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_86_V0.1) — This project focuses on manipulating elements at the end of a large array using dynamic indexing. It demonstrates how to reference positions relative to the array length ($n-1$, $n-2$, etc.) and perform arithmetic operations between these elements. 
