@@ -4,7 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Introduction to Arrays.
-- [Task 86 Array Boundaries & Midpoint V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_86_V0.1) — This project 
+- [Task 86 Array Tail Operations V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_86_V0.1) — This project focuses on manipulating elements at the end of a large array using dynamic indexing. It demonstrates how to reference positions relative to the array length ($n-1$, $n-2$, etc.) and perform arithmetic operations between these elements. 
 - [Task 85 Array Boundaries & Midpoint V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_85_V0.1) — This project focuses on accessing specific strategic points within an array: the beginning, the end, and the mathematical middle. It demonstrates how to use the array size variable $n$ to calculate indices dynamically, which is essential for algorithms like binary search.
 - [Task 84 Array Basics V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_84_V0.1) — This project introduces the fundamental concepts of arrays in Java. It demonstrates how to allocate memory for a fixed-size collection, assign values to specific positions using indices, and retrieve data from the start and end of the array.
 - [Task 83 Tournament Scoreboard V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_83_V0.1) — This project simulates a tournament management system where scores are pre-calculated for each round. It focuses on using a `for` loop to automate data entry (sequential numbers 1 through 10) and simultaneous data display, mimicking a real-time scoreboard.
