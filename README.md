@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Two-dimensional arrays.
+- [Task 94 Theater Seating System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_94_V0.1) — This project simulates a seat-numbering system for a small theater hall with 2 rows and 3 seats per row. It introduces the concept of two-dimensional arrays, where data is organized into rows and columns, requiring two indices for access.
+---
+
 ## Basic operations with one-dimensional arrays.
 - [Task 93 Edge-to-Center Palindrome Check V0.2](https://github.com/YuriiJavaDev/JavaBasics_Task_93_V0.2) — This project implements the "Two Pointers" algorithm to verify if a character array is a palindrome. It avoids creating additional memory structures by comparing elements from the start and end of the array, progressively moving toward the center.
 - [Task 93 Palindrome Checker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_93_V0.1) — This project implements a palindrome check for character arrays. A palindrome is a sequence that reads the same forwards and backwards. This specific task demonstrates the **Array Reversal and Comparison** strategy.
