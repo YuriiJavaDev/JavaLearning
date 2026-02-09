@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Two-dimensional arrays.
+- [Task 95 Digital Billboard Grid V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_95_V0.1) — This project simulates a digital information board represented by a 3x2 grid. The objective is to place a specific message in the final panel (bottom-right corner) and verify its coordinates by rendering the entire grid structure to the console.
 - [Task 94 Theater Seating System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_94_V0.1) — This project simulates a seat-numbering system for a small theater hall with 2 rows and 3 seats per row. It introduces the concept of two-dimensional arrays, where data is organized into rows and columns, requiring two indices for access.
 ---
 
