@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Basic operations with one-dimensional arrays.
+- [Task 92 Array Fill Demonstration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_92_V0.1) — This project demonstrates the process of initializing an array and populating all its elements with a single constant value. It highlights the efficiency of using loops for bulk data assignment compared to manual entry.
 - [Task 91 Smart Home Temperature Analysis V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_91_V0.1) — This project simulates a data processing module for a "Smart Home" system. It implements an algorithm to find the maximum value within a set of temperature readings. This pattern is fundamental for monitoring peak loads, overheating, or any threshold-based alerts.
 - [Task 90 Shopping Cart Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_90_V0.1) — This project simulates a basic checkout system for an online store. It focuses on initializing an array with predefined item prices and performing a mathematical summation of its contents to determine the total cost. 
 - [Task 89 Movie Reverser V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_89_V0.1) — This project demonstrates how to collect user-provided strings into an array and retrieve them in reverse order. It highlights the use of the `Scanner` class for interactive input and the logic of accessing array elements from the highest index down to the lowest.
