@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Arrays class: sort, fill, copyOf, equals.
+- [Task 99 Warehouse Management System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_99_V0.1) — This project simulates the initialization of a warehouse storage grid. Instead of manual entry, it uses automated batch processing to set the initial state of all storage cells to "Empty". This ensures that the system starts with a clean and verified configuration before any inventory is added.
 - [Task 98 Athletic Race Results V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_98_V0.1) — This project automates the organization of athletic competition results. It takes raw timing data from participants and sorts them from the fastest (lowest number) to the slowest (highest number) using Java's standard utility methods, ensuring official results are presented in a clear, ascending sequence.
 ---
 
