@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Arrays class: sort, fill, copyOf, equals.
+- [Task 98 Athletic Race Results V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_98_V0.1) — This project automates the organization of athletic competition results. It takes raw timing data from participants and sorts them from the fastest (lowest number) to the slowest (highest number) using Java's standard utility methods, ensuring official results are presented in a clear, ascending sequence.
+---
+
 ## Two-dimensional arrays.
 - [Task 97 Environmental Sensor Grid V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_97_V0.1) — This project simulates an ecological monitoring system. It organizes sensor readings into a $2 \times 5$ matrix and implements a specific formatting logic to present the data as a clean, readable table. The primary technical focus is on managing whitespace and line breaks during 2D array traversal.
 - [Task 96 Warehouse Inventory Automation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_96_V0.1) — This project automates the population of an inventory grid for a warehouse system. It utilizes nested `for` loops to iterate through a 3x4 matrix, filling it with sequential numbers from 1 to 12. It also includes a visualization module to display the resulting grid in the console.
