@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Array of counters and totalizers.
+- [Task 102 Letter Frequency Counter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_102_V0.1) — This project implements a frequency analysis tool for a specific set of characters ('a', 'b', 'c'). It processes a character array and uses a separate integer array to track how many times each character appears, demonstrating efficient data categorization logic.
+---
+
 ## Arrays class: sort, fill, copyOf, equals.
 - [Task 101 Game Security Access Validator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_101_V0.1) — This project simulates a security validation system for a gaming environment. It compares two separate integer sequences (main and backup access codes) to ensure they are perfectly identical. The implementation highlights the importance of deep equality checks in Java to verify array contents rather than memory addresses.
 - [Task 100 Meteorological Data Extraction V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_100_V0.1) — This project simulates a weather station data processing unit. It handles a sequence of daily temperature readings and extracts a specific "mid-day" subset for reporting purposes. The implementation demonstrates how to isolate data ranges within arrays efficiently using standard Java utility methods.
