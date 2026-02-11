@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Declaration and invocation of methods, parameters.
+- [Task 107 Personal Greeter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_107_V0.1) — This project simulates a personal greeting feature for an interactive application. It focuses on creating a specialized function that addresses users by their name, demonstrating how to implement static methods with parameters to enhance user interaction.
+---
+
 ## Array of counters and totalizers.
 - [Task 106 Random Number Distribution V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_106_V0.1) — This project simulates a statistical analysis of a random number generator. It generates 50 integers in the range of 1 to 10 and calculates how many times each specific digit appears. This demonstrates the use of frequency arrays to visualize data distribution and probability patterns.
 - [Task 105 Student Grade Analysis System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_105_V0.1) — This project simulates an academic grading system that processes scores across four different subjects for a group of students. It calculates the aggregate score for each individual and identifies the top performer using search algorithms, providing a clear and readable statistical report.
