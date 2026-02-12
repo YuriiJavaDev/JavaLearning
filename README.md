@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Return values.
+- [Task 112 Quiz Show Application V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_112_V0.1) — This project demonstrates a strict unidirectional data pipeline. It ensures absolute separation of concerns: the data layer only provides data, the logic layer only performs calculations, and the formatting layer only manages visual appearance.
 - [Task 111 AI Assistant Greeting V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_111_V0.1) — This project implements the core logic for an intelligent assistant's personalized greeting feature. It focuses on the effective use of return values to transfer processed data between architectural layers, allowing for flexible message handling.
 ---
 
