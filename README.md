@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Return values.
+- [Task 111 AI Assistant Greeting V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_111_V0.1) — This project implements the core logic for an intelligent assistant's personalized greeting feature. It focuses on the effective use of return values to transfer processed data between architectural layers, allowing for flexible message handling.
+---
+
 ## Declaration and invocation of methods, parameters.
 - [Task 110 Shape Designer Tool V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_110_V0.1) — This project provides a professional tool for engineers and designers to quickly verify rectangular object parameters. It demonstrates the reuse of static methods with different arguments and showcases clean architectural separation into specialized packages.
 - [Task 109 HR Profile Manager V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_109_V0.1) — This project simulates an automated system for managing employee records in an HR department. It demonstrates advanced code organization by separating responsibilities into different packages and classes, following the Single Responsibility Principle.
