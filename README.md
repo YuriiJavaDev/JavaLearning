@@ -3,8 +3,11 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
-## Return values.
+## Passing parameters by value and by reference.
 - [Task 115 Robot Trajectory Reset V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_115_V0.1) — This project simulates a robot control system that manages movement trajectories. It specifically demonstrates how Java handles array references, allowing a method to permanently modify the state of an array defined in a different layer of the application.
+---
+
+## Return values.
 - [Task 114 Student Grade Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_114_V0.1) — This project simulates an automated teacher's assistant tool. It processes an array of exam results, calculates the total sum of grades using an iterative approach, and displays the result through a decoupled architectural pipeline.
 - [Task 113 Sports Results Analyzer V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_113_V0.1) — This project implements a professional sports score analysis tool. It utilizes a layered architecture to determine the highest score among participants while maintaining strict separation between data entry, comparison logic, and output formatting.
 - [Task 112 Quiz Show Application V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_112_V0.1) — This project demonstrates a strict unidirectional data pipeline. It ensures absolute separation of concerns: the data layer only provides data, the logic layer only performs calculations, and the formatting layer only manages visual appearance.
