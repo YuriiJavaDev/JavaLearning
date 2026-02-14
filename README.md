@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Access modifiers, variable scope.
+- [Task 119 Football Village Registry System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_119_V0.1) — This project simulates an open village registry. It serves as a demonstration of **Public Field Access** within a professional N-Tier architecture. The system allows direct modification of a model's data while maintaining a strict pipeline for validation and formatting.
+---
+
 ## Passing parameters by value and by reference.
 - [Task 118 Football Magical Container Enchantment V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_118_V0.1) — This project demonstrates the nuances of Java's "Pass-by-Value" mechanism for object references. It proves that while a method can successfully modify the fields of a passed object, it cannot reassign the original caller's reference to a new object instance.
 - [Task 117 Football Team Lineup Manager V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_117_V0.1) — This project simulates a real-time team`s lineup management tool for a football manager. It demonstrates the fundamental algorithm for swapping two values within an array reference, ensuring that positional changes made in the logic layer persist throughout the application's lifecycle.
