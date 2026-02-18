@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## String formatting.
+- [Task 130 Localized Result Formatter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_130_V0.1) — An educational project demonstrating how to handle internationalization (i18n) in Java. It specifically focuses on using `Locale` with `String.format()` to display decimal numbers according to regional standards (using a comma instead of a dot).
 - [Task 129 Warehouse Inventory Reporter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_129_V0.1) — This project demonstrates advanced string formatting techniques in Java to create structured, table-like console output. It focuses on field width specification and text alignment for professional reporting.
 - [Task 128 Financial Price Formatter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_128_V0.1) — An educational project focused on the precision of financial data display. It demonstrates how to use Java's formatting tools to round and display floating-point numbers with exactly two decimal places.
 - [Task 127 User Dossier Formatter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_127_V0.1) — An educational project demonstrating the power of `String.format()` for creating uniform and readable data strings in Java. This approach is essential for administrative panels and reporting systems.
