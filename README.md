@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Basic String methods.
+- [Task 132 Substring Search Locator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_132_V0.1) — An educational project demonstrating how to find the position of a specific word within a string using the `indexOf()` method. This is a fundamental operation for search engines and text processing applications.
 - [Task 131 Secret Character Extraction V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_131_V0.1) — An educational project focused on string manipulation. It demonstrates how to retrieve a specific character from a string using its index, highlighting that Java uses zero-based indexing.
 ---
 
