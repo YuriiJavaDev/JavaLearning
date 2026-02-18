@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Character escaping.
+- [Task 126 Unicode Emoji Output V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_126_V0.1) — This project demonstrates how to output special characters and emojis using their exact Unicode sequences (`\uXXXX`). This ensures consistent rendering across different environments and systems.
 - [Task 125 Formatted Slogan Output V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_125_V0.1) — An educational project focused on complex string formatting using escape sequences. It demonstrates how to include double quotes within a string and how to use tabs for visual alignment.
 - [Task 124 Multi-line Text Output V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_124_V0.1) — An educational project demonstrating how to use the newline escape sequence (`\n`) to output multiple lines of text using a single output command, adhering to code conventions.
 - [Task 123 Java Path Escaping Demo V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_123_V0.1) — A simple educational project illustrating how to handle backslashes in Java strings. Backslashes are special characters used for escaping, so to print a literal backslash, it must be escaped with another backslash.
