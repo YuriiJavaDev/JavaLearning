@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Character escaping.
+- [Task 123 Java Path Escaping Demo V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_123_V0.1) — A simple educational project illustrating how to handle backslashes in Java strings. Backslashes are special characters used for escaping, so to print a literal backslash, it must be escaped with another backslash.
+---
+
 ## Access modifiers, variable scope.
 - [Task 122 School Student Registry V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_122_V0.1) — This project illustrates the core OOP principle of **Encapsulation**. It demonstrates how to protect sensitive data using access modifiers while providing controlled ways to interact with it.
 - [Task 121 Box Factory Management V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_121_V0.1) — This project demonstrates the use of the `this` keyword in Java to resolve naming conflicts between instance variables and method parameters. 
