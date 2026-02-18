@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Character escaping.
+- [Task 124 Multi-line Text Output V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_124_V0.1) — An educational project demonstrating how to use the newline escape sequence (`\n`) to output multiple lines of text using a single output command, adhering to code conventions.
 - [Task 123 Java Path Escaping Demo V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_123_V0.1) — A simple educational project illustrating how to handle backslashes in Java strings. Backslashes are special characters used for escaping, so to print a literal backslash, it must be escaped with another backslash.
 ---
 
