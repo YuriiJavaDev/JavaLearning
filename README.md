@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## String formatting.
+- [Task 127 User Dossier Formatter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_127_V0.1) — An educational project demonstrating the power of `String.format()` for creating uniform and readable data strings in Java. This approach is essential for administrative panels and reporting systems.
+---
+
 ## Character escaping.
 - [Task 126 Unicode Emoji Output V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_126_V0.1) — This project demonstrates how to output special characters and emojis using their exact Unicode sequences (`\uXXXX`). This ensures consistent rendering across different environments and systems.
 - [Task 125 Formatted Slogan Output V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_125_V0.1) — An educational project focused on complex string formatting using escape sequences. It demonstrates how to include double quotes within a string and how to use tabs for visual alignment.
