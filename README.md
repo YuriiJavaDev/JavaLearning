@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## String formatting.
+- [Task 128 User Dossier Formatter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_128_V0.1) — An educational project focused on the precision of financial data display. It demonstrates how to use Java's formatting tools to round and display floating-point numbers with exactly two decimal places.
 - [Task 127 User Dossier Formatter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_127_V0.1) — An educational project demonstrating the power of `String.format()` for creating uniform and readable data strings in Java. This approach is essential for administrative panels and reporting systems.
 ---
 
