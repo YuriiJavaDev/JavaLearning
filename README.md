@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## String comparison: equals, equalsIgnoreCase, compareTo.
+- [Task 139 Registration Validator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_139_V0.1) — This project simulates a registration validation system. It demonstrates how to verify if two email addresses are identical regardless of casing and how to check if a specific domain or keyword exists within a registration message.
 - [Task 138 Lexicographical String Comparator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_138_V0.1) — An educational project that explores how Java compares strings alphabetically (lexicographically). By using the `compareTo()` method, we can determine the relative order of strings, which is essential for sorting algorithms and data organization.
 - [Task 137 Case-Insensitive Comparison V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_137_V0.1) — An educational project demonstrating how to identify file types and extensions by analyzing string prefixes and suffixes. This technique is commonly used in file management systems and data processing pipelines.
 - [Task 136 Case-Insensitive Comparison V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_136_V0.1) — A fundamental educational project demonstrating how to compare two strings in Java while ignoring their case (uppercase vs. lowercase). This is essential for creating user-friendly interfaces where "Admin" and "admin" should be treated as the same identity.
