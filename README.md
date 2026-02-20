@@ -4,7 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Wrapper types in Java.
-- [Task 143 Player Score Converter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_143_V0.1) — An educational project focused on parsing numerical data from strings. This is a common task when handling user input or reading data from text files where numeric values are initially represented as text.
+- [Task 144 Player Score Converter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_144_V0.1) — An educational project focused on parsing numerical data from strings. This is a common task when handling user input or reading data from text files where numeric values are initially represented as text.
 ---
 
 ## StringBuilder and StringBuffer.
