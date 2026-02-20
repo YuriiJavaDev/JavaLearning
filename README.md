@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## StringBuilder and StringBuffer.
+- [Task 142 Cryptographic Text Reverser V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_142_V0.1) — An educational project demonstrating the power of the `StringBuilder.reverse()` method. This tool is essential for tasks requiring character order inversion, such as palindrome checking or simple cryptographic decoding.
 - [Task 141 Precision Text Inserter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_141_V0.1) — This project focuses on the mutable nature of `StringBuilder`, specifically utilizing the `insert()` method. This technique allows for adding content at any specific index within a string buffer, which is highly efficient for dynamic text generation like personalized chat-bot greetings.
 - [Task 140 Dynamic String Builder V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_140_V0.1) — An educational project focused on efficient string manipulation using the `StringBuilder` class. This approach is highly optimized for scenarios where strings are built incrementally, preventing unnecessary memory allocation.
 ---
