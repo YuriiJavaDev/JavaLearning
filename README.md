@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## StringBuilder and StringBuffer.
+- [Task 140 Dynamic String Builder V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_140_V0.1) — An educational project focused on efficient string manipulation using the `StringBuilder` class. This approach is highly optimized for scenarios where strings are built incrementally, preventing unnecessary memory allocation.
+---
+
 ## String comparison: equals, equalsIgnoreCase, compareTo.
 - [Task 139 Registration Validator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_139_V0.1) — This project simulates a registration validation system. It demonstrates how to verify if two email addresses are identical regardless of casing and how to check if a specific domain or keyword exists within a registration message.
 - [Task 138 Lexicographical String Comparator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_138_V0.1) — An educational project that explores how Java compares strings alphabetically (lexicographically). By using the `compareTo()` method, we can determine the relative order of strings, which is essential for sorting algorithms and data organization.
