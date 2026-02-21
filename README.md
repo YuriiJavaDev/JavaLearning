@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Type inference and constants in Java.
+- [Task 149 Constants in Java V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_149_V0.1) — This project demonstrates how to define immutable values in Java using the `final` modifier. By declaring a variable as `final`, we ensure that its value remains constant throughout the execution of the program, which is critical for system-wide parameters like calendar rules.
 - [Task 148 Local Variable Type Inference V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_148_V0.1) — This project explores the `var` keyword introduced in Java 10. While it allows the compiler to infer the data type based on the assigned value, its use is a subject of debate regarding code clarity and long-term maintenance.
 ---
 
