@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Introduction to Exception Handling.
+- [Task 164 Galactic Energy Divider V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_164_V0.1) — This project explores Java's behavior when encountering illegal mathematical operations. Specifically, it demonstrates what happens when an integer is divided by zero. This is a crucial lesson in exception handling and defensive programming for any Java developer.
+---
+
 ## Advanced Switch Expressions.
 - [Task 163 Student Grading System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_163_V0.1) — This project showcases the advanced capabilities of **Switch Expressions** introduced in Java 14. Specifically, it demonstrates how to group multiple constants within a single `case` label using a comma-separated list. This approach significantly simplifies the logic when several inputs should result in the same output.
 - [Task 162 Modern Task Planner V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_162_V0.1) — This project demonstrates the transition from legacy `switch` statements to modern **Switch Expressions**. By using the arrow syntax, we reduce boilerplate code and ensure that each case returns a value directly to a variable, which is a key pattern in functional-style Java programming.
