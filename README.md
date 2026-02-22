@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Advanced Switch Expressions.
+- [Task 162 Modern Task Planner V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_162_V0.1) — This project demonstrates the transition from legacy `switch` statements to modern **Switch Expressions**. By using the arrow syntax, we reduce boilerplate code and ensure that each case returns a value directly to a variable, which is a key pattern in functional-style Java programming.
 - [Task 161 Drone Control System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_161_V0.1) — This project demonstrates the use of **Switch Expressions** with `String` objects. It simulates a drone's command processing unit where incoming text commands are mapped to specific operational statuses. The modern arrow (`->`) syntax is used to ensure code conciseness and safety.
 - [Task 160 HTTP Response Handler V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_160_V0.1) — This project demonstrates the use of the modern **Switch Expression** (introduced in Java 14). Unlike the traditional switch statement, the expression form is more concise, eliminates the risk of "fall-through" bugs by removing the need for `break`, and allows for direct variable assignment.
 ---
