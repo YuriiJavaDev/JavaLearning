@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Introduction to Exception Handling.
+- [Task 165 Gem Collector Inventory V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_165_V0.1) — This project explores how Java manages memory and array boundaries. In many programming languages, accessing an index outside an array's range might return garbage data, but Java's strict type safety and runtime checks prevent this by throwing a specific exception.
 - [Task 164 Galactic Energy Divider V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_164_V0.1) — This project explores Java's behavior when encountering illegal mathematical operations. Specifically, it demonstrates what happens when an integer is divided by zero. This is a crucial lesson in exception handling and defensive programming for any Java developer.
 ---
 
