@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Classic Switch: Syntax and Examples.
+- [Task 153 Robot Control Interface V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_153_V0.1) — This project demonstrates the application of the `switch` statement for string comparisons. It simulates a basic command-line interface for a robot, where specific text inputs trigger corresponding actions, showcasing how to handle multiple logical branches efficiently.
 - [Task 152 Office Day Navigator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_152_V0.1) — This project demonstrates the use of the `switch` statement in Java. It serves as an efficient alternative to multiple `if-else-if` conditions when dealing with a single variable that can take several discrete values. The application maps numeric input to the corresponding day of the week.
 ---
 
