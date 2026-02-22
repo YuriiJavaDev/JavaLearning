@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Enumeration: enum.
+- [Task 156 Traffic Signal State Model V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_156_V0.1) — This project demonstrates the use of Java `enum` to model a real-world system: a traffic light. Enums provide a type-safe way to represent a fixed set of constants, making the code more readable and preventing invalid values from being assigned to state variables.
+---
+
 ## Classic Switch: Syntax and Examples.
 - [Task 155 Smartwatch Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_155_V0.1) — This project implements a lightweight calculator designed for a smartwatch interface. It processes two integer inputs and a mathematical operator, demonstrating how to use the `switch` statement with the `char` data type to branch logic based on symbols.
 - [Task 154 Seasonal Activity Planner V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_154_V0.1) — This project demonstrates how to group multiple `case` statements in a `switch` block to execute the same logic for different inputs. The application identifies the season based on a numeric month input (1-12), showcasing efficient multi-condition handling.
