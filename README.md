@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Advanced Switch Expressions.
+- [Task 161 Drone Control System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_161_V0.1) — This project demonstrates the use of **Switch Expressions** with `String` objects. It simulates a drone's command processing unit where incoming text commands are mapped to specific operational statuses. The modern arrow (`->`) syntax is used to ensure code conciseness and safety.
 - [Task 160 HTTP Response Handler V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_160_V0.1) — This project demonstrates the use of the modern **Switch Expression** (introduced in Java 14). Unlike the traditional switch statement, the expression form is more concise, eliminates the risk of "fall-through" bugs by removing the need for `break`, and allows for direct variable assignment.
 ---
 
