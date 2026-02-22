@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Advanced Switch Expressions.
+- [Task 160 HTTP Response Handler V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_160_V0.1) — This project demonstrates the use of the modern **Switch Expression** (introduced in Java 14). Unlike the traditional switch statement, the expression form is more concise, eliminates the risk of "fall-through" bugs by removing the need for `break`, and allows for direct variable assignment.
+---
+
 ## Enumeration: enum.
 - [Task 159 Celestial Navigation System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_159_V0.1) — This project simulates a spacecraft navigation module. It demonstrates the use of built-in Java `enum` methods to handle constant data. We explore how to retrieve the string name of a constant, its position (index) in the declaration list, and how to dynamically convert a string back into an enum constant.
 - [Task 158 Weekday Iterator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_158_V0.1) — This project demonstrates how to retrieve and iterate through all constants defined in a Java `enum`. By using the built-in `values()` method, we can programmatically access the entire set of days in a week, which is a fundamental requirement for building task schedulers and calendar applications.
