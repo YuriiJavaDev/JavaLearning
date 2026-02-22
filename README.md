@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Enumeration: enum.
+- [Task 157 Seasonal Message Generator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_157_V0.1) — This project demonstrates the synergy between Java `enum` types and the `switch` statement. By using an enum as the switch selector, we create a highly readable and type-safe branching logic that delivers personalized messages based on the current season.
 - [Task 156 Traffic Signal State Model V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_156_V0.1) — This project demonstrates the use of Java `enum` to model a real-world system: a traffic light. Enums provide a type-safe way to represent a fixed set of constants, making the code more readable and preventing invalid values from being assigned to state variables.
 ---
 
