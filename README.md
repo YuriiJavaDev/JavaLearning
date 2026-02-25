@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Stack Trace.
+- [Task 180  Culinary Proportion Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_180_V0.1) — This project is designed to help developers understand the Java **Stack Trace**. By intentionally causing a division by zero error, we simulate a critical bug in a culinary calculation module. The goal is to identify the exception type and the exact line of code responsible for the crash by analyzing the console output.
+---
+
 ## Throws exceptions.
 - [Task 179  Gold Amount Converter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_179_V0.1) — This project demonstrates the propagation and handling of `NumberFormatException`. It simulates an RPG game where a player's string input is converted into a numeric gold amount. The utility method delegates the error handling to the caller, ensuring that invalid text input does not crash the game.
 - [Task 178 Data Extraction Utility V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_178_V0.1) — This project demonstrates the propagation of multiple related exceptions using the `throws` keyword. It simulates a data pipeline component that reads the first line of a file, delegating both `FileNotFoundException` and `IOException` handling to the calling environment.
