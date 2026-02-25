@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## finally and throw: finalizing and throwing exceptions.
+- [Task 172 Cleaning Robot Manager V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_172_V0.1) — This project demonstrates the usage of the `finally` block in Java. In software development, certain actions (like closing a database connection or sending a final status report) must occur regardless of whether an error occurred. This simulation uses a cleaning robot to show how the `finally` block guarantees execution of completion messages.
+---
+
 ## Try-catch syntax.
 - [Task 171 Mission Control System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_171_V0.1) — This project demonstrates the resilience of a Java application when facing critical runtime errors. In a mission-critical system, an error like division by zero should not halt the entire process. By using a `try-catch` block, we ensure that the exception is handled gracefully, allowing the program to proceed to its final logical conclusion.
 - [Task 170 Team Score Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_170_V0.1) — This project focuses on retrieving detailed exception information in Java. When a system error results in an empty player list (`numberOfPlayers = 0`), dividing the total score by zero triggers an `ArithmeticException`. Instead of a generic message, this task demonstrates how to use the `e.getMessage()` method to obtain the exact technical reason for the failure as defined by the Java Virtual Machine.
