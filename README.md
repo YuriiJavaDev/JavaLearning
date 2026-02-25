@@ -3,7 +3,7 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
-## Introduction to Exception Handling.
+## Try-catch syntax.
 - [Task 168 Smart Robot Explorer V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_168_V0.1) — This project demonstrates how to handle one of the most common runtime exception in Java: the `ArithmeticException`. It occurs when the application attempts to divide an integer by zero. This simulation helps understand how `try-catch` blocks ensure the reliability of software in unpredictable environments, such as a robot with failing sensors.
 ---
 
