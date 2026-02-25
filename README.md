@@ -3,7 +3,7 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
-## finally and throw: finalizing and throwing exceptions.
+## The finally `block` and the `throw` statement: Termination and exception throwing.
 - [Task 172 Cleaning Robot Manager V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_172_V0.1) — This project demonstrates the usage of the `finally` block in Java. In software development, certain actions (like closing a database connection or sending a final status report) must occur regardless of whether an error occurred. This simulation uses a cleaning robot to show how the `finally` block guarantees execution of completion messages.
 ---
 
