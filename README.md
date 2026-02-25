@@ -4,6 +4,10 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Introduction to Exception Handling.
+- [Task 168 Smart Robot Explorer V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_168_V0.1) — This project demonstrates how to handle one of the most common runtime exception in Java: the `ArithmeticException`. It occurs when the application attempts to divide an integer by zero. This simulation helps understand how `try-catch` blocks ensure the reliability of software in unpredictable environments, such as a robot with failing sensors.
+---
+
+## Introduction to Exception Handling.
 - [Task 167 Secret Agent Database V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_167_V0.1) — This project demonstrates one of the most common runtime errors in Java: the `NullPointerException`. It occurs when the application attempts to use an object reference that has not been initialized (contains `null`). This simulation helps understand why null-checks are essential in production code.
 - [Task 166 Registration Input Validator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_166_V0.1) — This project simulates a common data-entry error where a user provides non-numeric text in a field expected to contain an integer (e.g., age). It focuses on Java's response to invalid format conversion through the `Integer.parseInt()` method.
 - [Task 165 Gem Collector Inventory V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_165_V0.1) — This project explores how Java manages memory and array boundaries. In many programming languages, accessing an index outside an array's range might return garbage data, but Java's strict type safety and runtime checks prevent this by throwing a specific exception.
