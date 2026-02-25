@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Stack Trace.
+- [Task 181  Inventory Debugger V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_181_V0.1) — This project focuses on identifying and analyzing memory-related errors in Java. By attempting to access a non-existent array index (index 5 in a 3-slot array), we trigger an `ArrayIndexOutOfBoundsException`. The goal is to study the Stack Trace to find the specific line number where the boundary violation occurred.
 - [Task 180  Culinary Proportion Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_180_V0.1) — This project is designed to help developers understand the Java **Stack Trace**. By intentionally causing a division by zero error, we simulate a critical bug in a culinary calculation module. The goal is to identify the exception type and the exact line of code responsible for the crash by analyzing the console output.
 ---
 
