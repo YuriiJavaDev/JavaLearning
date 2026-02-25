@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Throws exceptions.
+- [Task 176 Secret Document Access V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_176_V0.1) — This project demonstrates the use of the `throws` keyword in Java to delegate exception handling. Instead of catching a `FileNotFoundException` locally, the method declares it in its signature, passing the responsibility of error management to the calling method.
+---
+
 ## The finally `block` and the `throw` statement: Termination and exception throwing.
 - [Task 175 User Registration Validator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_175_V0.1) — This project demonstrates the combined use of manual exception throwing and the `finally` block. It simulates a user registration system where the username must not be empty. The `finally` block is used to ensure that the validation status is reported regardless of whether the registration was successful or failed due to an exception.
 - [Task 174 Critical Resource Manager V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_174_V0.1) — This project illustrates the behavior of the `finally` block when an exception occurs but is not caught by a `catch` block. It proves that the Java Virtual Machine guarantees the execution of the `finally` block before the program terminates due to a fatal error, which is essential for resource cleanup.
