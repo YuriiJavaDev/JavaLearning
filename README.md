@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## The finally `block` and the `throw` statement: Termination and exception throwing.
+- [Task 173 Game Score Validator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_173_V0.1) — This project demonstrates how to manually throw exceptions in Java using the `throw` keyword. It ensures that game scores remain positive by triggering an `IllegalArgumentException` when an invalid value is processed.
 - [Task 172 Cleaning Robot Manager V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_172_V0.1) — This project demonstrates the usage of the `finally` block in Java. In software development, certain actions (like closing a database connection or sending a final status report) must occur regardless of whether an error occurred. This simulation uses a cleaning robot to show how the `finally` block guarantees execution of completion messages.
 ---
 
