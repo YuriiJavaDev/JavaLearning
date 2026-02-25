@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Throws exceptions.
+- [Task 177 System Log Analyzer V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_177_V0.1) — This project demonstrates the handling of `IOException` during file operations in Java. It simulates a log analysis utility that delegates the responsibility of handling input/output errors to the caller using the `throws` keyword.
 - [Task 176 Secret Document Access V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_176_V0.1) — This project demonstrates the use of the `throws` keyword in Java to delegate exception handling. Instead of catching a `FileNotFoundException` locally, the method declares it in its signature, passing the responsibility of error management to the calling method.
 ---
 
