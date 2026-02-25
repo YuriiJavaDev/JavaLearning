@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Try-catch syntax.
+- [Task 169 RPG Inventory System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_169_V0.1) — This project demonstrates the `ArrayIndexOutOfBoundsException` in Java. It simulates an RPG inventory where a player attempts to access an item slot that does not exist. This helps in understanding how to handle errors when working with fixed-size data structures like arrays.
 - [Task 168 Smart Robot Explorer V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_168_V0.1) — This project demonstrates how to handle one of the most common runtime exception in Java: the `ArithmeticException`. It occurs when the application attempts to divide an integer by zero. This simulation helps understand how `try-catch` blocks ensure the reliability of software in unpredictable environments, such as a robot with failing sensors.
 ---
 
