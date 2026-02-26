@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## "Infinite array" - ArrayList<T> and its methods.
+- [Task 184  Digital Artifact Archive V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_184_V0.1) — This project introduces the use of dynamic lists in Java. Unlike standard arrays, dynamic lists can grow in size as needed. In this simulation, we manage a digital archive where new artifact identifiers are stored and retrieved using the `ArrayList` collection.
+---
+
 ## Stack Trace.
 - [Task 183  Deep Call Trace Debugger V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_183_V0.1) — This project simulates a multi-layered system architecture where requests pass through several processing stages. By intentionally triggering an `ArrayIndexOutOfBoundsException` at the deepest level of the call stack, we practice tracing the program's execution flow from the entry point (`main`) to the specific failure point.
 - [Task 182  Report System Detective V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_182_V0.1) — This project demonstrates how to trace an error through multiple layers of method calls. By creating a chain of methods (`main` -> `calculateReportData` -> `processRawNumbers`), we simulate a complex system where a low-level mathematical error causes the entire application to crash. The focus is on reading the Stack Trace to understand the path the program took before the failure.
