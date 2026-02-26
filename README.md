@@ -3,11 +3,15 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## "Your dictionary" — HashMap<K,V> and its methods.
+- [Task 188 Pocket Travel Translator List V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_188_V0.1) — This project introduces the `HashMap` collection in Java. Unlike lists that use numeric indexes, a `HashMap` allows storing data pairs where a unique "key" is mapped to a specific "value". This simulation demonstrates the basic operations of a travel phrasebook: storing a translation and retrieving it using the original word.
+---
+
 ## "Infinite array" - ArrayList<T> and its methods.
-- [Task 187  Interactive Task Assistant List V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_187_V0.1) — This project simulates an interactive assistant that records user tasks until an empty input is received. It demonstrates how to dynamically populate an `ArrayList` using the `Scanner` class and how to iterate through a collection in reverse order (LIFO - Last In, First Out logic).
-- [Task 186  Exclusive Club Guest List V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_186_V0.1) — This project demonstrates how to check for the existence of an element within a dynamic list. Using a guest list scenario, it showcases the efficiency of the `contains()` method in `ArrayList`, which returns a boolean value based on whether the specified object is present in the collection.
-- [Task 185  Chef's Ingredient Manager V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_185_V0.1) — This project simulates a chef managing a dynamic list of ingredients. It demonstrates essential `ArrayList` operations such as replacing an existing element, removing elements by index, and iterating through the collection to display its contents.
-- [Task 184  Digital Artifact Archive V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_184_V0.1) — This project introduces the use of dynamic lists in Java. Unlike standard arrays, dynamic lists can grow in size as needed. In this simulation, we manage a digital archive where new artifact identifiers are stored and retrieved using the `ArrayList` collection.
+- [Task 187 Interactive Task Assistant List V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_187_V0.1) — This project simulates an interactive assistant that records user tasks until an empty input is received. It demonstrates how to dynamically populate an `ArrayList` using the `Scanner` class and how to iterate through a collection in reverse order (LIFO - Last In, First Out logic).
+- [Task 186 Exclusive Club Guest List V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_186_V0.1) — This project demonstrates how to check for the existence of an element within a dynamic list. Using a guest list scenario, it showcases the efficiency of the `contains()` method in `ArrayList`, which returns a boolean value based on whether the specified object is present in the collection.
+- [Task 185 Chef's Ingredient Manager V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_185_V0.1) — This project simulates a chef managing a dynamic list of ingredients. It demonstrates essential `ArrayList` operations such as replacing an existing element, removing elements by index, and iterating through the collection to display its contents.
+- [Task 184 Digital Artifact Archive V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_184_V0.1) — This project introduces the use of dynamic lists in Java. Unlike standard arrays, dynamic lists can grow in size as needed. In this simulation, we manage a digital archive where new artifact identifiers are stored and retrieved using the `ArrayList` collection.
 ---
 
 ## Stack Trace.
