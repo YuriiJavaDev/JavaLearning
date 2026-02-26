@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## "Your dictionary" — HashMap<K,V> and its methods.
+- [Task 189 Digital Gradebook List V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_189_V0.1) — This project simulates a teacher's digital gradebook. It demonstrates how to use the `containsKey()` method in a `HashMap` to verify if a specific entry exists before attempting to retrieve and process its value. This approach prevents potential null pointer issues and ensures data integrity.
 - [Task 188 Pocket Travel Translator List V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_188_V0.1) — This project introduces the `HashMap` collection in Java. Unlike lists that use numeric indexes, a `HashMap` allows storing data pairs where a unique "key" is mapped to a specific "value". This simulation demonstrates the basic operations of a travel phrasebook: storing a translation and retrieving it using the original word.
 ---
 
