@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Getting to know files and images.
+- [Task 192 Digital Diary Note V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_192_V0.1) — This project demonstrates the modern way to interact with the file system in Java using the `java.nio.file` package. The goal is to create a text file named `note.txt` and write a specific inspirational string to it. This approach is more robust and efficient than the legacy `java.io.File` methods.
+---
+
 ## "Your dictionary" — HashMap<K,V> and its methods.
 - [Task 191 Word Frequency Analyst V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_191_V0.1) — This project focuses on basic text analysis using the `HashMap` collection. It demonstrates how to parse a string into individual words and count their occurrences. This algorithm is the foundation for search engines and data processing tools where frequency analysis is required.
 - [Task 190 User Registry Manager V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_190_V0.1) — This project demonstrates how to manage a simple user database using `HashMap`. It specifically focuses on the `remove()` method, which is essential for deleting data based on a unique key. The program confirms successful deletion by attempting to retrieve the removed record and verifying it returns `null`.
