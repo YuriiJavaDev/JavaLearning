@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Getting to know files and images.
+- [Task 195 File Backup Utility V0.2](https://github.com/YuriiJavaDev/JavaBasics_Task_195_V0.2) — This project demonstrates the process of creating a file backup. It involves reading the raw byte content of an existing binary file and writing that exact data into a new destination file. This ensures a 1:1 replica of the original data using modern Java 11+ syntax.
 - [Task 195 File Backup Utility V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_195_V0.1) — This project demonstrates the process of creating a file backup. It involves reading the raw byte content of an existing binary file and writing that exact data into a new destination file. This ensures a 1:1 replica of the original data.
 - [Task 194 Binary Message Encryptor V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_194_V0.1) — This project demonstrates how to work with binary data in Java. Instead of writing plain text, we manipulate raw bytes (ASCII values) and store them in a `.bin` file. This is a fundamental step in understanding encryption, image processing, and network protocols.
 - [Task 193 Digital Diary Reader V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_193_V0.1) — This project focuses on the retrieval aspect of file management. It demonstrates how to use the `java.nio.file` package to read the contents of an existing text file. This is a critical skill for any application that needs to load settings, user data, or saved logs.
