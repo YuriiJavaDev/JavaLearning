@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Getting to know files and images.
+- [Task 193 Digital Diary Reader V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_193_V0.1) — This project focuses on the retrieval aspect of file management. It demonstrates how to use the `java.nio.file` package to read the contents of an existing text file. This is a critical skill for any application that needs to load settings, user data, or saved logs.
 - [Task 192 Digital Diary Note V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_192_V0.1) — This project demonstrates the modern way to interact with the file system in Java using the `java.nio.file` package. The goal is to create a text file named `note.txt` and write a specific inspirational string to it. This approach is more robust and efficient than the legacy `java.io.File` methods.
 ---
 
