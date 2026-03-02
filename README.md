@@ -4,6 +4,10 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Getting to know files and images.
+- [Task 196 Image Downloader Module V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_196_V0.1) — This project demonstrates how to download binary content (an image) from a remote web server using Java's networking capabilities. It combines the `java.net.URL` class for establishing a connection with the `java.nio.file.Files` utility for streamlined file saving.
+---
+
+## Getting to know files and images.
 - [Task 195 File Backup Utility V0.2](https://github.com/YuriiJavaDev/JavaBasics_Task_195_V0.2) — This project demonstrates the process of creating a file backup. It involves reading the raw byte content of an existing binary file and writing that exact data into a new destination file. This ensures a 1:1 replica of the original data using modern Java 11+ syntax.
 - [Task 195 File Backup Utility V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_195_V0.1) — This project demonstrates the process of creating a file backup. It involves reading the raw byte content of an existing binary file and writing that exact data into a new destination file. This ensures a 1:1 replica of the original data.
 - [Task 194 Binary Message Encryptor V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_194_V0.1) — This project demonstrates how to work with binary data in Java. Instead of writing plain text, we manipulate raw bytes (ASCII values) and store them in a `.bin` file. This is a fundamental step in understanding encryption, image processing, and network protocols.
