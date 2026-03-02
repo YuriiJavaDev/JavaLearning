@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Downloading images from the Internet.
+- [Task 197 Streamlined Image Downloader V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_197_V0.1) — This project demonstrates the most modern and efficient way to transfer data between streams in Java. By using the `transferTo()` method, we can pipe data from a network `InputStream` directly into a file `OutputStream` without manual buffer management or intermediate byte arrays.
 - [Task 196 Image Downloader Module V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_196_V0.1) — This project demonstrates how to download binary content (an image) from a remote web server using Java's networking capabilities. It combines the `java.net.URL` class for establishing a connection with the `java.nio.file.Files` utility for streamlined file saving.
 ---
 
