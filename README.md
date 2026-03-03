@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Learning to work with APIs and monitoring the ISS.
+- [Task 200 Weather API Integrator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_200_V0.1) — This project demonstrates how to interact with a real-world REST API to fetch weather data. It focuses on sending a GET request to the Open-Meteo service and retrieving the response as a raw JSON string. This is a foundational step for any application that consumes web services.
+---
+
 ## Downloading images from the Internet.
 - [Task 199 Image Metadata Downloader V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_199_V0.1) — This project focuses on retrieving and processing HTTP response headers. It demonstrates how to use the `java.net.http.HttpClient` to extract metadata such as `Content-Type` and `Content-Length` before saving the actual binary content. This is essential for building smart downloaders that need to validate file types and sizes.
 - [Task 198 Smart Image Downloader V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_198_V0.1) — This project demonstrates a robust approach to web resource retrieval using the `java.net.http.HttpClient` API. Unlike simpler methods, this implementation includes error handling by validating the HTTP response status code before attempting to save data to the local disk.
