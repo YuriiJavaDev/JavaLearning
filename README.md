@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Learning to work with APIs and monitoring the ISS.
+- [Task 201 ISS API Health Checker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_201_V0.1) — In space monitoring systems, verifying API availability is a critical task. This project implements a lightweight "ping" logic to check the International Space Station (ISS) location service. By using an optimized response handler, we extract only the HTTP status code without consuming bandwidth for the response body.
 - [Task 200 Weather API Integrator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_200_V0.1) — This project demonstrates how to interact with a real-world REST API to fetch weather data. It focuses on sending a GET request to the Open-Meteo service and retrieving the response as a raw JSON string. This is a foundational step for any application that consumes web services.
 ---
 
