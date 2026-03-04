@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## LocalDate, LocalTime, LocalDateTime.
+- [Task 210 Secretary's Scheduler: Meeting Comparison V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_210_V0.1) — This project implements a fundamental scheduling logic for time-sensitive applications. It compares two specific time objects—a morning meeting and an afternoon presentation—to verify their chronological sequence. By utilizing the modern Java Time API, the application ensures that the earlier event is correctly identified and displayed to the user.
 - [Task 209 Astrology App: Birth Day Finder V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_209_V0.1) — This project focuses on extracting chronological properties from a specific date. By initializing a `LocalDate` object for a given birth date (March 25, 1969), the application retrieves the corresponding day of the week. This is a fundamental feature for applications providing astrological insights, historical context, or scheduling.
 - [Task 208 Clockmaster: Time Components V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_208_V0.1) — This project demonstrates how to deconstruct a time object into its fundamental components. Using the `LocalTime` class, the application captures the current system time and extracts specific integer values for hours, minutes, and seconds. This granular control is essential for building custom clocks, timers, and scheduling logic.
 ---
