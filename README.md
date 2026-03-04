@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## LocalDate, LocalTime, LocalDateTime.
+- [Task 208 Clockmaster: Time Components V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_208_V0.1) — This project demonstrates how to deconstruct a time object into its fundamental components. Using the `LocalTime` class, the application captures the current system time and extracts specific integer values for hours, minutes, and seconds. This granular control is essential for building custom clocks, timers, and scheduling logic.
+---
+
 ## Overview of the java.time API, differences from older APIs.
 - [Task 207 Historical Event Logger V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_207_V0.1) — This project demonstrates how to initialize a specific point in time using the Java Time API. Unlike retrieving the current system time, this task focus on creating an immutable `LocalDateTime` instance for a pre-defined historical moment (February 24, 2022, at 04:00 AM). This is essential for applications managing logs, archives, or schedules.
 - [Task 206 Futuristic Event Planner: Tomorrow V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_206_V0.1) — This project focuses on forward-looking date manipulation within the Java Time API. It demonstrates how to accurately calculate the next calendar day based on the current system time. This functionality is a fundamental building block for scheduling systems, reminders, and future-oriented applications.
