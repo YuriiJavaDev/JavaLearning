@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Overview of the java.time API, differences from older APIs.
+- [Task 204 Digital Calendar: Date Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_204_V0.1) — This project marks the beginning of a digital calendar module. Its primary function is to retrieve the current date from the local system and display it to the user. This is achieved using the `LocalDate` class from the modern `java.time` package, which provides a clean and thread-safe way to handle date information.
+---
+
 ## Learning to work with APIs and monitoring the ISS.
 - [Task 203 ISS Tracker: Manual JSON Parser V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_203_V0.1) — This project focuses on extracting specific data from a JSON response without using third-party parsing libraries. By sending a request to the ISS Current Location API, the application retrieves a raw JSON string and manually identifies the positions of coordinates using `String` methods. This exercise strengthens foundational knowledge of text processing in Java.
 - [Task 202 Cat Fact Generator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_202_V0.1) — This project implements a simple client for the "CatFact Ninja" API. It demonstrates how to fetch random, dynamic data from a public REST API and display the raw JSON response. Each execution provides a new interesting fact about cats, making it a perfect starting point for entertainment-based applications.
