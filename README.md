@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Overview of the java.time API, differences from older APIs.
+- [Task 206 Futuristic Event Planner: Tomorrow V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_206_V0.1) — This project focuses on forward-looking date manipulation within the Java Time API. It demonstrates how to accurately calculate the next calendar day based on the current system time. This functionality is a fundamental building block for scheduling systems, reminders, and future-oriented applications.
 - [Task 205 Historical Date Tracker: Yesterday V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_205_V0.1) — This project focuses on date manipulation within the Java Time API. It demonstrates how to perform basic date arithmetic by moving the current system date one step into the past. This functionality is a core requirement for applications dealing with historical records, logs, or daily reports.
 - [Task 204 Digital Calendar: Date Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_204_V0.1) — This project marks the beginning of a digital calendar module. Its primary function is to retrieve the current date from the local system and display it to the user. This is achieved using the `LocalDate` class from the modern `java.time` package, which provides a clean and thread-safe way to handle date information.
 ---
