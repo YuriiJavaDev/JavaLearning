@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## ZonedDateTime, Instant, working with time zones.
+- [Task 212 Global Command Center: Timezone Display V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_212_V0.1) — This project simulates a global time monitoring system. It utilizes the `ZonedDateTime` class to capture the current instant in three specific geographical regions: Minsk, New York, and Tokyo. This ensures that operators in the Command Center are aware of the precise local time in strategic locations across different continents.
+---
+
 ## LocalDate, LocalTime, LocalDateTime.
 - [Task 211 Secret Operation: Time Adjustment V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_211_V0.1) — In mission planning, precision is paramount. This project demonstrates how to adjust a pre-defined point in time using the Java Time API. Starting with an initial briefing timestamp, the application applies sequential modifications—adding hours and subtracting minutes—to calculate the final operational start time.
 - [Task 210 Secretary's Scheduler: Meeting Comparison V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_210_V0.1) — This project implements a fundamental scheduling logic for time-sensitive applications. It compares two specific time objects—a morning meeting and an afternoon presentation—to verify their chronological sequence. By utilizing the modern Java Time API, the application ensures that the earlier event is correctly identified and displayed to the user.
