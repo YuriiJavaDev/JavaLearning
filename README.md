@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## ZonedDateTime, Instant, working with time zones.
+- [Task 213 International Conference: Zoned Start Time V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_213_V0.1) — When organizing international events, local time is insufficient for global coordination. This project demonstrates how to anchor a floating `LocalDateTime` to a specific geographical region. By applying the "Europe/Minsk" timezone to a scheduled conference start, we create a precise `ZonedDateTime` that can be accurately translated across all global regions.
 - [Task 212 Global Command Center: Timezone Display V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_212_V0.1) — This project simulates a global time monitoring system. It utilizes the `ZonedDateTime` class to capture the current instant in three specific geographical regions: Minsk, New York, and Tokyo. This ensures that operators in the Command Center are aware of the precise local time in strategic locations across different continents.
 ---
 
