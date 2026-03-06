@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Calculations and comparison of dates. Duration, Period.
+- [Task 220 Holiday Countdown: Date Arithmetic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_220_V0.1) — Planning for future events requires precise calendar calculations. This project demonstrates how to project a future date starting from the current system time. By utilizing the built-in arithmetic methods of the `LocalDate` class, the application calculates exactly which day will occur 10 days from today, serving as the starting point for a holiday countdown.
+---
+
 ## Date Formatting and Parsing: DateTimeFormatter.
 - [Task 219 Order Management: Custom Timestamp Parsing V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_219_V0.1) — In real-world applications, timestamps are frequently received in non-standard formats. This project demonstrates how to parse a complex string containing both date and time ("01.06.2025 14:30") into a functional `LocalDateTime` object. By defining a specific pattern that matches the input string, the application can accurately extract chronological data for order tracking and processing.
 - [Task 218 Organizer App: Localized Date Display V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_218_V0.1) — User experience is highly dependent on how data is presented. This project demonstrates how to move away from technical ISO standards toward user-friendly date formats. By using a custom pattern string, the application transforms a `LocalDate` object into a human-readable string that follows common European and regional date conventions (Day.Month.Year).
