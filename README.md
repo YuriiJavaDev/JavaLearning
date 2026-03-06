@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Date Formatting and Parsing: DateTimeFormatter.
+- [Task 218 Organizer App: Localized Date Display V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_218_V0.1) — User experience is highly dependent on how data is presented. This project demonstrates how to move away from technical ISO standards toward user-friendly date formats. By using a custom pattern string, the application transforms a `LocalDate` object into a human-readable string that follows common European and regional date conventions (Day.Month.Year).
 - [Task 217 Data Ingestion: ISO Date Parsing V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_217_V0.1) — In many real-world scenarios, dates are received as plain text strings. This project demonstrates how to "rehydrate" such strings into rich `LocalDate` objects. By using the `parse()` method combined with the `ISO_LOCAL_DATE` formatter, we transform a static piece of text into an object capable of date arithmetic, comparison, and validation.
 - [Task 216 Daily Report System: ISO Formatting V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_216_V0.1) — Uniformity in data presentation is critical for enterprise reporting systems. This project demonstrates how to transform a `LocalDate` object into a standardized string format using `DateTimeFormatter`. By utilizing the pre-defined `ISO_LOCAL_DATE` constant, the application ensures that every report generated adheres to the international ISO-8601 standard (YYYY-MM-DD).
 ---
