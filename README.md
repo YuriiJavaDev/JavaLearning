@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Date Formatting and Parsing: DateTimeFormatter.
+- [Task 216 Daily Report System: ISO Formatting V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_216_V0.1) — Uniformity in data presentation is critical for enterprise reporting systems. This project demonstrates how to transform a `LocalDate` object into a standardized string format using `DateTimeFormatter`. By utilizing the pre-defined `ISO_LOCAL_DATE` constant, the application ensures that every report generated adheres to the international ISO-8601 standard (YYYY-MM-DD).
+---
+
 ## ZonedDateTime, Instant, working with time zones.
 - [Task 215 Universal Chronicle: Absolute Time Tracking V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_215_V0.1) — This project demonstrates the workflow of a professional global logging system. It focuses on the transition between zoned time and absolute time (Instant). By converting a specific event in Kyiv to a universal instant and then back to Tokyo time, the application showcases how a single moment remains synchronized regardless of regional timezone rules.
 - [Task 214 Global Teleportation: Timezone Synchronization V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_214_V0.1) — This project simulates a high-precision synchronization task for a global teleportation system. It demonstrates how to take a specific event scheduled in one timezone (Minsk) and calculate exactly what time it will be in another part of the world (New York) at that very same moment. This ensures all participants, regardless of their location, are synchronized to the same absolute instant.
