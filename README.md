@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## The concept of class and object.
+- [Task 224 Virtual Pets: Dog Blueprint V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_224_V0.1) — Object-Oriented Programming (OOP) begins with defining structures. This project marks the first step in creating a virtual pet system by declaring a `Dog` class. This class acts as a template or "blueprint" that defines what a dog is in our digital world. While currently empty, it serves as the foundational container for future attributes (like name or breed) and behaviors (like barking or running).
+---
+
 ## Calculations and comparison of dates. Duration, Period.
 - [Task 223 Real Estate: Building Age Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_223_V0.1) — Calculating the age of an asset is a common requirement in commercial applications. This project demonstrates how to use the `java.time.Period` class to determine the exact duration between two dates. Unlike simple day counting, the `Period` class provides a multi-unit breakdown, allowing the system to report age in human-readable terms: years, months, and days.
 - [Task 222 Project Manager: Deadline Countdown V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_222_V0.1) — In project management, tracking the remaining time until a milestone is critical for resource allocation. This project demonstrates how to calculate the distance between two `LocalDate` objects. By using the `ChronoUnit` utility, the application determines exactly how many days are left from the current system date to a predefined project deadline (May 15, 2027).
