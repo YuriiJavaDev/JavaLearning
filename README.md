@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Calculations and comparison of dates. Duration, Period.
+- [Task 221 Time Machine: Date Comparison V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_221_V0.1) — In timeline-sensitive applications, it is crucial to determine if a specific event has already occurred or is still in the future. This project simulates a simple time machine check. It compares a historical or future milestone (January 1, 2025) against the current system date to provide a status update on the timeline.
 - [Task 220 Holiday Countdown: Date Arithmetic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_220_V0.1) — Planning for future events requires precise calendar calculations. This project demonstrates how to project a future date starting from the current system time. By utilizing the built-in arithmetic methods of the `LocalDate` class, the application calculates exactly which day will occur 10 days from today, serving as the starting point for a holiday countdown.
 ---
 
