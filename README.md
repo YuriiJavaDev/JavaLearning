@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## The concept of class and object.
+- [Task 226 Digital Library: Book Template V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_226_V0.1) — In this project, we move beyond simple object creation to defining **object behavior**. We model a `Book` as a digital entity that not only stores data (title and pages) but also possesses the ability to describe itself through a dedicated method. This encapsulates both the state and the functionality within a single class structure.
 - [Task 225 Virtual Pets: Materializing a Cat V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_225_V0.1) — An object-oriented program consists of classes and objects. While a class is just a template, an object is a specific "living" instance of that template. This project demonstrates how to declare a `Cat` class and then "summon" it into existence within the `main` method. This process allocates memory for the cat, allowing us to interact with it via the reference variable `myCat`.
 - [Task 224 Virtual Pets: Dog Blueprint V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_224_V0.1) — Object-Oriented Programming (OOP) begins with defining structures. This project marks the first step in creating a virtual pet system by declaring a `Dog` class. This class acts as a template or "blueprint" that defines what a dog is in our digital world. While currently empty, it serves as the foundational container for future attributes (like name or breed) and behaviors (like barking or running).
 ---
