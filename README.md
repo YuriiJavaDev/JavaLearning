@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Class structure: fields, methods, constructors.
+- [Task 228 Virtual Showroom: Car Inventory V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_228_V0.1) — In a professional automotive system, objects must be self-describing. This project models a `Car` entity that encapsulates both its specifications (brand and production year) and its presentation logic. By moving the display logic into the `Car` class itself, we ensure that every vehicle "knows" how to present its details to a potential customer, maintaining high cohesion within the object.
+---
+
 ## The concept of class and object.
 - [Task 227 University Admin: Student Registration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_227_V0.1) — In a multi-user system, a single class must support many independent objects. This project demonstrates how to use the `Student` blueprint to register two distinct individuals. By creating separate instances for "Hana" and "Greg," we illustrate how Java manages unique data for each object in the heap memory, ensuring that updating one student's information does not affect the other.
 - [Task 226 Digital Library: Book Template V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_226_V0.1) — In this project, we move beyond simple object creation to defining **object behavior**. We model a `Book` as a digital entity that not only stores data (title and pages) but also possesses the ability to describe itself through a dedicated method. This encapsulates both the state and the functionality within a single class structure.
