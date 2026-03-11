@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Creating objects with new.
+- [Task 232 Virtual Pets: The Birth of Barsik V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_232_V0.1) — The transition from a class (blueprint) to an object (instance) is the core of Java programming. This project demonstrates the "lifecycle" of a virtual pet. We declare a `Cat` template, allocate memory using the `new` keyword, and then manually define its unique characteristics: "Barsik", aged 3. This process, known as object instantiation, creates a concrete entity in the JVM's Heap memory.
+---
+
 ## Class structure: fields, methods, constructors.
 - [Task 231 Digital Bank: Flexible Account Management V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_231_V0.1) — Modern banking systems require flexibility during customer onboarding. This project demonstrates **Constructor Overloading**, allowing a `BankAccount` to be initialized in multiple ways: with a starting balance or as an empty account. Additionally, it implements dynamic state updates through a parameterized `deposit` method, ensuring that the account balance accurately reflects financial transactions.
 - [Task 230 Game Mechanics: Digital Counter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_230_V0.1) — In gaming and interactive systems, tracking state changes (like score, clicks, or coins) is a fundamental task. This project implements a `Counter` object that maintains an internal state which changes over time. By calling the `increment()` method, the application modifies the object's data, demonstrating how objects encapsulate both their current status and the logic to transform that status.
