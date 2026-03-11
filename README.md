@@ -3,7 +3,7 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
-## Creating objects with new.
+## Creating objects with object creation operator - new.
 - [Task 232 Virtual Pets: The Birth of Barsik V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_232_V0.1) — The transition from a class (blueprint) to an object (instance) is the core of Java programming. This project demonstrates the "lifecycle" of a virtual pet. We declare a `Cat` template, allocate memory using the `new` keyword, and then manually define its unique characteristics: "Barsik", aged 3. This process, known as object instantiation, creates a concrete entity in the JVM's Heap memory.
 ---
 
