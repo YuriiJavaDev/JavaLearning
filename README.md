@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Creating objects with object creation operator - new.
+- [Task 233 Digital Shelter: Instant Registration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_233_V0.1) — In a professional system, objects should not exist in an invalid state. This project models a digital dog shelter where every `Dog` is registered using a constructor. This ensures that the dog's name and age are assigned exactly at the moment of "arrival" (instantiation), preventing the creation of empty or anonymous records.
 - [Task 232 Virtual Pets: The Birth of Barsik V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_232_V0.1) — The transition from a class (blueprint) to an object (instance) is the core of Java programming. This project demonstrates the "lifecycle" of a virtual pet. We declare a `Cat` template, allocate memory using the `new` keyword, and then manually define its unique characteristics: "Barsik", aged 3. This process, known as object instantiation, creates a concrete entity in the JVM's Heap memory.
 ---
 
