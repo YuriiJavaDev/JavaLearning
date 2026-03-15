@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Constructor overloading.
+- [Task 236 Publishing House: Flexible Book Registration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_236_V0.1) — In the publishing industry, data arrives in stages. This project models a `Book` entity that can be registered even if its physical properties (like page count) are not yet finalized. By using **Constructor Overloading**, the system provides two entry points for data: one for early-stage titles and another for completed manuscripts. This approach ensures that every book in the database is properly initialized, maintaining a high level of data consistency.
+---
+
 ## Creating objects with object creation operator - new.
 - [Task 235 Digital Library: Flexible Book Records V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_235_V0.1) — A robust library system must handle books even when their full details are not yet known. This project demonstrates **Constructor Overloading** in Java. We provide two ways to instantiate a `Book` object: one that uses default placeholder values ("Без названия", 0) and another that accepts specific data upon creation. This ensures every book object in our system is consistently initialized, avoiding null pointers or uninitialized states.
 - [Task 234 Virtual Showroom: Independent Objects V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_234_V0.1) — The power of OOP lies in the ability to create multiple instances from a single blueprint. This project demonstrates object independence. We define a `Car` class and then create two separate objects: a 2020 Toyota and a 2010 BMW. Each object maintains its own memory space, proving that while they share the same structure, their data remains distinct and isolated.
