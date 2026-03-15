@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Constructor overloading.
+- [Task 237 Online Service: User Profile Initialization V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_237_V0.1) — In modern web services, user onboarding must be seamless. This project models a `User` entity with flexible registration paths. By using **Constructor Overloading**, we handle two common scenarios: anonymous "quick" registration and basic "named" registration. The system ensures that even without user input, every profile is initialized with safe default values ("Unknown" and age 0), maintaining data consistency across the platform.
 - [Task 236 Publishing House: Flexible Book Registration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_236_V0.1) — In the publishing industry, data arrives in stages. This project models a `Book` entity that can be registered even if its physical properties (like page count) are not yet finalized. By using **Constructor Overloading**, the system provides two entry points for data: one for early-stage titles and another for completed manuscripts. This approach ensures that every book in the database is properly initialized, maintaining a high level of data consistency.
 ---
 
