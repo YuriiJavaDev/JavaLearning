@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Access modifiers.
+- [Task 248 Digital Business Cards: Basic Encapsulation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_248_V0.1) — A business card is a record of identity that shouldn't be altered by third parties. This project models this concept using **Encapsulation**. By declaring the `userName` field as `private` and only providing a `public` getter, we create a secure object. The only way to set the name is at the moment of the object's creation via a constructor, making the card "read-only" for the rest of its lifecycle in the program.
+---
+
 ## Principles of encapsulation and why it is needed.
 - [Task 247 Warehouse Inventory: Immutable Identity V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_247_V0.1) — In data-sensitive systems, some attributes must remain constant throughout an object's life. This project demonstrates the creation of **Read-Only Objects**. By combining `private` fields with a parameterized constructor and providing only **Getters**, we create a "locked" entity. Once a `Product` is instantiated, its `productID` and `productName` are set forever, mimicking a physical non-erasable tag on a warehouse item.
 - [Task 246 Exclusive Club: The Smart Setter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_246_V0.1) — Raw data access is dangerous. This project demonstrates the ultimate goal of **Encapsulation**: protecting the object's state from invalid data. By implementing **Setters with Validation**, we ensure that a `Person` can never have a negative age. The object now possesses "self-awareness" and "self-protection" logic, rejecting incorrect inputs and maintaining data integrity throughout its lifecycle.
