@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Principles of encapsulation and why it is needed.
+- [Task 244 Exclusive Club: The Walls of Encapsulation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_244_V0.1) — Data integrity is the foundation of secure software. This project introduces the **private** access modifier, the first step towards **Encapsulation**. By marking the `memberName` and `memberAge` fields as private, we hide the internal state of the `Person` object from the outside world. This exercise demonstrates that even if an object exists, its "private" parts are inaccessible to other classes, ensuring that the object has full control over its data.
+---
+
 ## Object Initialization: Initialization Order.
 - [Task 243 Admission Process: Grade Tracking V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_243_V0.1) — The object lifecycle in Java is not an instantaneous event but a sequence of steps. This project explores **Sequential Instance Initialization**. By using multiple initialization blocks, we simulate a multi-stage review process for a student's grade. We observe how Java executes these blocks in the order they appear in the source code, allowing us to track the transformation of state from the initial field assignment to the final object preparation.
 - [Task 242 Factory Automation: Initialization Sensors V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_242_V0.1) — In advanced manufacturing, sensors must trigger as soon as a process begins. This project demonstrates **Instance Initialization Blocks** in Java. These blocks run every time an instance of the class is created, execution-wise placed between field initialization and the constructor. We use this mechanism to simulate a factory notification system that alerts the operator the moment a new `Car` object starts its "assembly" in memory.
