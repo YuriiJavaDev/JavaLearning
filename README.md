@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Object Initialization: Initialization Order.
+- [Task 241 Publishing House: Explicit Initialization V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_241_V0.1) — In professional software, relying on system defaults like `null` or `0` can lead to errors. This project demonstrates **Explicit Field Initialization**. By assigning values directly at the point of declaration, we ensure that every `Book` object starts its lifecycle with valid, domain-specific data ("Untitled" and 100 pages). This provides a fallback mechanism that guarantees object consistency even when a default constructor is used.
 - [Task 240 Virtual Zoo: Default Characteristics V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_240_V0.1) — What happens when an object is created without specific instructions? This project explores **Default Field Initialization** in Java. When we instantiate the `Animal` class without a constructor or manual assignment, Java automatically assigns "safe" values: `0` for numeric primitives (`int`) and `null` for object references (`String`). Understanding these defaults is crucial for avoiding `NullPointerException` and ensuring predictable program behavior.
 ---
 
