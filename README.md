@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Object Initialization: Initialization Order.
+- [Task 240 Virtual Zoo: Default Characteristics V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_240_V0.1) — What happens when an object is created without specific instructions? This project explores **Default Field Initialization** in Java. When we instantiate the `Animal` class without a constructor or manual assignment, Java automatically assigns "safe" values: `0` for numeric primitives (`int`) and `null` for object references (`String`). Understanding these defaults is crucial for avoiding `NullPointerException` and ensuring predictable program behavior.
+---
+
 ## Constructor overloading.
 - [Task 239 Student Admission: Ultimate Flexibility V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_239_V0.1) — An educational system must be resilient to incomplete data. This project implements a high-flexibility `Student` model using **4-level Constructor Chaining**. Whether a student provides full dossiers or just a name, the system uses the `this()` keyword to delegate initialization logic up the chain. This architectural pattern eliminates code duplication and ensures that default values ("Unknown", 0) are applied consistently across all entry points.
 - [Task 238 Car Factory: Smart Assembly Line V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_238_V0.1) — In industrial software design, DRY (Don't Repeat Yourself) is a critical principle. This project demonstrates **Constructor Chaining** in Java. By using the `this()` keyword, we link multiple constructors together. The "simple" constructors delegate their work to more "complex" ones, passing default values along the chain. This ensures that the core initialization logic resides in a single location, making the code robust and easy to maintain.
