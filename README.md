@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Access modifiers.
+- [Task 249 Magic Calculator: Method Encapsulation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_249_V0.1) — Encapsulation applies to actions just as much as it does to data. This project explores **Private Methods**. While the `addNumbers` method is public and serves as the calculator's interface, the `displayInternalResult` method is a "hidden" helper. By making it private, we prevent other parts of the program from triggering internal logging or display mechanisms directly, ensuring that the class maintains strict control over its internal processes.
 - [Task 248 Digital Business Cards: Basic Encapsulation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_248_V0.1) — A business card is a record of identity that shouldn't be altered by third parties. This project models this concept using **Encapsulation**. By declaring the `userName` field as `private` and only providing a `public` getter, we create a secure object. The only way to set the name is at the moment of the object's creation via a constructor, making the card "read-only" for the rest of its lifecycle in the program.
 ---
 
