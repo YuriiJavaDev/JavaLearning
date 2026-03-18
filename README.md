@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Getters and Setters: Syntax and Best Practices.
+- [Task 253 Student Records: Dynamic Age Management V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_253_V0.1) — In educational management systems, student data like age must be both initialized and periodically updated. This project demonstrates the complete **Encapsulation Cycle**. By using a private field `studentAge`, we prevent direct external tampering. Access is strictly mediated through a **Parameterized Constructor** for birth-state, a **Getter** for reading, and a **Setter** for updates. This ensures the object remains the "single source of truth" for its own data.
 - [Task 252 Warehouse System: State Mutation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_252_V0.1) — In dynamic inventory systems, data must be updatable. This project demonstrates **State Mutation** using the **Setter Pattern**. While the `productName` field remains `private` to prevent unauthorized external access, we provide a `public setProductName()` method. This controlled entry point allows the application to modify the object's state safely, maintaining a clear interface between the object's internal data and the external business logic.
 ---
 
