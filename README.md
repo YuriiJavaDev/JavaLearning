@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Initialization of static and final fields.
+- [Task 256 Application Metrics: Static State V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_256_V0.1) — In software architecture, some data belongs to the system as a whole rather than individual users or objects. This project introduces the **`static` keyword**. By declaring `activeUserCount` as a static field, we ensure that it is shared across the entire application. This variable exists independently of any object instances, allowing us to access and manage global metrics directly through the class name.
+---
+
 ## Getters and Setters: Syntax and Best Practices.
 - [Task 255 School Records: Data Integrity Guard V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_255_V0.1) — Ensuring that a system contains valid data is a core responsibility of an object. This project demonstrates **Defensive Programming** through encapsulation. By making the `currentAge` field private and providing a "Smart Setter", we prevent the student's age from ever becoming negative. The object acts as a gatekeeper, rejecting invalid inputs and providing feedback while maintaining its internal consistency.
 - [Task 254 Smart Home: Boolean State Management V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_254_V0.1) — In IoT and Smart Home systems, binary states (on/off, true/false) are fundamental. This project demonstrates **Boolean Encapsulation**. A key takeaway here is the Java naming convention: while numeric types use `get`, boolean fields use the `is` prefix for their getters. By encapsulating the `isCurrentlyOn` field, we provide a clean interface for the `SmartLamp` object, allowing the system to toggle and query its status securely.
