@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Getters and Setters: Syntax and Best Practices.
+- [Task 252 Warehouse System: State Mutation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_252_V0.1) — In dynamic inventory systems, data must be updatable. This project demonstrates **State Mutation** using the **Setter Pattern**. While the `productName` field remains `private` to prevent unauthorized external access, we provide a `public setProductName()` method. This controlled entry point allows the application to modify the object's state safely, maintaining a clear interface between the object's internal data and the external business logic.
+---
+
 ## Access modifiers.
 - [Task 251 Digital Library Manager: Access Control Matrix V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_251_V0.1) — Security and modularity in Java are managed through access modifiers. This project simulates a library management system where different operations require different clearance levels. By implementing four methods with distinct modifiers, we visualize the accessibility hierarchy. The project demonstrates that while most operations are available to classes within the same package, strictly private tasks remain locked within the managing class itself.
 - [Task 250 Module Internal Collaboration: Package-Private Access V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_250_V0.1) — In modular programming, certain functionalities should be shared among related classes but hidden from the rest of the application. This project explores **Package-Private (Default) Access**. By omitting access modifiers, we allow `ModuleMain` to interact with `ModuleHelper`'s internal methods because they reside in the same package (`com.yurii.pavlenko`). This level of encapsulation creates a "trusted zone" where classes can collaborate without exposing their internal machinery to external packages.
