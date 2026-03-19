@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Initialization blocks.
+- [Task 261 Pet Shelter: Instance Initialization Lifecycle V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_261_V0.1) — When creating objects in Java, there is a specific sequence of events. This project demonstrates the **Non-Static Initialization Block**. Unlike static blocks (which run once per class), non-static blocks run every time a new instance is created. Crucially, they execute after the parent constructor (if any) but **before** the current class's constructor logic. This is useful for shared initialization logic that must run regardless of which constructor is called.
 - [Task 260 Module Initialization: Static Lifecycle V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_260_V0.1) — In large-scale applications, some operations must occur exactly once when a component is first introduced to the system. This project explores the **Static Initialization Block**. Unlike constructors, which run every time an object is created, the static block runs only once — when the Java Virtual Machine (JVM) loads the class into memory. This mechanism ensures that the global state, such as `moduleStatusMessage`, is prepared before any instance-level logic begins.
 ---
 
