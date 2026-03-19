@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Initialization of static and final fields.
+- [Task 257 Student Identity Card: Data Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_257_V0.1) — In security-sensitive systems, certain information must remain constant throughout the object's lifecycle. This project demonstrates **Immutability** using the `final` keyword in Java. By declaring the `studentName` field as `final`, we ensure that once the value is assigned in the constructor, it cannot be modified by any other part of the program. This pattern provides a high level of thread safety and data integrity.
 - [Task 256 Application Metrics: Static State V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_256_V0.1) — In software architecture, some data belongs to the system as a whole rather than individual users or objects. This project introduces the **`static` keyword**. By declaring `activeUserCount` as a static field, we ensure that it is shared across the entire application. This variable exists independently of any object instances, allowing us to access and manage global metrics directly through the class name.
 ---
 
