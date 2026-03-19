@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Initialization blocks.
+- [Task 260 Module Initialization: Static Lifecycle V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_260_V0.1) — In large-scale applications, some operations must occur exactly once when a component is first introduced to the system. This project explores the **Static Initialization Block**. Unlike constructors, which run every time an object is created, the static block runs only once — when the Java Virtual Machine (JVM) loads the class into memory. This mechanism ensures that the global state, such as `moduleStatusMessage`, is prepared before any instance-level logic begins.
+---
+
 ## Initialization of static and final fields.
 - [Task 259 Global Constants: Static Immutable Storage V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_259_V0.1) — In application development, certain values like mathematical PI or the number of days in a year remain constant throughout the entire execution. This project demonstrates the creation of a **Utility Class** for global constants. By combining `public`, `static`, and `final` modifiers, we make these values globally accessible, shared across the JVM, and protected from any modification.
 - [Task 258 Application Configuration: Static Initialization V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_258_V0.1) — Global constants often depend on the environment where the application is running. This project demonstrates how to use a **static initialization block** to calculate the value of a `public static final` field. By querying the system environment variable `APP_LANG`, the application dynamically chooses its default language at startup. This approach ensures that configuration remains immutable once set, while still being flexible enough to adapt to different system environments.
