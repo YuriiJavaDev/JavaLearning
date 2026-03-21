@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Inner classes (non-static inner).
+- [Task 264 Warehouse Automation: Inner Classes V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_264_V0.1) — In object-oriented design, some entities are so closely related that one cannot exist without the other. This project demonstrates the use of **Non-static Inner Classes** in Java. By nesting the `Label` class inside the `Box` class, we create a strong logical bond. An instance of `Label` is always tied to a specific instance of `Box`, reflecting real-world scenarios where a label is a physical part of a specific package.
+---
+
 ## Initialization blocks.
 - [Task 263 User Profile: Shared Instance Initialization V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_263_V0.1) — In systems with multiple ways to create an object (overloaded constructors), maintaining consistent initial state can be challenging. This project demonstrates how a **non-static initialization block** serves as a common entry point for all constructors. Regardless of whether a user chooses "Fast Registration" or "Full Profile," the system automatically assigns a default identifier before the specific constructor logic executes. This pattern promotes the "Don't Repeat Yourself" (DRY) principle and ensures mandatory setup tasks are never skipped.
 - [Task 262 System Component: Full Initialization Audit V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_262_V0.1) — This project demonstrates the **Execution Hierarchy** within a Java class. It tracks the exact sequence of static initialization blocks (class-level) and instance initialization blocks (object-level) relative to the constructor. Understanding this order is vital for managing global state and ensuring that object-specific data is correctly prepared before the constructor finishes execution.
