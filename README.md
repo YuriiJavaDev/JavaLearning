@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Anonymous classes.
+- [Task 272 Magical Farm: Anonymous Inner Classes V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_272_V0.1) — In software development, we often encounter situations where we need to modify the behavior of a single object without creating a whole new class hierarchy. This project demonstrates **Anonymous Inner Classes**. We take a base class `MagicalCreature` and override its `makeSound()` method during instantiation. This approach is highly efficient for "one-off" logic, keeping the codebase clean and localized.
+---
+
 ## Static nested classes.
 - [Task 271 Book Publishing: Builder Pattern V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_271_V0.1) — Constructing complex objects with multiple optional or required fields often leads to "telescoping constructors," which are hard to maintain. This project demonstrates the **Builder Pattern** implemented via a **Static Nested Class**. The `Builder` allows for step-by-step configuration of a `Book` object using a fluent API (method chaining). The final object is instantiated only when the `build()` method is called, ensuring that the `Book` remains immutable once created.
 - [Task 270 Artifact Chain: Linked Structures V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_270_V0.1) — In low-level programming and algorithm design, linked structures are essential for dynamic data management. This project demonstrates how to build a simple **Linked List** using a **Static Nested Class** (`Link`). By making the `Link` class static and private, we encapsulate the internal mechanics of the chain, ensuring that the outside world only interacts with the `ArtifactChain` while the nodes themselves remain lightweight and independent of the parent object's instance state.
