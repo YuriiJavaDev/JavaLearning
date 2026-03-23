@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Static nested classes.
+- [Task 268 Wizard Toolkit: Static Nested Classes V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_268_V0.1) — In large systems, some components are logically related to a parent entity but do not require its state to function. This project demonstrates **Static Nested Classes** in Java. By declaring `BasicCharm` as `static` within `Spellbook`, we decouple the two. This allows the instantiation of `BasicCharm` without creating a `Spellbook` object, saving memory and simplifying the architecture when instance-specific data is not required.
+---
+
 ## Inner classes (non-static inner).
 - [Task 267 Smart Home: Hierarchical Data Access V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_267_V0.1) — In nested object structures, an inner class often needs to reference the state of its parent instance. This project demonstrates the use of a **Non-static Inner Class** (`Room`) within an outer class (`House`). It highlights the `Outer.this` syntax, which allows the inner class to explicitly access the outer class's private fields. This is essential for distinguishing between local instance data and the broader context provided by the parent object.
 - [Task 266 Magic Library: Inner Class Composition V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_266_V0.1) — In software modeling, some objects are logically and physically inseparable from their parent container. This project demonstrates **Inner Class Composition** using a Library and its Scrolls. The `Scroll` class is nested within `Library` to show that a scroll's existence is defined by the library it belongs to. This structure allows the inner class to maintain its own state (`scrollTitle`) while remaining part of the outer class's domain.
