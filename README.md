@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Static nested classes.
+- [Task 269 Security Vault: Static Member Access V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_269_V0.1) — In secure system design, certain global parameters must be hidden from the outside world but accessible to internal monitoring modules. This project demonstrates how a **Static Nested Class** (`SecurityDisplayUnit`) can access a `private static` field (`securityLevel`) of its outer class (`Vault`). This pattern allows for clean logical grouping of utility or display components that depend on the global state of the parent class without requiring an instance of that parent.
 - [Task 268 Wizard Toolkit: Static Nested Classes V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_268_V0.1) — In large systems, some components are logically related to a parent entity but do not require its state to function. This project demonstrates **Static Nested Classes** in Java. By declaring `BasicCharm` as `static` within `Spellbook`, we decouple the two. This allows the instantiation of `BasicCharm` without creating a `Spellbook` object, saving memory and simplifying the architecture when instance-specific data is not required.
 ---
 
