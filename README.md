@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Anonymous classes.
+- [Task 273 Universal Translator: Interface Implementation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_273_V0.1) — In intergalactic travel and software engineering, speed is often essential. This project demonstrates how to use an **Anonymous Inner Class** to implement an interface (`Communicator`) without declaring a formal named class. This technique allows for the immediate creation of functional objects that adhere to a specific contract, providing a "Hello World!" greeting for any life form encountered.
 - [Task 272 Magical Farm: Anonymous Inner Classes V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_272_V0.1) — In software development, we often encounter situations where we need to modify the behavior of a single object without creating a whole new class hierarchy. This project demonstrates **Anonymous Inner Classes**. We take a base class `MagicalCreature` and override its `makeSound()` method during instantiation. This approach is highly efficient for "one-off" logic, keeping the codebase clean and localized.
 ---
 
