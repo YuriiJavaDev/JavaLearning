@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Local classes: declaration inside methods.
+- [Task 276 Interactive Board: Local Class Scope V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_276_V0.1) — In advanced software design, encapsulation is key. Sometimes a helper class is so specific to a single operation that it shouldn't exist anywhere else. This project demonstrates **Local Classes** in Java. By defining `GreetingDisplay` inside the `showTemporaryMessage` method, we ensure that the class remains private to that specific logic block. This prevents namespace pollution and guarantees that the temporary message logic cannot be misused by other parts of the system.
+---
+
 ## Anonymous classes.
 - [Task 275 Secret Laboratory: Private Data Access V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_275_V0.1) — In secure software architectures, it is often necessary to encapsulate sensitive data while providing a strictly controlled mechanism for its retrieval. This project illustrates how an **Anonymous Inner Class** can access `private` instance fields of its **Outer Class**. By implementing the `Runnable` interface inside the `revealSecret` method, we create a temporary access bridge to the `classifiedSecret` field, demonstrating the deep integration between nested implementations and their parent contexts.
 - [Task 274 Production Line: Runnable Anonymous Implementation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_274_V0.1) — In industrial automation systems, certain tasks are executed once during a specific lifecycle event. This project demonstrates using an **Anonymous Inner Class** to implement the standard Java `Runnable` interface. By defining the logic directly within the `startCountOperation` method, we create a specialized, short-lived task. While this approach is functionally correct, it serves as a stepping stone toward understanding more modern functional programming patterns in Java.
