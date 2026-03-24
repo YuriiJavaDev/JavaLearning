@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Local classes: declaration inside methods.
+- [Task 277 Secret Keeper: Local Class Member Access V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_277_V0.1) — In secure application development, strictly controlling access to sensitive data is paramount. This project demonstrates how a **Local Class** (`TruthRevealer`) can be used as a temporary agent to access and display a `private` field (`hiddenSecret`) of its outer class (`SecretKeeper`). By defining the class within the `revealSecret` method, we create a specialized tool that exists only for the duration of the method's execution, maintaining high levels of encapsulation while performing necessary data operations.
 - [Task 276 Interactive Board: Local Class Scope V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_276_V0.1) — In advanced software design, encapsulation is key. Sometimes a helper class is so specific to a single operation that it shouldn't exist anywhere else. This project demonstrates **Local Classes** in Java. By defining `GreetingDisplay` inside the `showTemporaryMessage` method, we ensure that the class remains private to that specific logic block. This prevents namespace pollution and guarantees that the temporary message logic cannot be misused by other parts of the system.
 ---
 
