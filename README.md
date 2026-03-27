@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Introduction to generics.
+- [Task 280 Universal Storage: The Object Root V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_280_V0.1) — In the Java type system, every class implicitly inherits from `java.lang.Object`. This project demonstrates a **Universal Container** pattern. By using a field of type `Object`, the `StorageBox` class can store any data type (Strings, Integers, or custom objects). This highlights both the flexibility of the Java class hierarchy and the limitations of losing specific type information, which is a foundational concept before exploring Polymorphism and Generics.
+---
+
 ## Local classes: declaration inside methods.
 - [Task 279 Text Analyzer: Local Class State V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_279_V0.1) — In data processing applications, we often need temporary objects to hold intermediate results and provide specific formatting. This project demonstrates a **Local Class** (`NameStatistics`) with its own internal fields and multiple methods. By defining this class inside the `generateNameReport` method, we create a specialized reporting tool that encapsulates string transformation logic (uppercase conversion and length calculation) without exposing these temporary operations to the global scope of `TextAnalyzer`.
 - [Task 278 Special Calculator: Method Parameter Access V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_278_V0.1) — In high-precision or specialized computing modules, certain operations require temporary data structures that exist only during a specific calculation. This project demonstrates **Local Classes** accessing method-level parameters. By defining `SumResultPrinter` inside the `calculateAndDisplaySum` method, we create a specialized unit that can directly utilize the input arguments `numA` and `numB`. This pattern ensures that the logic for displaying the result is tightly coupled with the calculation itself and hidden from the rest of the application.
