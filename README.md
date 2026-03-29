@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Introduction to generics.
+- [Task 281 Smart Container: Introduction to Generics V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_281_V0.1) — Generic types are a powerful feature in Java that allows classes and methods to operate on objects of various types while providing compile-time type safety. This project evolves the previous "Universal Storage" into a **SmartBox**. By using the placeholder `<T>`, we define a container that locks into a specific type upon instantiation. This eliminates the need for manual type casting and prevents `ClassCastException` at runtime, which is a core principle in modern Java development and framework design (like Spring Data JPA).
 - [Task 280 Universal Storage: The Object Root V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_280_V0.1) — In the Java type system, every class implicitly inherits from `java.lang.Object`. This project demonstrates a **Universal Container** pattern. By using a field of type `Object`, the `StorageBox` class can store any data type (Strings, Integers, or custom objects). This highlights both the flexibility of the Java class hierarchy and the limitations of losing specific type information, which is a foundational concept before exploring Polymorphism and Generics.
 ---
 
