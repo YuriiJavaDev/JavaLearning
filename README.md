@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## The concept of inheritance, the extends syntax.
+- [Task 284 Virtual Pets: Basic Inheritance V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_284_V0.1) — In Object-Oriented Programming, **Inheritance** allows a new class to acquire the properties and behaviors of an existing class. This project demonstrates this core concept by creating a base class `Animal` and a specialized subclass `Cat`. The `Cat` class automatically receives the `petName` field and the `eat()` method from `Animal`, proving the power of code reuse. Additionally, the subclass introduces its own specific behavior, `meow()`, illustrating how hierarchies evolve from general to specific.
+---
+
 ## Introduction to generics.
 - [Task 283 Developer Utilities: Generic Methods V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_283_V0.1) — In large-scale systems, utility classes often provide helper functions that must remain agnostic of the data types they process. This project demonstrates **Generic Static Methods**. By declaring the type parameter `<T>` before the return type of a method, we enable the `printTwice` function to accept any reference type. This approach eliminates the need for method overloading (writing separate versions for `String`, `Integer`, etc.), significantly reducing code duplication and adhering to the **DRY (Don't Repeat Yourself)** principle.
 - [Task 282 Universal Pair: Multi-Field Generics V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_282_V0.1) — In data processing, we often work with coupled information, such as coordinates, key-value pairs, or ranges. This project demonstrates a **Generic Pair** pattern using the `DataPair<T>` class. By utilizing the same type parameter `T` for both fields, the class enforces a strict relationship: both elements in the pair must belong to the same type. This further solidifies the concept of compile-time type safety and shows how generic types integrate with class constructors.
