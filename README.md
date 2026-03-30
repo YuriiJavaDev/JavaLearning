@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Method override, @Override annotation.
+- [Task 288 Drawing App: Method Overriding V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_288_V0.1) — In sophisticated graphical systems, different objects must respond to the same command in unique ways. This project demonstrates **Method Overriding**, where the `Circle` subclass provides its own specific implementation of the `draw()` method originally defined in the `Shape` superclass. This is the foundation of **Runtime Polymorphism**: the ability of the Java Virtual Machine (JVM) to call the correct version of a method based on the actual object type, even if it's treated as its parent type.
+---
+
 ## The concept of inheritance, the extends syntax.
 - [Task 287 Fruit Shop: Hierarchical Inheritance V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_287_V0.1) — In cataloging systems, objects are grouped by shared characteristics. This project demonstrates **Hierarchical Inheritance** by establishing a base `Fruit` class. Both `Apple` and `Banana` subclasses inherit the `fruitColor` field and the `printColor()` method. This design allows for a unified way to handle different fruit types while maintaining the flexibility to add unique properties to specific fruits in the future without duplicating the core logic of the superclass.
 - [Task 286 Fleet Management: Vehicle Inheritance V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_286_V0.1) — In logistics and enterprise systems, objects often share common attributes and behaviors. This project demonstrates **Inheritance** by modeling a vehicle fleet. The `Vehicle` superclass defines the general state (`vehicleModel`) and behavior (`start()`), while the `Car` subclass inherits these properties. This architecture ensures that any new type of transport added to the system (e.g., `Truck` or `Motorcycle`) will automatically possess the ability to store a model name and start its engine without redundant code.
