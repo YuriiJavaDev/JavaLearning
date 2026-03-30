@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## The concept of inheritance, the extends syntax.
+- [Task 285 Virtual Pets: Multiple Subclasses V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_285_V0.1) — The power of **Inheritance** lies in its ability to create a scalable architecture. This project builds upon the virtual pet world by introducing a `Dog` class that inherits from the same `Animal` base class as the previous `Cat` implementation. This demonstrates **Hierarchical Inheritance**, where multiple subclasses share a single superclass. Both dogs and cats can sleep, but only dogs can bark, illustrating how specific behaviors are encapsulated within their respective subclasses while sharing common traits.
 - [Task 284 Virtual Pets: Basic Inheritance V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_284_V0.1) — In Object-Oriented Programming, **Inheritance** allows a new class to acquire the properties and behaviors of an existing class. This project demonstrates this core concept by creating a base class `Animal` and a specialized subclass `Cat`. The `Cat` class automatically receives the `petName` field and the `eat()` method from `Animal`, proving the power of code reuse. Additionally, the subclass introduces its own specific behavior, `meow()`, illustrating how hierarchies evolve from general to specific.
 ---
 
