@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Using super: Calling the base class constructor and methods.
+- [Task 292 Animal Simulator: The 'super' Keyword V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_292_V0.1) — In advanced inheritance scenarios, a subclass often needs to extend the behavior of its superclass rather than completely replacing it. This project demonstrates the use of the `super` keyword within an overridden method. By calling `super.makeSound()`, the `Dog` class triggers the original logic defined in `Animal` before executing its own specific "barking" code. This ensures consistency across the hierarchy and follows the principle of incremental refinement.
+---
+
 ## Method override, @Override annotation.
 - [Task 291 Covariant Return Types: Fruit Harvest V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_291_V0.1) — In Java, **Covariant Return Types** allow an overriding method to return a subtype of the type returned by the original method in the superclass. This project illustrates this using a "Basket" hierarchy. While a generic `Basket` provides a generic `Fruit`, a specialized `AppleBasket` is guaranteed to provide an `Apple`. This feature reduces the need for explicit type casting and makes the API of specialized classes much more intuitive and type-safe.
 - [Task 290 Family Greetings: Dynamic Polymorphism V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_290_V0.1) — This project demonstrates one of the most powerful features of Java: **Dynamic Polymorphism**. By declaring a variable of type `Parent` and assigning it an instance of `Child`, we show how the Java Virtual Machine (JVM) determines which method to execute at runtime. Even though the reference is generic (`Parent`), the actual behavior is specific to the object (`Child`). This "late binding" allows developers to write flexible code that can handle new subclasses without changing the existing logic.
