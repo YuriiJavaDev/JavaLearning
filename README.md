@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Using super: Calling the base class constructor and methods.
+- [Task 293 Vehicle Factory: Constructor Chaining V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_293_V0.1) — In robust object-oriented systems, objects are built layer by layer. This project demonstrates **Constructor Chaining** using the `super()` keyword. When a `Car` is instantiated, it must first satisfy the requirements of its parent `Vehicle`. By passing the brand name to the super-constructor, we ensure that the foundational state of the object is established before the subclass adds its specific details (the manufacturing year). This reflects the architectural principle that a specialized entity is always a valid instance of its more general form.
 - [Task 292 Animal Simulator: The 'super' Keyword V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_292_V0.1) — In advanced inheritance scenarios, a subclass often needs to extend the behavior of its superclass rather than completely replacing it. This project demonstrates the use of the `super` keyword within an overridden method. By calling `super.makeSound()`, the `Dog` class triggers the original logic defined in `Animal` before executing its own specific "barking" code. This ensures consistency across the hierarchy and follows the principle of incremental refinement.
 ---
 
