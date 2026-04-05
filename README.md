@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Creating a class hierarchy: real-life examples.
+- [Task 296 Virtual Pet: Inheritance Fundamentals V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_296_V0.1) — The core of Object-Oriented Programming is the ability to build specific objects based on general templates. This project demonstrates **Basic Inheritance** by modeling a virtual pet. The `Animal` class provides the foundational structure—a name and a feeding action—while the `Dog` class inherits these capabilities. This ensures that any `Dog` object is automatically an `Animal`, possessing all its data and logic without redundant declarations.
+---
+
 ## Using super: Calling the base class constructor and methods.
 - [Task 295 University System: Hierarchical Registration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_295_V0.1) — In enterprise identity management systems, objects are often defined by their roles. This project demonstrates **Constructor Chaining** within a University Registration context. When a `Student` is registered, the system must first initialize them as a `Person`. By explicitly calling `super(studentName)`, we ensure that the base attributes are set before adding student-specific data like the course number (class). This ensures that the object is fully formed according to its inheritance contract.
 - [Task 294 Genealogy Tree: Field Shadowing V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_294_V0.1) — In Java inheritance, when a subclass declares a field with the same name as a field in its superclass, the subclass field **shadows** the parent field. This project explores how to navigate this conflict using the `super` keyword. While the `Cat` class has its own `name`, the original `name` from the `Animal` class remains part of the object's state. Understanding shadowing is crucial for debugging complex hierarchies where variable names might overlap across different levels of inheritance.
