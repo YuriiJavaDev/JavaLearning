@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Creating a class hierarchy: real-life examples.
+- [Task 297 Driving School Simulator: Extended Behavior V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_297_V0.1) — In modular software design, specialized objects often possess unique capabilities that their general counterparts do not. This project demonstrates **Functional Extension** through inheritance. The `Vehicle` superclass defines the essential `move()` behavior, while the `Car` subclass "extends" this by introducing a `beep()` method. This architecture proves that a subclass is a specialized version of its parent, inheriting existing logic while offering additional features specific to its role.
 - [Task 296 Virtual Pet: Inheritance Fundamentals V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_296_V0.1) — The core of Object-Oriented Programming is the ability to build specific objects based on general templates. This project demonstrates **Basic Inheritance** by modeling a virtual pet. The `Animal` class provides the foundational structure—a name and a feeding action—while the `Dog` class inherits these capabilities. This ensures that any `Dog` object is automatically an `Animal`, possessing all its data and logic without redundant declarations.
 ---
 
