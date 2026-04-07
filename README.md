@@ -3,6 +3,10 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+## Problems and limitations of inheritance.
+- [Task 300 Advanced Pets: The Single Inheritance Limit V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_300_V0.1) — In software engineering, we often want objects to inherit traits from multiple sources. This project explores why Java strictly forbids multiple inheritance for classes. By attempting to create a `RoboDog` that extends both `Animal` and `Robot` within the same domain package as a regular `Dog`, we observe a compilation error. This demonstrates the "Diamond Problem" prevention in Java: a class can only have one direct superclass, ensuring a clear and unambiguous method resolution path.
+---
+
 ## Creating a class hierarchy: real-life examples.
 - [Task 299 Zoological Encyclopedia: Complex Hierarchies V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_299_V0.1) — In biological and technical modeling, objects often belong to nested categories. This project demonstrates a **Three-Tier Inheritance Hierarchy**: `Animal` (Base) → `Mammal` (Intermediate) → `Cat` (Leaf). Each level adds or refines logic. The `Mammal` class introduces traits common to all mammals, while the `Cat` class provides specialized implementations (overriding `eat()`) and unique behaviors (`purr()`). This demonstrates how Java handles a chain of responsibility and state across multiple generations of classes.
 - [Task 298 Educational System: Multilevel Inheritance V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_298_V0.1) — In complex organizational structures, entities often follow a multi-layered classification. This project demonstrates **Multilevel Inheritance**, where a subclass acts as a superclass for another class. We establish a chain: `Person` (Grandparent) → `Student` (Parent) → `SchoolStudent` (Child). This architecture shows how behavior can be passed down through multiple generations and how the most specific implementation in the chain takes precedence when a method like `introduce()` is overridden.
