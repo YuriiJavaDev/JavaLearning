@@ -4,6 +4,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 ## Problems and limitations of inheritance.
+- [Task 301 Family Finances: Encapsulation & Private Access V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_301_V0.1) — Encapsulation is the practice of hiding the internal state of an object and requiring all interaction to be performed through a well-defined interface. This project explores the **private** access modifier. By declaring `familySecret` as private in the `Parent` class, we ensure that no other class—not even a subclass like `Child`—can access it directly. This experiment demonstrates how Java enforces data security and prevents tight coupling between classes, forcing subclasses to use public or protected methods to interact with parent data.
 - [Task 300 Advanced Pets: The Single Inheritance Limit V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_300_V0.1) — In software engineering, we often want objects to inherit traits from multiple sources. This project explores why Java strictly forbids multiple inheritance for classes. By attempting to create a `RoboDog` that extends both `Animal` and `Robot` within the same domain package as a regular `Dog`, we observe a compilation error. This demonstrates the "Diamond Problem" prevention in Java: a class can only have one direct superclass, ensuring a clear and unambiguous method resolution path.
 ---
 
