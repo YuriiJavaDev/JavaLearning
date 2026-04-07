@@ -148,6 +148,7 @@ Welcome! This is the main navigator for my educational projects.
 - [Task 224 Virtual Pets: Dog Blueprint V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_224_V0.1) — Object-Oriented Programming (OOP) begins with defining structures. This project marks the first step in creating a virtual pet system by declaring a `Dog` class. This class acts as a template or "blueprint" that defines what a dog is in our digital world. While currently empty, it serves as the foundational container for future attributes (like name or breed) and behaviors (like barking or running).
 ---
 
+# Date, time, time zones.
 ## Calculations and comparison of dates. Duration, Period.
 - [Task 223 Real Estate: Building Age Calculator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_223_V0.1) — Calculating the age of an asset is a common requirement in commercial applications. This project demonstrates how to use the `java.time.Period` class to determine the exact duration between two dates. Unlike simple day counting, the `Period` class provides a multi-unit breakdown, allowing the system to report age in human-readable terms: years, months, and days.
 - [Task 222 Project Manager: Deadline Countdown V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_222_V0.1) — In project management, tracking the remaining time until a milestone is critical for resource allocation. This project demonstrates how to calculate the distance between two `LocalDate` objects. By using the `ChronoUnit` utility, the application determines exactly how many days are left from the current system date to a predefined project deadline (May 15, 2027).
@@ -183,6 +184,7 @@ Welcome! This is the main navigator for my educational projects.
 - [Task 204 Digital Calendar: Date Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_204_V0.1) — This project marks the beginning of a digital calendar module. Its primary function is to retrieve the current date from the local system and display it to the user. This is achieved using the `LocalDate` class from the modern `java.time` package, which provides a clean and thread-safe way to handle date information.
 ---
 
+# Bonus level.
 ## Learning to work with APIs and monitoring the ISS.
 - [Task 203 ISS Tracker: Manual JSON Parser V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_203_V0.1) — This project focuses on extracting specific data from a JSON response without using third-party parsing libraries. By sending a request to the ISS Current Location API, the application retrieves a raw JSON string and manually identifies the positions of coordinates using `String` methods. This exercise strengthens foundational knowledge of text processing in Java.
 - [Task 202 Cat Fact Generator V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_202_V0.1) — This project implements a simple client for the "CatFact Ninja" API. It demonstrates how to fetch random, dynamic data from a public REST API and display the raw JSON response. Each execution provides a new interesting fact about cats, making it a perfect starting point for entertainment-based applications.
@@ -219,6 +221,7 @@ Welcome! This is the main navigator for my educational projects.
 - [Task 184 Digital Artifact Archive V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_184_V0.1) — This project introduces the use of dynamic lists in Java. Unlike standard arrays, dynamic lists can grow in size as needed. In this simulation, we manage a digital archive where new artifact identifiers are stored and retrieved using the `ArrayList` collection.
 ---
 
+# Exceptions.
 ## Stack Trace.
 - [Task 183 Deep Call Trace Debugger V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_183_V0.1) — This project simulates a multi-layered system architecture where requests pass through several processing stages. By intentionally triggering an `ArrayIndexOutOfBoundsException` at the deepest level of the call stack, we practice tracing the program's execution flow from the entry point (`main`) to the specific failure point.
 - [Task 182 Report System Detective V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_182_V0.1) — This project demonstrates how to trace an error through multiple layers of method calls. By creating a chain of methods (`main` -> `calculateReportData` -> `processRawNumbers`), we simulate a complex system where a low-level mathematical error causes the entire application to crash. The focus is on reading the Stack Trace to understand the path the program took before the failure.
@@ -254,6 +257,7 @@ Welcome! This is the main navigator for my educational projects.
 - [Task 164 Galactic Energy Divider V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_164_V0.1) — This project explores Java's behavior when encountering illegal mathematical operations. Specifically, it demonstrates what happens when an integer is divided by zero. This is a crucial lesson in exception handling and defensive programming for any Java developer.
 ---
 
+# Constants, enum, switch.
 ## Advanced Switch Expressions.
 - [Task 163 Student Grading System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_163_V0.1) — This project showcases the advanced capabilities of **Switch Expressions** introduced in Java 14. Specifically, it demonstrates how to group multiple constants within a single `case` label using a comma-separated list. This approach significantly simplifies the logic when several inputs should result in the same output.
 - [Task 162 Modern Task Planner V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_162_V0.1) — This project demonstrates the transition from legacy `switch` statements to modern **Switch Expressions**. By using the arrow syntax, we reduce boilerplate code and ensure that each case returns a value directly to a variable, which is a key pattern in functional-style Java programming.
@@ -289,6 +293,7 @@ Welcome! This is the main navigator for my educational projects.
 - [Task 144 Player Score Converter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_144_V0.1) — An educational project focused on parsing numerical data from strings. This is a common task when handling user input or reading data from text files where numeric values are initially represented as text.
 ---
 
+# Working with strings.
 ## StringBuilder and StringBuffer.
 - [Task 143 Advanced Text Editor V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_143_V0.1) — This project demonstrates professional-grade text editing using `StringBuilder`. It covers the removal of specific fragments and the replacement of key terms, showcasing how to modify content efficiently without reallocating memory for new string objects.
 - [Task 142 Cryptographic Text Reverser V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_142_V0.1) — An educational project demonstrating the power of the `StringBuilder.reverse()` method. This tool is essential for tasks requiring character order inversion, such as palindrome checking or simple cryptographic decoding.
@@ -325,6 +330,7 @@ Welcome! This is the main navigator for my educational projects.
 - [Task 123 Java Path Escaping Demo V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_123_V0.1) — A simple educational project illustrating how to handle backslashes in Java strings. Backslashes are special characters used for escaping, so to print a literal backslash, it must be escaped with another backslash.
 ---
 
+# Methods.
 ## Access modifiers, variable scope.
 - [Task 122 School Student Registry V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_122_V0.1) — This project illustrates the core OOP principle of **Encapsulation**. It demonstrates how to protect sensitive data using access modifiers while providing controlled ways to interact with it.
 - [Task 121 Box Factory Management V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_121_V0.1) — This project demonstrates the use of the `this` keyword in Java to resolve naming conflicts between instance variables and method parameters. 
@@ -354,6 +360,7 @@ The implementation follows a strict decoupled architecture with meaningful class
 - [Task 107 Personal Greeter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_107_V0.1) — This project simulates a personal greeting feature for an interactive application. It focuses on creating a specialized function that addresses users by their name, demonstrating how to implement static methods with parameters to enhance user interaction.
 ---
 
+# Arrays.
 ## Array of counters and totalizers.
 - [Task 106 Random Number Distribution V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_106_V0.1) — This project simulates a statistical analysis of a random number generator. It generates 50 integers in the range of 1 to 10 and calculates how many times each specific digit appears. This demonstrates the use of frequency arrays to visualize data distribution and probability patterns.
 - [Task 105 Student Grade Analysis System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_105_V0.1) — This project simulates an academic grading system that processes scores across four different subjects for a group of students. It calculates the aggregate score for each individual and identifies the top performer using search algorithms, providing a clear and readable statistical report.
@@ -397,6 +404,7 @@ The implementation follows a strict decoupled architecture with meaningful class
 - [Task 80 Fantasy Inventory System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_80_V0.1) — This project simulates a basic inventory system for a fantasy game. It illustrates the fundamental concepts of array declaration, memory allocation for a specific capacity, and the use of zero-based indexing to store and retrieve data.
 ---
 
+# Real numbers and char.
 ## Explicit and Implicit Type Casting in Java.
 - [Task 79 Academic Performance V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_79_V0.1) — This project focuses on calculating a student's **average score** from mixed numeric sources. It demonstrates how to maintain precision during division by using `double` literals and how to truncate the final result for administrative reporting. 
 - [Task 78 Weather Sensor V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_78_V0.1) — This project simulates a data overflow scenario in a legacy weather sensor. It investigates the behavior of **narrowing primitive conversion** when an `int` value exceeds the 8-bit capacity of a `byte`, leading to unexpected results due to bit truncation and the two's complement representation.
@@ -432,6 +440,7 @@ The implementation follows a strict decoupled architecture with meaningful class
 - [Task 60 Hero Inventory V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_60_V0.1) — This project simulates the creation of a base inventory for an RPG (Role-Playing Game) hero. It demonstrates how to choose and declare appropriate **numeric primitive types** in Java based on the nature and range of the data being stored.
 ---
 
+# Cycles.
 ## The "do-while" loop: introduction and nuances of work.
 - [Task 56 Daily Sales Tracker V1.1](https://github.com/YuriiJavaDev/JavaBasics_Task_56_V1.1) — An enhanced version of the sales tracking utility. This iteration introduces advanced flow control using an infinite loop (`while(true)`), demonstrating how to selectively process data using `continue` to skip insignificant entries (zeros) and `break` to terminate the sequence.
 - [Task 56 Daily Sales Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_56_V0.1) — This application simulates a point-of-sale system that records daily transactions. It aggregates multiple sales entries into a single total. The program utilizes a sentinel-controlled loop where a negative value serves as the termination signal for the workday.
