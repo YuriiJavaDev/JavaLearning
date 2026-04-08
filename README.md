@@ -470,6 +470,7 @@ The implementation follows a strict decoupled architecture with meaningful class
 - [Task 44 Spaceship Launch V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_44_V0.1) — This project simulates a spaceship ignition sequence. It utilizes a **While Loop** to perform a controlled reverse countdown from a starting value to one, followed by a launch signal.
 ---
 
+# Conditional operator.
 ## Ternary operator in Java: concise conditions and nuances regarding Clean Code.
 - [Task 43 Amusement Park Ticketing System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_43_V0.1) — This project implements a multi-tier age categorization logic for an amusement park. It utilizes **Nested Ternary Operators** to evaluate four distinct age groups within a single expression.
 - [Task 42 Dynamic Greeting System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_42_V0.1) — This project implements a simple time-aware greeting mechanism. It utilizes the **Ternary Operator** to evaluate the current hour and select between two different greeting strings ("Good morning" or "Good day").
@@ -505,6 +506,7 @@ The implementation follows a strict decoupled architecture with meaningful class
 - [Task 24 Cinema Access Control V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_24_V0.1) — This project simulates a cinema ticketing system. It introduces the fundamental concept of **Conditional Logic**, where the program executes different blocks of code based on a boolean condition (age verification).
 ---
 
+# Java intro.
 ## Keyboard input.
 - [Task 23 Digital Business Card V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_23_V0.1) — This project simulates a digital business card generator. It focuses on handling mixed data types (String and int) and demonstrates professional string manipulation.
 - [Task 22 Cashier System V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_22_V0.1) — This project simulates a simple cashier terminal. It focuses on basic arithmetic operations and handling multiple integer inputs sequentially.
@@ -552,6 +554,7 @@ The implementation follows a strict decoupled architecture with meaningful class
 - [Task 01 Console Output Basics](https://github.com/YuriiJavaDev/JavaBasics_Task_1) — This is a foundational Java project designed to demonstrate basic console output operations. The goal of the task is to correctly use standard output streams to display mixed data types (integers and Unicode characters) on separate lines.
 ---
 
+======================================
 # 💾 Databases and Backend (Course 2)
 - PostgreSQL integration (in progress).
 - ...
