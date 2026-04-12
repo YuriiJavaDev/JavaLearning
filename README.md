@@ -4,6 +4,12 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 
+# 👉 Polymorphism and overloading.
+
+## Problems and limitations of inheritance.
+- [Task 304 Virtual Zoo: Polymorphism & Upcasting V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_304_V0.1) — Polymorphism allows objects of different classes to be treated as objects of a common superclass. This project demonstrates **Upcasting** by treating a `Dog` instance as a generic `Animal`. Even though the reference variable is of type `Animal`, the Java Virtual Machine (JVM) correctly identifies the underlying object at runtime and executes the overridden `makeSound()` method. This decoupling of the reference type from the actual object type is the foundation of extensible software architecture.
+---
+
 # 👉 Inheritance and hierarchy.
 ## Problems and limitations of inheritance.
 - [Task 303 Animal Simulation: Dynamic Binding V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_303_V0.1) — Polymorphism is one of the pillars of OOP, allowing a single interface to represent different underlying forms. This project explores **Dynamic Binding**. When a method is called on a reference of a superclass (`Animal`), Java determines which implementation to execute based on the actual object type at runtime (`Cat`). Even if the call happens inside a superclass method (`sleep()`), the overridden version in the subclass takes precedence. This enables highly flexible and extensible code architectures.
