@@ -5,8 +5,7 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Polymorphism and overloading.
-
-## Problems and limitations of inheritance.
+## The concept of polymorphism and why it is needed.
 - [Task 304 Virtual Zoo: Polymorphism & Upcasting V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_304_V0.1) — Polymorphism allows objects of different classes to be treated as objects of a common superclass. This project demonstrates **Upcasting** by treating a `Dog` instance as a generic `Animal`. Even though the reference variable is of type `Animal`, the Java Virtual Machine (JVM) correctly identifies the underlying object at runtime and executes the overridden `makeSound()` method. This decoupling of the reference type from the actual object type is the foundation of extensible software architecture.
 ---
 
