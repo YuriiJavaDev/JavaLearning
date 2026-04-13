@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Polymorphism and overloading.
 ## The concept of polymorphism and why it is needed.
+- [Task 305 Virtual Farm: Polymorphic Iteration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_305_V0.1) — In large-scale systems, we often need to process collections of different objects that share a common behavior. This project demonstrates **Polymorphic Iteration** using a virtual farm scenario. By storing `Cat` and `Cow` objects in an `Animal[]` array, we can treat the entire "pen" as a single collection of animals. During iteration, Java's dynamic binding mechanism ensures that the correct `makeSound()` implementation is triggered for each specific species. This approach allows the system to scale easily—new animals can be added to the farm without changing the core iteration logic.
 - [Task 304 Virtual Zoo: Polymorphism & Upcasting V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_304_V0.1) — Polymorphism allows objects of different classes to be treated as objects of a common superclass. This project demonstrates **Upcasting** by treating a `Dog` instance as a generic `Animal`. Even though the reference variable is of type `Animal`, the Java Virtual Machine (JVM) correctly identifies the underlying object at runtime and executes the overridden `makeSound()` method. This decoupling of the reference type from the actual object type is the foundation of extensible software architecture.
 ---
 
