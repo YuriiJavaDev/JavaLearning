@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Polymorphism and overloading.
+## Method overriding: different from overloading.
+- [Task 312  V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_312_V0.1) — 
+---
+
 ## Method overloading.
 - [Task 311 Graphic Design Tool: Constructor Overloading V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_311_V0.1) — Efficiency in object creation is a hallmark of well-designed software. This project demonstrates **Constructor Overloading** within a `Rectangle` class. By providing multiple constructors, we allow the class to handle different initialization scenarios: creating a perfect square with a single dimension or a custom rectangle with specific width and height. This technique reduces boilerplate code and makes the class more intuitive to use, as the object itself "knows" how to set its internal state based on the provided arguments.
 - [Task 310 Receptionist Robot: Flexible Greetings V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_310_V0.1) — User experience is often determined by how well a system handles varying levels of input data. This project demonstrates **Method Overloading by Parameter Count** through a "Receptionist Robot" simulation. The `Greetings` class provides two versions of the `sayHello` method: one for casual interactions (first name only) and one for formal settings (full name). This architectural approach allows the robot to remain polite and functional regardless of how much information is available about a guest, maintaining a clean and intuitive API.
