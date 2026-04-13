@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Polymorphism and overloading.
+## Method overloading.
+- [Task 308 Smart Printer: Method Overloading V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_308_V0.1) — In software development, providing a clean and intuitive API is crucial. This project explores **Static Polymorphism (Method Overloading)** using a `MessagePrinter` utility. Method overloading allows multiple methods in the same class to share the same name, provided their parameter lists are unique. This enables the `printMessage` method to behave differently based on whether it receives a `String` or two `int` values, simplifying the class interface for the end-user and improving code readability.
+---
+
 ## The concept of polymorphism and why it is needed.
 - [Task 307 City Fleet: Scalable Polymorphism V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_307_V0.1) — The true power of Object-Oriented Programming lies in its ability to handle growth. This project simulates a city fleet "parade" to demonstrate how **Polymorphism** simplifies system maintenance. By treating diverse transport types (`Car`, `Bicycle`, `Scooter`) as a unified `Vehicle` array, we can trigger their unique movements through a single, consistent loop. Adding a new mode of transport—like the `Scooter`—requires zero changes to the parade's execution logic, illustrating high architectural flexibility and low coupling.
 - [Task 306 HR System: Polymorphic Employee Roles V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_306_V0.1) — In large enterprise systems, it is essential to manage various entities through a unified interface. This project demonstrates **Polymorphism** using an HR management scenario. By defining a generic `Employee` class and a specialized `Developer` subclass, we show how Java's runtime environment correctly identifies and executes specialized behavior. Even when a developer is treated as a generic employee in the code, their specific "work" (writing code) is correctly invoked, ensuring that the system remains both flexible and accurate.
