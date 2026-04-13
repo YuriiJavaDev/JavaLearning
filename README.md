@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Polymorphism and overloading.
 ## Method overloading.
+- [Task 309 Math Engine: Numeric Overloading V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_309_V0.1) — Precision and flexibility are key in computational software. This project demonstrates **Method Overloading** applied to arithmetic operations. The `Multiplier` class provides a unified interface for multiplication, supporting both `int` and `double` data types. By overloading the `multiply` method, we allow the compiler to distinguish between integer arithmetic and floating-point precision at compile-time. This ensures that the caller gets the most appropriate return type and precision without needing to manage multiple method names.
 - [Task 308 Smart Printer: Method Overloading V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_308_V0.1) — In software development, providing a clean and intuitive API is crucial. This project explores **Static Polymorphism (Method Overloading)** using a `MessagePrinter` utility. Method overloading allows multiple methods in the same class to share the same name, provided their parameter lists are unique. This enables the `printMessage` method to behave differently based on whether it receives a `String` or two `int` values, simplifying the class interface for the end-user and improving code readability.
 ---
 
