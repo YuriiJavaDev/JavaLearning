@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Polymorphism and overloading.
 ## Using polymorphism in practice.
+- [Task 317 Intelligent HR System: Polymorphic Team Management V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_317_V0.1) — Efficient resource management requires treating different entities through a unified abstraction. This project explores **Polymorphic Arrays** in an HR context. By utilizing a base `Employee` type to store diverse roles like `Manager` and `Developer`, we demonstrate how a single loop can trigger context-specific behaviors. This "Team" management approach highlights the power of dynamic binding, allowing the system to scale—new roles can be added to the company without modifying the core logic of the team activity tracker.
 - [Task 316 Digital Encyclopedia: Polymorphic Voices V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_316_V0.1) — A well-structured system allows different entities to be handled through a single, unified interface. This project demonstrates **Polymorphism** within a "Digital Encyclopedia" context. By defining a generic `Animal` reference for both `Dog` and `Cat` objects, we show how Java determines which method to call based on the actual object type at runtime. This ensures that even when stored as generic animals, dogs "bark" and cats "meow," maintaining their unique characteristics within a standardized system.
 ---
 
