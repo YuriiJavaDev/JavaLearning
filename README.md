@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Polymorphism and overloading.
+## Using polymorphism in practice.
+- [Task 316 Digital Encyclopedia: Polymorphic Voices V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_316_V0.1) — A well-structured system allows different entities to be handled through a single, unified interface. This project demonstrates **Polymorphism** within a "Digital Encyclopedia" context. By defining a generic `Animal` reference for both `Dog` and `Cat` objects, we show how Java determines which method to call based on the actual object type at runtime. This ensures that even when stored as generic animals, dogs "bark" and cats "meow," maintaining their unique characteristics within a standardized system.
+---
+
 ## Method overriding: different from overloading.
 - [Task 315 Virtual Pet Care: Extending Behavior with 'super' V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_315_V0.1) — Inheritance allows us to reuse code, but sometimes we need to execute both the parent's logic and the child's logic. This project explores the **super keyword**. By calling `super.makeSound()` within the overridden method of the `Cat` class, we ensure that the foundational behavior of the `Animal` class is preserved before the specific "Meow!" is added. This technique is essential for building "additive" behavior where each layer of the inheritance hierarchy contributes its own part to the final result.
 - [Task 314 Graphics Editor: Safe Overriding V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_314_V0.1) — In robust software development, ensuring that methods are correctly overridden is vital for predictable behavior. This project demonstrates the use of the **@Override annotation** in a Graphics Editor scenario. By applying this annotation to the `draw()` method in the `Circle` subclass, we provide a clear instruction to the compiler to verify the existence of a matching method in the `Shape` base class. This prevents common errors such as typos in method names and reinforces the principles of polymorphism, where a `Shape` reference correctly invokes the specialized `Circle` logic.
