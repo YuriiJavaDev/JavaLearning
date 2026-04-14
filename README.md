@@ -6,7 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Polymorphism and overloading.
 ## Method overriding: different from overloading.
-- [Task 312  V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_312_V0.1) — 
+- [Task 312 Virtual Zoo: Basic Method Overriding V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_312_V0.1) — In object-oriented programming, a subclass can provide a specific implementation of a method that is already defined in its superclass. This project demonstrates **Method Overriding**. By defining a `makeSound()` method in the `Animal` class and then redefining it in the `Dog` class, we ensure that when we call this method on a `Dog` object, the more specific "Woof!" is executed instead of the generic "Animal makes sound." This allows for specialized behavior while maintaining a consistent interface.
 ---
 
 ## Method overloading.
