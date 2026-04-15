@@ -4,6 +4,11 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 
+# 👉 Abstraction and abstract classes.
+## Abstraction in OOP: Why and How to Use It.
+- [Task 324 Digital Farm: Abstract State and Behavior V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_324_V0.1) — 
+---
+
 # 👉 Polymorphism and overloading.
 ## The relationship between polymorphism and abstract classes.
 - [Task 323 Digital Farm: Abstract State and Behavior V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_323_V0.1) — An **Abstract Class** is more than just a list of required methods; it can also hold shared data. This project demonstrates how to combine an abstract contract (`makeSound()`) with common state (`name`). By defining the name field in the `Animal` base class, we ensure that every inhabitant of our digital farm has an identity. Subclasses like `Cat` and `Cow` leverage the parent constructor to initialize this identity while providing their own unique implementation of the sound logic. This approach highlights how inheritance reduces redundancy by centralizing shared attributes.
