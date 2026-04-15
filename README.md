@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Abstraction and abstract classes.
 ## Abstract classes and methods: syntax, examples.
+- [Task 329 Smart Home System: Device Control Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_329_V0.1) — A well-designed smart home system requires a balance between specialized behavior and universal standards. This project implements a **Smart Device Framework** using an abstract `Device` class. It demonstrates how to combine **abstract methods** (for device-specific "turn on" procedures) with **concrete methods** (for a standardized "turn off" algorithm). By inheriting from this base, the `Phone` class provides its own unique startup sequence while automatically gaining the standard shutdown functionality provided by the parent class.
 - [Task 328 Digital Zoo: Foundation and Implementation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_328_V0.1) — The core of Object-Oriented Programming lies in the ability to define general rules for specific entities. This project establishes the **Digital Zoo Foundation**. By utilizing an **Abstract Class**, we create a blueprint for all animals. The abstract method `makeSound()` serves as a mandatory requirement for any concrete species added to the system. The implementation of the `Dog` class shows how a specific entity fulfills this requirement, providing its own "voice" while remaining compatible with the general `Animal` type.
 ---
 
