@@ -6,7 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Abstraction and abstract classes.
 ## Abstraction in OOP: Why and How to Use It.
-- [Task 324 Digital Farm: Abstract State and Behavior V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_324_V0.1) — 
+- [Task 324 Zoo Simulator: The Pure Blueprint V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_324_V0.1) — In the early stages of system design, it is often more important to define **what** an object should do rather than **how** it does it. This project focuses on creating a minimal **Abstract Class** structure. The `Animal` class acts as a baseline contract for the entire zoo simulator. By declaring `makeSound()` as an abstract method without an implementation, we create a strict requirement: any biological entity added to the zoo in the future MUST define its own vocalization, or the code will not compile. This ensures architectural consistency and prevents the existence of silent or "generic" animals.
 ---
 
 # 👉 Polymorphism and overloading.
