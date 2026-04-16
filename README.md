@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Abstraction and abstract classes.
 ## Implementation of abstractions and hierarchies.
+- [Task 333 Geometry Library: Polymorphic Area Calculation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_333_V0.1) — In computational geometry, abstraction allows us to treat distinct shapes as a unified collection of figures. This project implements a **Geometry Library** foundation using an abstract `Figure` class. By defining a mandatory `area()` contract, we ensure that every shape added to the library—whether it is a `Square` or a `Circle`—can provide its area on demand. This approach encapsulates the unique mathematical formulas ($side^2$ and $pi r^2$) within their respective classes while providing a consistent interface for the application.
 - [Task 332 Traffic Simulator: Basic Movement Model V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_332_V0.1) — In simulation systems, abstraction allows us to manage complex behaviors through simplified interfaces. This project establishes a basic **Traffic Simulator Model**. By defining an abstract `Vehicle` class, we set a universal rule for any transport unit: it must be capable of movement. The `Car` class provides the first concrete realization of this rule. This task demonstrates the core of **Polymorphism**, where a variable of a general base type can successfully trigger specific subclass behavior.
 ---
 
