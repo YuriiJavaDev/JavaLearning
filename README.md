@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Abstraction and abstract classes.
+## Implementation of abstractions and hierarchies.
+- [Task 332 Traffic Simulator: Basic Movement Model V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_332_V0.1) — In simulation systems, abstraction allows us to manage complex behaviors through simplified interfaces. This project establishes a basic **Traffic Simulator Model**. By defining an abstract `Vehicle` class, we set a universal rule for any transport unit: it must be capable of movement. The `Car` class provides the first concrete realization of this rule. This task demonstrates the core of **Polymorphism**, where a variable of a general base type can successfully trigger specific subclass behavior.
+---
+
 ## Abstract classes and methods: syntax, examples.
 - [Task 331 IT HR System: Polymorphic Payroll V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_331_V0.1) — Calculating payroll in a diverse organization requires a flexible architectural approach. This project implements a **Polymorphic Salary System**. By using an abstract `Employee` class, we define a common interface for all staff members while allowing specific roles like `Manager` and `Developer` to encapsulate their unique financial logic. Whether it's a fixed monthly rate or an hourly-based compensation, the system processes all employees through a unified loop, adhering to the **Open/Closed Principle**.
 - [Task 330 Graphics Editor: Area Calculation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_330_V0.1) — In advanced graphics systems, shapes are treated as abstract entities that share common properties like names but possess unique mathematical behaviors. This project demonstrates how to use an **Abstract Class** to manage shared state (the `name` field) and enforce a specific behavioral contract (the `area()` method). The `Circle` subclass shows the practical application of **Constructor Chaining** to pass data to the parent class and the implementation of geometric formulas using Java's `Math` library.
