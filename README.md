@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Abstraction and abstract classes.
+## Simplifying complex systems with abstractions.
+- [Task 340 Task Management Core: Abstraction V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_340_V0.1) — Efficient team productivity relies on a structured way to manage various activities. This project implements a **Task Management Core** using an abstract `Task` class. It manages a common `title` field for all task types and establishes a mandatory `complete()` contract. The `SimpleTask` implementation provides a basic realization of this contract, demonstrating how subclasses can utilize parent state (title) to provide meaningful feedback upon task execution.
+---
+
 ## Examples of constructing abstractions in real-world problems.
 - [Task 339 Order Management System: Retail Abstraction V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_339_V0.1) — Large-scale retail systems must handle diverse transaction types while maintaining a unified processing pipeline. This project implements an **Order Management System** using an abstract `Order` class. By encapsulating the order `amount` in the base class and defining a mandatory `process()` contract, we separate the common data from the specific processing logic required for online and offline environments. This architecture demonstrates the **Open/Closed Principle**, where the system is open for new order types but closed for modification of the processing loop.
 - [Task 338 Fleet Management: Dynamic Polymorphism V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_338_V0.1) — Managing a diverse fleet of transport units requires both a unified interface and a flexible data structure. This project implements a **Fleet Management System** utilizing an abstract `Vehicle` class and a dynamic `ArrayList`. By encapsulating the `model` state in the base class, we ensure consistency across all transport types. The `Car` and `Bicycle` implementations demonstrate specialized movement logic, while the use of a generic list allows the system to process any number of vehicles polymorphically.
