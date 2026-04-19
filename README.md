@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Interfaces.
+## The difference between interfaces and abstract classes.
+- [Task 348 Fleet Management: Protocol Abstraction V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_348_V0.1) — In industrial-grade software, uniformity is the key to scalability. This project implements a **Standardized Movement Protocol** using the `Movable` interface. By defining a single `move()` method, we establish a contract that all transport modules must follow. The `Car` class serves as a concrete implementation of this protocol. This architectural pattern allows the fleet management system to control diverse vehicle types through a single, unified interface, promoting loose coupling and high modularity.
+---
+
 ## The concept of an interface, declaration syntax.
 - [Task 347 Virtual Pet Simulation: Interface Polymorphism V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_347_V0.1) — In game development, handling diverse entities with shared behaviors is a fundamental challenge. This project implements a **Virtual Pet Simulation** core using the `Soundable` interface. By defining a common "sound ability," we can manage different animals like `Dog` and `Cat` within a single unified collection. This project highlights how interfaces allow for the creation of a "zoo" (an array of interface types) where each object responds to the same command with its own unique implementation.
 - [Task 346 Scientific Calculator: Immutable Constants V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_346_V0.1) — In scientific computing, the integrity of fundamental constants is paramount. This project demonstrates how to use Java **Interfaces as Constant Repositories**. By defining `PI` within the `MathConstants` interface, we ensure that the value is globally accessible, immutable, and consistent across all modules of the calculator. The `Calculator` class implements this interface to "inherit" these mathematical truths, providing a clean and type-safe way to access shared data without the need for magic numbers.
