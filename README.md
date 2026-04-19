@@ -6,7 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Interfaces.
 ## The concept of an interface, declaration syntax.
-- [Task 344  V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_344_V0.1) —
+- [Task 344 Smart Home Assistant: Interface Definition V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_344_V0.1) — Creating a smart assistant requires a standardized way to handle interactions across different types of entities. This project introduces the concept of **Interfaces** in Java. By declaring the `Greetable` interface, we define a common contract or "ability" that any class can implement. The `Person` class serves as the first module to adopt this ability. This approach demonstrates how interfaces separate the declaration of behavior from its actual implementation, allowing for highly decoupled and modular code.
 ---
 
 # 👉 Abstraction and abstract classes.
