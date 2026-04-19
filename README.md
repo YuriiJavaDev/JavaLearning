@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Abstraction and abstract classes.
 ## Simplifying complex systems with abstractions.
+- [Task 341 Task Management: Service Layer & Abstraction V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_341_V0.1) — As applications grow in complexity, separating business logic from data access becomes essential. This project implements the **Service Layer** pattern within the Task Manager. The `TaskService` acts as the "brain" of the system, coordinating high-level operations like adding and completing tasks. By depending on the `TaskRepository` abstraction rather than a concrete implementation, the service remains decoupled from storage details, adhering to the **Dependency Inversion Principle**.
 - [Task 340 Task Management Core: Abstraction V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_340_V0.1) — Efficient team productivity relies on a structured way to manage various activities. This project implements a **Task Management Core** using an abstract `Task` class. It manages a common `title` field for all task types and establishes a mandatory `complete()` contract. The `SimpleTask` implementation provides a basic realization of this contract, demonstrating how subclasses can utilize parent state (title) to provide meaningful feedback upon task execution.
 ---
 
