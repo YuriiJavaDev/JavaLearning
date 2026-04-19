@@ -4,6 +4,11 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 
+# 👉 Interfaces.
+## The concept of an interface, declaration syntax.
+- [Task 344  V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_344_V0.1) —
+---
+
 # 👉 Abstraction and abstract classes.
 ## Simplifying complex systems with abstractions.
 - [Task 343 Universal Task Manager: Advanced Polymorphism V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_343_V0.1) — A truly extensible system must handle specialized data without sacrificing architectural simplicity. This project evolves the Task Manager by introducing specialized task types: `WorkTask` (with deadlines) and `HomeTask` (with locations). Despite their different attributes, both are managed as a unified collection of `Task` objects. The `TaskService` and `TaskRepository` operate strictly on high-level abstractions, demonstrating how polymorphism allows a system to remain open for extension but closed for modification.
