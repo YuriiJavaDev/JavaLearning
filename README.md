@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Interfaces.
 ## Multiple implementation of interfaces.
+- [Task 353 User Management: Custom & Standard Interfaces V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_353_V0.1) — In real-world Java applications, objects often need to satisfy both domain-specific requirements and platform-level standards. This project implements a **User Profile System** that integrates a custom `Nameable` contract with the standard `java.io.Serializable` interface. While `Nameable` defines explicit behavior (retrieving a name), `Serializable` acts as a **Marker Interface**, signaling to the Java Virtual Machine that the object's state can be persisted or transmitted. This dual-interface approach ensures that user data is both accessible and compatible with Java's native serialization mechanisms.
 - [Task 352 Graphics Editor: Multi-Contract Design V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_352_V0.1) — Advanced graphics systems require objects to support various lifecycle actions beyond simple rendering. This project implements a **Multi-Contract Architectural Pattern**. By defining `Drawable` and `Erasable` as distinct interfaces, we follow the **Interface Segregation Principle**, ensuring that components only implement the behaviors they actually need. The `Sketch` class acts as a versatile canvas element that integrates both capabilities, allowing it to be managed by rendering engines and cleanup utilities alike.
 ---
 
