@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Interfaces.
+## Multiple implementation of interfaces.
+- [Task 352 Graphics Editor: Multi-Contract Design V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_352_V0.1) — Advanced graphics systems require objects to support various lifecycle actions beyond simple rendering. This project implements a **Multi-Contract Architectural Pattern**. By defining `Drawable` and `Erasable` as distinct interfaces, we follow the **Interface Segregation Principle**, ensuring that components only implement the behaviors they actually need. The `Sketch` class acts as a versatile canvas element that integrates both capabilities, allowing it to be managed by rendering engines and cleanup utilities alike.
+---
+
 ## The difference between interfaces and abstract classes.
 - [Task 351 Smart Home: Hybrid Architecture V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_351_V0.1) — Designing a smart home ecosystem requires a balance between general standards and specialized features. This project demonstrates a **Hybrid Architectural Model**. The `Appliance` abstract class provides a common foundation for all home devices, including shared logic for powering on. The `Chargeable` interface acts as a specific protocol for battery-powered equipment. The `SmartPhone` class integrates both, inheriting the general characteristics of an appliance while fulfilling the specific charging contract.
 - [Task 350 Multi-Function Device: Multiple Interface Implementation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_350_V0.1) — Modern office hardware often combines several distinct functionalities into a single physical unit. This project models such a **Multi-Function Device (MFD)** by leveraging Java's ability to implement multiple interfaces. By separating the `Printable` and `Scannable` capabilities into individual protocols, we adhere to the **Interface Segregation Principle**. The `MultiFunctionDevice` class then integrates these separate behaviors, proving that a single Java class can satisfy multiple behavioral contracts simultaneously.
