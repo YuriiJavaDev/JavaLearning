@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Interfaces.
 ## The difference between interfaces and abstract classes.
+- [Task 349 University Management: Abstraction vs Interfaces V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_349_V0.1) — In sophisticated systems like university management, it is crucial to distinguish between shared behaviors and shared state. This project explores the **Hybrid Inheritance** model. By using an abstract `Person` class, we manage mutable state (the student's name), while the `Identifiable` interface provides a global, immutable contract (the universal ID). This task highlights why interface fields are implicitly constants and why abstract classes are better suited for individual object properties.
 - [Task 348 Fleet Management: Protocol Abstraction V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_348_V0.1) — In industrial-grade software, uniformity is the key to scalability. This project implements a **Standardized Movement Protocol** using the `Movable` interface. By defining a single `move()` method, we establish a contract that all transport modules must follow. The `Car` class serves as a concrete implementation of this protocol. This architectural pattern allows the fleet management system to control diverse vehicle types through a single, unified interface, promoting loose coupling and high modularity.
 ---
 
