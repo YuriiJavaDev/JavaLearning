@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Interfaces.
+## Functional interfaces: @FunctionalInterface.
+- [Task 356 Notification System: Functional Interfaces V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_356_V0.1) — Modern Java development prioritizes conciseness and readability. This project introduces **Functional Interfaces** and **Lambda Expressions**. By using the `@FunctionalInterface` annotation, we explicitly define a contract with exactly one abstract method. Instead of writing verbose concrete classes for every notification type, we use lambdas to implement the `MessagePrinter` logic inline. This approach is essential for event-driven programming and functional data processing in Java.
+---
+
 ## Multiple implementation of interfaces.
 - [Task 355 Universal Media Center: Behavioral Roles V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_355_V0.1) — In sophisticated media systems, a single physical component often fulfills multiple logical roles. This project explores **Role-Based Polymorphism**. By defining `Player` and `Recorder` interfaces, we establish distinct behavioral expectations. The `MediaDevice` class implements both, allowing a single instance to be treated as a playback unit in one context and a recording unit in another. The `testDevice` static method demonstrates this flexibility by accepting interface types, proving that the system cares about "what an object can do" rather than "what an object is."
 - [Task 354 Universal Control Panel: Interface Collision V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_354_V0.1) — In modular systems, different interfaces may occasionally define methods with identical signatures. This project explores how Java handles **Interface Method Collisions**. By implementing both `InterfaceA` and `InterfaceB`, which both declare a `doAction()` method, the `MultiAction` class provides a single unified implementation that satisfies both contracts simultaneously. This demonstrates the efficiency of Java's type system in resolving overlapping behavioral requirements.
