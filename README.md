@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Interfaces.
 ## Functional interfaces: @FunctionalInterface.
+- [Task 357 Score Achievement System: Predicate Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_357_V0.1) — In game mechanics, verifying thresholds (like reaching a high score) is a repetitive task that benefits from a flexible design. This project implements a **Number Checker** using a functional approach. By defining the `NumberChecker` interface, we create a contract for boolean evaluation. The implementation uses a **Lambda Expression** to define the specific rule: "Is the score greater than 100?". This pattern allows developers to swap checking rules (e.g., checking for even numbers or negative values) without changing the underlying architecture.
 - [Task 356 Notification System: Functional Interfaces V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_356_V0.1) — Modern Java development prioritizes conciseness and readability. This project introduces **Functional Interfaces** and **Lambda Expressions**. By using the `@FunctionalInterface` annotation, we explicitly define a contract with exactly one abstract method. Instead of writing verbose concrete classes for every notification type, we use lambdas to implement the `MessagePrinter` logic inline. This approach is essential for event-driven programming and functional data processing in Java.
 ---
 
