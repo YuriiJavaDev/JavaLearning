@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Interfaces.
 ## Interfaces in Java architecture, design patterns.
+- [Task 361 Notification Service: Dependency Injection V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_361_V0.1) — Hard-coding dependencies makes software rigid and difficult to test. This project demonstrates **Decoupling** through the Dependency Injection pattern. By creating a `Notification` class that accepts a `MessageSender` interface, we ensure that the notification logic is agnostic of the delivery method. Whether the system sends an Email, SMS, or Push notification, the `Notification` class remains unchanged. This is a fundamental principle used in enterprise frameworks to build scalable and maintainable systems.
 - [Task 360 Event Logging System: Strategy Pattern V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_360_V0.1) — In mission-critical applications, the ability to switch output destinations without altering core logic is vital. This project implements a **Flexible Logging System** using interface-based polymorphism. By defining a universal `Logger` contract, the system can treat `ConsoleLogger` and `FileLogger` as interchangeable components. This architectural approach follows the **Dependency Inversion Principle**, where high-level modules depend on abstractions (interfaces) rather than concrete implementations.
 ---
 
