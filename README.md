@@ -4,6 +4,11 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 
+# 👉 Advanced interfaces and functional interfaces.
+## Introduction to Lambda Expressions.
+- [Task 365 Announcement System: Parameterless Lambdas V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_365_V0.1) — Functional programming in Java isn't always about processing data; sometimes it's simply about encapsulating a block of code to be executed later. This project demonstrates **Parameterless Lambda Expressions** using the standard `Runnable` interface. Since the `run()` method in `Runnable` takes no arguments and returns `void`, the lambda syntax is stripped down to its most basic form: `() -> { logic }`. This approach is fundamental for task scheduling and defining simple executable actions within an application.
+---
+
 # 👉 Interfaces.
 ## Interfaces in Java architecture, design patterns.
 - [Task 364 Battle Arena System: OOP & Polymorphism V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_364_BattleArena_V0.1) — This project simulates a simple **Battle Arena** where different types of characters interact through combat mechanics. It demonstrates core **Object-Oriented Programming principles** such as **inheritance, polymorphism, abstraction, and interface-based design**.
