@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Advanced interfaces and functional interfaces.
 ## Introduction to Lambda Expressions.
+- [Task 366 User Data Processing: Standard Consumers V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_366_V0.1) — Consistency in data storage often requires pre-processing of user inputs. This project demonstrates the application of the **`Consumer<T>`** functional interface. Unlike other functional interfaces, a `Consumer` is designed to perform an operation on a given argument without returning a result (side-effect only). We implement a text handler that accepts a string, normalizes it by converting it to uppercase, and outputs it to the console. This pattern is widely used in stream processing and reactive programming to handle data elements.
 - [Task 365 Announcement System: Parameterless Lambdas V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_365_V0.1) — Functional programming in Java isn't always about processing data; sometimes it's simply about encapsulating a block of code to be executed later. This project demonstrates **Parameterless Lambda Expressions** using the standard `Runnable` interface. Since the `run()` method in `Runnable` takes no arguments and returns `void`, the lambda syntax is stripped down to its most basic form: `() -> { logic }`. This approach is fundamental for task scheduling and defining simple executable actions within an application.
 ---
 
