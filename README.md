@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Advanced interfaces and functional interfaces.
 ## Method References (::): references to methods.
+- [Task 370 Custom Logging: Object Method References V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_370_V0.1) — Abstracting output mechanisms is a key step towards building maintainable logging systems. This project focuses on **Non-static Object Method References**. Instead of creating a new lambda block, we bind a functional interface directly to the `println` method of the existing `System.out` instance. This creates a "delegate" that can be passed around the application, allowing any component to log messages without needing direct knowledge of the underlying output stream.
 - [Task 369 Smart Device Firmware: Static Method References V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_369_V0.1) — Efficiency and readability are crucial in firmware development. This project explores **Method References**, a shorthand notation for a lambda expression that executes a single method. Instead of writing a manual transformation logic, we use a reference to the static `Integer.toHexString` method. This demonstrates how to leverage existing Java Standard Library functions within a functional programming context to produce clean, maintainable code.
 ---
 
