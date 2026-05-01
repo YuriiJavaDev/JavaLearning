@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Advanced interfaces and functional interfaces.
+## Method References (::): references to methods.
+- [Task 369 Smart Device Firmware: Static Method References V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_369_V0.1) — Efficiency and readability are crucial in firmware development. This project explores **Method References**, a shorthand notation for a lambda expression that executes a single method. Instead of writing a manual transformation logic, we use a reference to the static `Integer.toHexString` method. This demonstrates how to leverage existing Java Standard Library functions within a functional programming context to produce clean, maintainable code.
+---
+
 ## Introduction to Lambda Expressions.
 - [Task 368 Financial Reporting: Data Transformation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_368_V0.1) — In financial systems, raw data must often undergo specific transformations and formatting before being presented to the user. This project demonstrates the **`Function<T, R>`** functional interface. We implement a formatting pipeline that doubles a numerical value and prepends a standard prefix. This illustrates the core functional concept of "mapping" — converting an input of one type (Integer) into a result of another type (String).
 - [Task 367 Absolute Power Ranking: Custom Comparators V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_367_V0.1) — Standard sorting algorithms typically follow the natural ordering of data types. However, specific business logic often requires custom comparison rules. This project demonstrates the power of the **`Comparator<T>`** functional interface combined with lambda expressions. We implement a sorting mechanism for athlete results where the "power of the blow" is measured by its absolute value, regardless of direction (sign). This approach allows for flexible data organization without modifying the original data structure.
