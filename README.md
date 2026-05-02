@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Advanced interfaces and functional interfaces.
+## Default methods in interfaces.
+- [Task 373 Smart Device Remote: Default Methods V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_373_V0.1) — In hardware and software interface design, certain operations are universal across all implementations. This project demonstrates the use of **Interface Default Methods** to provide a standard "factory reset" functionality. By defining `reset()` within the `Counter` interface, we ensure that every implementing device possesses this capability without requiring manual re-implementation. This promotes code reuse and ensures a consistent behavior across different device models.
+---
+
 ## Method References ( : : ): references to methods.
 - [Task 372 Virtual Pet Simulator: Constructor References V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_372_V0.1) — Manually instantiating objects can lead to rigid code structures. This project explores **Constructor References**, a specialized form of method reference that points to a class constructor. By binding the `AnimalFactory` interface to the `Animal : : new` reference, we decouple the logic of "when to create" from "how to create". This approach is essential for modern Java patterns, such as the Abstract Factory and the use of `Collectors` in Stream API.
 - [Task 371 Warehouse Inventory: Alphabetical Sorting V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_371_V0.1) — In logistics and warehouse management, quick data organization is essential for efficiency. This project demonstrates **Method References to Instance Methods of Arbitrary Objects**. Instead of manually defining a comparison lambda, we leverage the existing `String.compareToIgnoreCase` method. This allows the `List.sort` mechanism to treat the method as a functional interface implementation, resulting in highly readable and idiomatic Java code.
