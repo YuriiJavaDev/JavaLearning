@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Advanced interfaces and functional interfaces.
 ## Default methods in interfaces.
+- [Task 374 Virtual Zoo: Interface Method Overriding V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_374_V0.1) — In object-oriented design, a default implementation in an interface provides a fallback behavior. This project explores the **Overriding of Default Methods**. While the `Animal` interface defines a universal `sleep()` pattern, the `Dog` class provides its own specialized implementation. This demonstrates the hierarchy of method resolution in Java: a concrete implementation in a class always takes precedence over a `default` method in an interface. This is a key technique for creating extensible and customizable software components.
 - [Task 373 Smart Device Remote: Default Methods V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_373_V0.1) — In hardware and software interface design, certain operations are universal across all implementations. This project demonstrates the use of **Interface Default Methods** to provide a standard "factory reset" functionality. By defining `reset()` within the `Counter` interface, we ensure that every implementing device possesses this capability without requiring manual re-implementation. This promotes code reuse and ensures a consistent behavior across different device models.
 ---
 
