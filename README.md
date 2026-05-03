@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Advanced interfaces and functional interfaces.
+## Static methods in interfaces.
+- [Task 377 Web Registration: Static Interface Methods V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_377_V0.1) — Utility functions often clutter project structures when placed in separate "Utils" classes. This project demonstrates the use of **Static Methods in Interfaces** to keep related helper logic encapsulated. By defining `isEmpty` as a static method within the `StringChecker` interface, we provide a globally accessible validation tool that doesn't require object instantiation. This approach follows the principle of high cohesion, ensuring that the interface provides both the contract and the necessary tools to work with it.
+---
+
 ## Default methods in interfaces.
 - [Task 376 Module Integration: Conflict Resolution V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_376_V0.1) — In modular programming, integrating independent components often leads to naming collisions. This project demonstrates how Java handles **Multiple Interface Implementation** when default method conflicts occur. By implementing interfaces `A` and `B` in class `C`, we encounter two identical `show()` signatures. We resolve this by explicitly invoking each interface's version using the `InterfaceName.super.method()` syntax. This ensures a predictable execution order and maintains the integrity of both original modules within a single unified system.
 - [Task 375 Notification System: Method Chaining V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_375_V0.1) — Code reuse can be achieved not only through inheritance but also by defining composite logic within interfaces. This project demonstrates how a **Default Method** can call an **Abstract Method** within the same interface. By defining `printTwice()` in the `Printer` contract, we provide a pre-built algorithm that depends on the concrete implementation of `print()`. This ensures that any new printer type automatically gains "doubling" capabilities without additional coding.
