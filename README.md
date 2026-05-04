@@ -4,6 +4,11 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 
+# 👉 Record classes.
+## Record: syntax, advantages.
+- [Task 385 Digital Library: Data Records V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_385_V0.1) — Modern Java development focuses on reducing boilerplate code for classes that primarily act as data carriers. This project demonstrates the use of **Java Records**. By defining `BookCard` as a record, we eliminate the need for manual constructor definition and getter methods. This ensures that our "digital library cards" are immutable, thread-safe, and highly readable, following the best practices of functional and clean code architecture.
+---
+
 # 👉 Advanced interfaces and functional interfaces.
 ## Interfaces from the standard library: Comparable, Serializable, etc.
 - [Task 384 Resource Management: AutoCloseable V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_384_V0.1) — Handling sensitive system resources like database connections, sockets, or file streams requires guaranteed release logic. This project explores the **`AutoCloseable`** interface and the **try-with-resources** statement. By implementing the `close()` method, the `DemoResource` class ensures that its cleanup logic is executed automatically at the end of the `try` block. This modern Java approach (introduced in Java 7) eliminates the need for manual resource management and reduces the risk of resource leaks.
