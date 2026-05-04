@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Record classes.
 ## Record: syntax, advantages.
+- [Task 386 Student Records: Record Accessors V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_386_V0.1) — Efficient data retrieval is a cornerstone of any administrative system. This project explores the **Accessor Methods** of Java Records. Unlike traditional POJOs that rely on the `get` prefix, Records provide accessors with the same name as the components they represent. This project demonstrates how to instantiate a `Student` record and retrieve its individual components using these automatically generated, concise methods, ensuring high readability and reducing boilerplate code.
 - [Task 385 Digital Library: Data Records V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_385_V0.1) — Modern Java development focuses on reducing boilerplate code for classes that primarily act as data carriers. This project demonstrates the use of **Java Records**. By defining `BookCard` as a record, we eliminate the need for manual constructor definition and getter methods. This ensures that our "digital library cards" are immutable, thread-safe, and highly readable, following the best practices of functional and clean code architecture.
 ---
 
