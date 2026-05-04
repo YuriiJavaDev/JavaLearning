@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Advanced interfaces and functional interfaces.
+## Interfaces from the standard library: Comparable, Serializable, etc.
+- [Task 381 Smart Container: Object Comparison V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_381_V0.1) — In software systems, objects often need an inherent way to define their "natural order." This project demonstrates the implementation of the **`Comparable<T>`** interface. By implementing the `compareTo()` method, the `NumberBox` class gains the ability to compare itself with other instances. This internal logic is essential for enabling automatic sorting and searching within standard Java collections.
+---
+
 ## Static methods in interfaces.
 - [Task 380 Unified Logging: Private Interface Methods V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_380_V0.1) — Ensuring consistent formatting across different log levels is a common requirement in enterprise applications. This project demonstrates the use of **Private Static Methods in Interfaces**. Introduced in Java 9, this feature allows developers to share common logic between multiple `static` or `default` methods without exposing that logic to the outside world. By encapsulating the formatting logic within a private `format()` method, we maintain a clean API while ensuring that all log messages follow the exact same structural pattern.
 - [Task 379 Math Utility: Instance vs. Static Methods V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_379_V0.1) — In engineering applications, distinguishing between object-specific behavior and global utility functions is vital for code organization. This project demonstrates the coexistence of **Default Methods** and **Static Methods** within a single interface. The `printSquare` method provides a default instance-level implementation, while `printCube` acts as a global static utility. This separation allows for flexible inheritance patterns while maintaining a centralized repository for common mathematical operations.
