@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Record classes.
+## Immutability of record classes.
+- [Task 389 Library Tracker: Book Records V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_389_V0.1) — In data-oriented applications, managing object states efficiently is crucial. This project demonstrates the implementation of a **Java Record** to act as a simple data carrier for book information. By using the `record` keyword, we leverage built-in immutability and automatic accessor methods. This approach simplifies the code and ensures that each book entry remains consistent throughout the application's lifecycle.
+---
+
 ## Record: syntax, advantages.
 - [Task 388 Access Management: Records in Hash-Based Collections V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_388_V0.1) — In security and access control systems, identifying a user based on their data profile is a fundamental task. This project explores the **Interoperability of Java Records and HashMaps**. Since Records automatically provide stable and consistent implementations of `hashCode()` and `equals()`, they act as perfect immutable keys for collections. This demonstration shows how a user can be identified and their role retrieved even when using a newly instantiated lookup object, provided the internal components (Name and ID) remain identical.
 - [Task 387 City Catalog: Record Equality V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_387_V0.1) — In data-centric applications, comparing two objects based on their content rather than their memory address is a frequent requirement. This project explores the **Automatic Equality** feature of Java Records. Unlike standard classes where `equals()` must be manually implemented, Records automatically generate a structural equality check. This ensures that two separate instances with identical component values are considered equal, promoting reliable data handling in catalogs and collections.
