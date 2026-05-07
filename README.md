@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Record classes.
 ## Auto-generation: equals, hashCode, toString.
+- [Task 394 Mapping System: Record Equality & Hashing V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_394_V0.1) — In geographic information systems (GIS), coordinate precision and identity are paramount. This project demonstrates the **Contractual Consistency of `equals()` and `hashCode()`** within Java Records. Records provide an out-of-the-box implementation where equality is determined by the state of their components (X and Y coordinates). Crucially, they also ensure that equal objects produce identical hash codes, which is a mandatory requirement for Java's hash-based collections like `HashSet` or `HashMap`.
 - [Task 393 Library Reports: Automatic String Representation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_393_V0.1) — Generating standardized reports requires consistent formatting of data objects. This project explores the **Automatic `toString()` generation** in Java Records. One of the core features of a `record` is that it provides a built-in, human-readable string representation of its state without any additional code. This project demonstrates how a `Book` record can be directly printed to the console, producing a clear output of its title and author, which is essential for logging, debugging, and report generation.
 ---
 
