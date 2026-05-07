@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Record classes.
+## Auto-generation: equals, hashCode, toString.
+- [Task 393 Library Reports: Automatic String Representation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_393_V0.1) — Generating standardized reports requires consistent formatting of data objects. This project explores the **Automatic `toString()` generation** in Java Records. One of the core features of a `record` is that it provides a built-in, human-readable string representation of its state without any additional code. This project demonstrates how a `Book` record can be directly printed to the console, producing a clear output of its title and author, which is essential for logging, debugging, and report generation.
+---
+
 ## Immutability of record classes.
 - [Task 392 Sensor Data: Shallow Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_392_V0.1) — Understanding the boundaries of immutability is critical for processing streaming data. This project explores **Shallow Immutability** in Java Records. While a record's components are `final` and cannot be reassigned to new objects, if a component is a mutable object (like an array), its internal state can still be modified from the outside. This demonstration shows how a `record` stores a reference to an existing array, allowing external changes to reflect inside the record, highlighting the importance of defensive copying in secure system design.
 - [Task 391 Game Coordinates: Record Transformation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_391_V0.1) — In game development, tracking object positions with precision is essential. This project demonstrates how to handle spatial data using **Java Records**. Given that records are immutable, "moving" an object requires creating a new record instance with updated coordinates derived from the original. This pattern, known as a **Wither-like transformation**, ensures that the original state remains intact while producing a new state, facilitating easier debugging and state management in grid-based systems.
