@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Record classes.
 ## Record with methods.
+- [Task 398 Registration System: Record Validation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_398_V0.1) — Ensuring data integrity at the moment of creation is a cornerstone of robust software architecture. This project explores the **Compact Constructor** feature of Java Records. Unlike traditional constructors, a compact constructor doesn't require explicit parameter declarations or field assignments; its primary purpose is data validation and normalization. In this email registration simulation, the `Email` record strictly enforces business rules: preventing null values, empty strings, and malformed addresses without the "@" symbol. This approach ensures that every instance of `Email` in the system is guaranteed to be valid.
 - [Task 397 Weather Station: Factory Methods in Records V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_397_V0.1) — Weather monitoring systems often encounter heterogeneous data sources. This project demonstrates the use of **Static Factory Methods** within Java Records to handle data conversion. By implementing the `fromFahrenheit()` method, the `Temperature` record gains the ability to encapsulate complex conversion logic while maintaining its primary focus as a Celsius data carrier. This approach improves API clarity and ensures that conversion formulas are centralized within the relevant data model.
 ---
 
