@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Record classes.
+## Record with methods.
+- [Task 397 Weather Station: Factory Methods in Records V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_397_V0.1) — Weather monitoring systems often encounter heterogeneous data sources. This project demonstrates the use of **Static Factory Methods** within Java Records to handle data conversion. By implementing the `fromFahrenheit()` method, the `Temperature` record gains the ability to encapsulate complex conversion logic while maintaining its primary focus as a Celsius data carrier. This approach improves API clarity and ensures that conversion formulas are centralized within the relevant data model.
+---
+
 ## Auto-generation: equals, hashCode, toString.
 - [Task 396 Product Catalog: Identity Logic V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_396_V0.1) — In e-commerce systems, a product's identity is often defined by its name or SKU, while attributes like price may fluctuate. This project demonstrates how to **Override Core Record Methods** (`equals` and `hashCode`). While Java Records provide default value-based equality for all components, we can refine this behavior to focus only on specific fields. In this simulation, two `Product` instances are considered identical if their names match, regardless of their price differences. This ensures consistent behavior in collections and search operations.
 - [Task 395 Social Network: Custom Record Formatting V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_395_V0.1) — Standard data representations are often too technical for end-user applications. This project demonstrates how to **Override Default Behavior** in Java Records. While records automatically generate a `toString()` method, developers can provide a custom implementation to meet specific formatting requirements. In this social network profile simulation, we replace the default record syntax with a more readable, user-centric string format: `User: [Name] ([Age] years)`. This maintains the record's efficiency while enhancing its presentation layer.
