@@ -6,6 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Record classes.
 ## Differences between record and class, limitations of record.
+- [Task 402 Map Coordinates: Automatic Equality V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_402_V0.1) — In mapping and navigation systems, identifying identical locations is a fundamental task. This project explores how **Java Records** simplify this process by providing a built-in implementation of the `equals()` method. Unlike standard classes, which compare object references by default, records compare the actual data stored in their components. This ensures that two separate `Point` instances with the same horizontal and vertical coordinates are logically treated as the same location.
 - [Task 401 Home Library Assistant V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_401_V0.1) — Managing a large collection of books requires a structured and reliable data model. This project demonstrates the implementation of a **Java Record** to act as a digital entry for a home library assistant. By utilizing the `record` keyword, we benefit from built-in immutability, thread safety, and automatic generation of accessor methods (`title()` and `author()`). This approach minimizes boilerplate code while ensuring that book information remains consistent and easy to access.
 ---
 
