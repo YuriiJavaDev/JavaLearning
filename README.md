@@ -5,6 +5,10 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 
 # 👉 Record classes.
+## Differences between record and class, limitations of record.
+- [Task 401 Home Library Assistant V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_401_V0.1) — Managing a large collection of books requires a structured and reliable data model. This project demonstrates the implementation of a **Java Record** to act as a digital entry for a home library assistant. By utilizing the `record` keyword, we benefit from built-in immutability, thread safety, and automatic generation of accessor methods (`title()` and `author()`). This approach minimizes boilerplate code while ensuring that book information remains consistent and easy to access.
+---
+
 ## Record with methods.
 - [Task 400 Bank System: Transaction Integrity V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_400_V0.1) — Ensuring data integrity in financial systems is a critical requirement. This project demonstrates how to use a **Java Record** as a secure data carrier for bank transactions. By implementing a **Compact Constructor**, we enforce strict validation rules: the transfer amount must be positive, and both sender and recipient names must be provided. This "Fail-Fast" design ensures that no invalid transaction object can ever be instantiated, guaranteeing system stability and reliable audit trails.
 - [Task 399 Character Biography: Records with Behavior V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_399_V0.1) — In application design, data carriers often need to provide derived information or standardized interactions. This project explores the **Extended Capabilities of Java Records**. While records are primarily for data storage, they can include static constants and instance methods. In this character biography simulation, we define a `Person` record that shares a common `SPECIES` constant among all instances while providing a personalized `greeting()` method. This demonstrates how to encapsulate both state and relevant behavior in a concise, modern Java structure.
