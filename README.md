@@ -18,7 +18,7 @@ Welcome! This is the main navigator for my educational projects.
 - [Task 447 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_447_V0.1) —
 ## Java Collections Overview - Why Use Collections?
 - [Task 446 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_446_V0.1) —
-- [Task 445 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_445_V0.1) —
+- [Task 445 Fruit Store Inventory: Dynamic Lists V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_445_V0.1) — In inventory management, static arrays are often insufficient because the number of items can change frequently. This project demonstrates the use of a **Dynamic List** (`ArrayList`) to manage a fruit store's stock. Unlike arrays, an `ArrayList` in Java can grow and shrink as needed. We practice the core operations of a collection: initialization, adding elements, and performing a bulk display of contents using the built-in string representation of the collection.
 ---
 
 # 👉 Advanced work with exceptions.
