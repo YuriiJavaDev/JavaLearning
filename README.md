@@ -20,7 +20,13 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## List: ArrayList and LinkedList, basic operations.
-- [Task 448 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_448_V0.1) — 
+- [Task 448 Streaming Service: List Search & State Management V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_448_V0.1) — User experience in streaming platforms depends heavily on the ability to manage personal watchlists. This project demonstrates advanced **ArrayList operations** for a "To Watch" feature. Key functionalities include:
+  - **Index Search**: Using `indexOf()` to identify the position of specific elements (e.g., tracking duplicate entries).
+  - **Membership Verification**: Using `contains()` to check for the presence of a title without iterating manually.
+  - **Bulk Reset**: Utilizing `clear()` to perform a complete state reset of the collection.
+
+    These operations are essential for maintaining clean and responsive user interfaces.
+
 - [Task 447 Student Schedule: Dynamic List Manipulation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_447_V0.1) — University schedules are subject to frequent changes during the registration period. This project simulates a **Course Scheduling System** using Java's `ArrayList`. We explore advanced list operations beyond simple addition:
   - **Positional Insertion**: Using index-based `add(index, element)` to prioritize subjects.
   - **Element Removal**: Using `remove(Object)` to drop specific courses.
