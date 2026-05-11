@@ -10,7 +10,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Set: HashSet and TreeSet, uniqueness of elements.
-- [Task 452 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_452_V0.1) — 
+- [Task 452 Shopping List: Automated Deduplication V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_452_V0.1) — Redundancy in data can lead to unnecessary processing and logical errors. This project addresses the common problem of **Removing Duplicates from a Collection**. Using a shopping list scenario, we demonstrate a highly efficient Java idiom: converting a `List` containing duplicate entries into a `Set`. Since the `Set` interface fundamentally prohibits duplicate elements, the conversion process automatically filters the data, leaving only unique items.
 - [Task 451 Event Organizer: Sorted Unique Sets V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_451_V0.1) — In event management, maintaining a clean and ordered guest list is essential for check-in efficiency. This project demonstrates the usage of **TreeSet**, a collection that implements the `SortedSet` interface. Unlike a standard `HashSet`, a `TreeSet` automatically maintains its elements in their natural order (alphabetical for Strings). Additionally, it strictly enforces uniqueness, ensuring that each attendee is listed only once. This project covers collection initialization, data insertion, and verifying the sorted, duplicate-free output.
 ---
 
