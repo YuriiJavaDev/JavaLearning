@@ -16,7 +16,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Map: HashMap and TreeMap, keys and values.
 - [Task 450 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_450_V0.1) — 
-- [Task 449 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_449_V0.1) — 
+- [Task 449 Smart Task Scheduler: Map Iteration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_449_V0.1) — Efficient scheduling requires a clear mapping between descriptors and their numerical values. This project demonstrates the use of a **HashMap** to associate the days of the week with their ordinal numbers. The core focus is on **Collection Iteration**, specifically using the `entrySet()` method. This approach allows access to both the key and the value simultaneously during a single loop, providing a clean and efficient way to format and display associated data for the end user.
 ---
 
 ## List: ArrayList and LinkedList, basic operations.
