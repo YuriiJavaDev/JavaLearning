@@ -15,7 +15,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Map: HashMap and TreeMap, keys and values.
-- [Task 450 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_450_V0.1) — 
+- [Task 450 Warehouse Inventory: Sorted Maps V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_450_V0.1) — In warehouse logistics, having data sorted alphabetically is crucial for quick navigation and reporting. This project demonstrates the usage of **TreeMap**, a specialized Map implementation in Java that maintains its keys in their natural order (alphabetical for Strings). Unlike `HashMap`, which offers no order guarantees, `TreeMap` ensures that every iteration over the collection reflects a sorted state. We practice data insertion and custom formatting of the sorted output.
 - [Task 449 Smart Task Scheduler: Map Iteration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_449_V0.1) — Efficient scheduling requires a clear mapping between descriptors and their numerical values. This project demonstrates the use of a **HashMap** to associate the days of the week with their ordinal numbers. The core focus is on **Collection Iteration**, specifically using the `entrySet()` method. This approach allows access to both the key and the value simultaneously during a single loop, providing a clean and efficient way to format and display associated data for the end user.
 ---
 
