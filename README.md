@@ -11,7 +11,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Set: HashSet and TreeSet, uniqueness of elements.
 - [Task 452 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_452_V0.1) — 
-- [Task 451 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_451_V0.1) — 
+- [Task 451 Event Organizer: Sorted Unique Sets V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_451_V0.1) — In event management, maintaining a clean and ordered guest list is essential for check-in efficiency. This project demonstrates the usage of **TreeSet**, a collection that implements the `SortedSet` interface. Unlike a standard `HashSet`, a `TreeSet` automatically maintains its elements in their natural order (alphabetical for Strings). Additionally, it strictly enforces uniqueness, ensuring that each attendee is listed only once. This project covers collection initialization, data insertion, and verifying the sorted, duplicate-free output.
 ---
 
 ## Map: HashMap and TreeMap, keys and values.
