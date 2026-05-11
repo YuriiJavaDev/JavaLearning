@@ -22,9 +22,9 @@ Welcome! This is the main navigator for my educational projects.
 ## List: ArrayList and LinkedList, basic operations.
 - [Task 448 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_448_V0.1) — 
 - [Task 447 Student Schedule: Dynamic List Manipulation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_447_V0.1) — University schedules are subject to frequent changes during the registration period. This project simulates a **Course Scheduling System** using Java's `ArrayList`. We explore advanced list operations beyond simple addition:
-- **Positional Insertion**: Using index-based `add(index, element)` to prioritize subjects.
-- **Element Removal**: Using `remove(Object)` to drop specific courses.
-- **Iterative Display**: Printing each element individually to simulate a structured schedule view.
+  - **Positional Insertion**: Using index-based `add(index, element)` to prioritize subjects.
+  - **Element Removal**: Using `remove(Object)` to drop specific courses.
+  - **Iterative Display**: Printing each element individually to simulate a structured schedule view.
 ---
 
 ## Java Collections Overview - Why Use Collections?
