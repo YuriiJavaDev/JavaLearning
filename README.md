@@ -5,75 +5,75 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 # 👉 Collections and generics.
 ## Generics: why they are needed, basic syntax.
-- [Task 454 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_454_V0.1) —
-- [Task 453 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_453_V0.1) —
+- [Task 454 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_454_V0.1) — 
+- [Task 453 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_453_V0.1) — 
 ## Set: HashSet and TreeSet, uniqueness of elements.
-- [Task 452 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_452_V0.1) —
-- [Task 451 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_451_V0.1) —
+- [Task 452 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_452_V0.1) — 
+- [Task 451 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_451_V0.1) — 
 ## Map: HashMap and TreeMap, keys and values.
-- [Task 450 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_450_V0.1) —
-- [Task 449 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_449_V0.1) —
+- [Task 450 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_450_V0.1) — 
+- [Task 449 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_449_V0.1) — 
 ## List: ArrayList and LinkedList, basic operations.
-- [Task 448 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_448_V0.1) —
-- [Task 447 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_447_V0.1) —
+- [Task 448 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_448_V0.1) — 
+- [Task 447 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_447_V0.1) — 
 ## Java Collections Overview - Why Use Collections?
-- [Task 446 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_446_V0.1) —
+- [Task 446 Student Card Index: Working with Maps V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_446_V0.1) — Efficient data retrieval is key to administrative systems. This project demonstrates the use of a **Map collection** (`HashMap`) to create a digital student card index. Unlike lists, a Map stores data in **key-value pairs**. In this scenario, we use the student's name as a unique key to store and quickly access their age. This practice covers map initialization, data insertion using the `put()` method, and displaying the entire collection.
 - [Task 445 Fruit Store Inventory: Dynamic Lists V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_445_V0.1) — In inventory management, static arrays are often insufficient because the number of items can change frequently. This project demonstrates the use of a **Dynamic List** (`ArrayList`) to manage a fruit store's stock. Unlike arrays, an `ArrayList` in Java can grow and shrink as needed. We practice the core operations of a collection: initialization, adding elements, and performing a bulk display of contents using the built-in string representation of the collection.
 ---
 
 # 👉 Advanced work with exceptions.
 ## Exceptions as part of the API and try-with-resources.
-- [Task 444 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_444_V0.1) —
-- [Task 443 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_443_V0.1) —
-- [Task 442 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_442_V0.1) —
+- [Task 444 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_444_V0.1) — 
+- [Task 443 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_443_V0.1) — 
+- [Task 442 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_442_V0.1) — 
 - [Task 441 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_441_V0.1) — 
 ## Complex exception handling and best practices.
-- [Task 440 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_440_V0.1) —
-- [Task 439 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_439_V0.1) —
-- [Task 438 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_438_V0.1) —
+- [Task 440 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_440_V0.1) — 
+- [Task 439 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_439_V0.1) — 
+- [Task 438 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_438_V0.1) — 
 - [Task 437 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_437_V0.1) — 
 ## Exception Chaining.
-- [Task 436 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_436_V0.1) —
-- [Task 435 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_435_V0.1) —
-- [Task 434 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_434_V0.1) —
+- [Task 436 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_436_V0.1) — 
+- [Task 435 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_435_V0.1) — 
+- [Task 434 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_434_V0.1) — 
 - [Task 433 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_433_V0.1) — 
 ## Creating your own exceptions.
-- [Task 432 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_432_V0.1) —
-- [Task 431 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_431_V0.1) —
-- [Task 430 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_430_V0.1) —
+- [Task 432 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_432_V0.1) — 
+- [Task 431 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_431_V0.1) — 
+- [Task 430 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_430_V0.1) — 
 - [Task 429 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_429_V0.1) — 
 ## Hierarchy of exceptions in Java.
-- [Task 428 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_428_V0.1) —
-- [Task 427 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_427_V0.1) —
-- [Task 426 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_426_V0.1) —
+- [Task 428 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_428_V0.1) — 
+- [Task 427 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_427_V0.1) — 
+- [Task 426 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_426_V0.1) — 
 - [Task 425 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_425_V0.1) — 
 ---
 
 # 👉 OOP - typical mistakes and best practices.
 ## Clean Code: Code style and readability, code conventions.
-- [Task 424 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_424_V0.1) —
-- [Task 423 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_423_V0.1) —
-- [Task 422 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_422_V0.1) —
+- [Task 424 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_424_V0.1) — 
+- [Task 423 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_423_V0.1) — 
+- [Task 422 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_422_V0.1) — 
 - [Task 421 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_421_V0.1) — 
 ## Problems of polymorphism and abstractions.
-- [Task 420 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_420_V0.1) —
-- [Task 419 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_419_V0.1) —
-- [Task 418 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_418_V0.1) —
+- [Task 420 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_420_V0.1) — 
+- [Task 419 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_419_V0.1) — 
+- [Task 418 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_418_V0.1) — 
 - [Task 417 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_417_V0.1) — 
 ## Errors with access modifiers.
-- [Task 416 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_416_V0.1) —
-- [Task 415 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_415_V0.1) —
-- [Task 414 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_414_V0.1) —
+- [Task 416 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_416_V0.1) — 
+- [Task 415 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_415_V0.1) — 
+- [Task 414 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_414_V0.1) — 
 - [Task 413 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_413_V0.1) — 
 ## Errors with inheritance and method overloading.
-- [Task 412 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_412_V0.1) —
-- [Task 411 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_411_V0.1) —
-- [Task 410 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_410_V0.1) —
+- [Task 412 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_412_V0.1) — 
+- [Task 411 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_411_V0.1) — 
+- [Task 410 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_410_V0.1) — 
 - [Task 409 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_409_V0.1) — 
 ## Errors when declaring classes and objects.
-- [Task 408 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_408_V0.1) —
-- [Task 407 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_407_V0.1) —
-- [Task 406 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_406_V0.1) —
+- [Task 408 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_408_V0.1) — 
+- [Task 407 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_407_V0.1) — 
+- [Task 406 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_406_V0.1) — 
 - [Task 405 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_405_V0.1) — 
 ---
 
