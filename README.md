@@ -107,7 +107,7 @@ Welcome! This is the main navigator for my educational projects.
 - [Task 408 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_408_V0.1) — 
 - [Task 407 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_407_V0.1) — 
 - [Task 406 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_406_V0.1) — 
-- [Task 405 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_405_V0.1) — 
+- [Task 405 Student Management System: Foundational Blueprint V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_405_V0.1) — The first step in building a robust management system is defining the core entities. This project establishes the **Basic Class Structure** for a student record. By creating a public class, we ensure that the student blueprint is accessible to other components of the application. At this initial stage, the class focuses on a single responsibility: holding the student's name. This serves as the fundamental building block upon which more complex features (like grades, attendance, or IDs) will be constructed in future iterations.
 ---
 
 # 👉 Record classes.
