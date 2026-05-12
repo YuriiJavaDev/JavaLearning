@@ -6,7 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 # 👉 Collections and generics.
 ## Generics: why they are needed, basic syntax.
 - [Task 454 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_454_V0.1) — 
-- [Task 453 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_453_V0.1) — 
+- [Task 453 Digital Library Catalog: Object Collections V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_453_V0.1) — Modern applications rarely store simple types; instead, they manage complex objects that represent real-world entities. This project demonstrates the integration of a **Custom Class** with the **Java Collections Framework**. We define a `Book` model to encapsulate title and author data, then utilize an `ArrayList` to act as a digital library shelf. The project covers object instantiation, collection population, and iteration using the enhanced `for` loop to retrieve and display specific object properties.
 ---
 
 ## Set: HashSet and TreeSet, uniqueness of elements.
