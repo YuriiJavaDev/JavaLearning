@@ -52,7 +52,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Equals and hashCode contracts.
 - [Task 476 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_476_V0.1) — 
-- [Task 475 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_475_V0.1) — 
+- [Task 475 Urban Planner: Identity & Hashing V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_475_V0.1) — In data-driven systems, object identity is not always defined by memory address but by internal state. This project demonstrates the fundamental **equals() and hashCode() contract** in Java. We simulate a city registry where two distinct `City` objects must be treated as a single entity if their attributes match. By overriding these methods, we enable `HashSet` to correctly identify duplicates, ensuring that the virtual world remains consistent and free of redundant records.
 ---
 
 # 👉 Working with collections.
