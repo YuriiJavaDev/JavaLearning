@@ -5,28 +5,28 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 # 👉 Stream API Basics.
 ## Transforming collections via Stream.
-- [Task 484 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_484_V0.1) — 
-- [Task 483 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_483_V0.1) — 
+- [Task 494 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_494_V0.1) — 
+- [Task 493 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_493_V0.1) — 
 ---
 
 ## Methods forEach, peek: side effects.
-- [Task 482 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_482_V0.1) — 
-- [Task 481 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_481_V0.1) — 
+- [Task 492 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_492_V0.1) — 
+- [Task 491 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_491_V0.1) — 
 ---
 
 ## Stream API subsets: distinct, limit, skip.
-- [Task 480 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_480_V0.1) — 
-- [Task 479 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_479_V0.1) — 
+- [Task 490 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_490_V0.1) — 
+- [Task 489 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_489_V0.1) — 
 ---
 
 ## Basic Stream API operations: map, filter, collect.
-- [Task 478 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_478_V0.1) — 
-- [Task 477 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_477_V0.1) — 
+- [Task 488 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_488_V0.1) — 
+- [Task 487 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_487_V0.1) — 
 ---
 
 ## Introduction to the Stream API: Why Streams Matter?
-- [Task 476 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_476_V0.1) — 
-- [Task 475 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_475_V0.1) — 
+- [Task 486 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_486_V0.1) — 
+- [Task 485 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_485_V0.1) — 
 ---
 
 # 👉 Comparators and object comparisons.
