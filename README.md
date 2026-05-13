@@ -3,6 +3,110 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+# 👉 Stream API Basics.
+## Transforming collections via Stream.
+- [Task 484 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_484_V0.1) — 
+- [Task 483 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_483_V0.1) — 
+---
+
+## Methods forEach, peek: side effects.
+- [Task 482 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_482_V0.1) — 
+- [Task 481 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_481_V0.1) — 
+---
+
+## Stream API subsets: distinct, limit, skip.
+- [Task 480 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_480_V0.1) — 
+- [Task 479 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_479_V0.1) — 
+---
+
+## Basic Stream API operations: map, filter, collect.
+- [Task 478 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_478_V0.1) — 
+- [Task 477 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_477_V0.1) — 
+---
+
+## Introduction to the Stream API: Why Streams Matter?
+- [Task 476 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_476_V0.1) — 
+- [Task 475 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_475_V0.1) — 
+---
+
+# 👉 Comparators and object comparisons.
+## Searching and Sorting Elements in Java Collections.
+- [Task 484 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_484_V0.1) — 
+- [Task 483 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_483_V0.1) — 
+---
+
+## Comparator Interface: Creation, Use.
+- [Task 482 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_482_V0.1) — 
+- [Task 481 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_481_V0.1) — 
+---
+
+## Interface Comparable: implementation, compareTo.
+- [Task 480 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_480_V0.1) — 
+- [Task 479 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_479_V0.1) — 
+---
+
+## Objects class: methods equals, hashCode, hash.
+- [Task 478 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_478_V0.1) — 
+- [Task 477 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_477_V0.1) — 
+---
+
+## Equals and hashCode contracts.
+- [Task 476 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_476_V0.1) — 
+- [Task 475 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_475_V0.1) — 
+---
+
+# 👉 Working with collections.
+## LinkedHashSet / LinkedHashMap.
+- [Task 474 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_474_V0.1) — 
+- [Task 473 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_473_V0.1) — 
+---
+
+## EnumSet / EnumMap.
+- [Task 472 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_472_V0.1) — 
+- [Task 471 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_471_V0.1) — 
+---
+
+## Safely remove items.
+- [Task 470 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_470_V0.1) — 
+- [Task 469 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_469_V0.1) — 
+---
+
+## Transforming collections.
+- [Task 468 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_468_V0.1) — 
+- [Task 467 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_467_V0.1) — 
+---
+
+## Filtering collection items.
+- [Task 466 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_466_V0.1) — 
+- [Task 465 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_465_V0.1) — 
+---
+
+# 👉 Collection interfaces.
+## Generics wildcards.
+- [Task 464 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_464_V0.1) — 
+- [Task 463 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_463_V0.1) — 
+---
+
+## NavigableSet / NavigableMap.
+- [Task 462 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_462_V0.1) — 
+- [Task 461 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_461_V0.1) — 
+---
+
+## Queue, Deque, Stack: Working with Queues and Stacks.
+- [Task 460 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_460_V0.1) — 
+- [Task 459 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_459_V0.1) — 
+---
+
+## Iterable and Iterator: iterating over collections.
+- [Task 458 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_458_V0.1) — 
+- [Task 457 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_457_V0.1) — 
+---
+
+## Collection, List, Set, Map interfaces: hierarchy.
+- [Task 456 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_456_V0.1) — 
+- [Task 455 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_455_V0.1) — 
+---
+
 # 👉 Collections and generics.
 ## Generics: why they are needed, basic syntax.
 - [Task 454 Universal Containers: Introduction to Generics V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_454_V0.1) — Creating specialized classes for every data type leads to redundant and unmaintainable code. This project introduces **Java Generics** through a "Magic Chest" metaphor. By using a type parameter `<T>`, we create a `UniversalChest` class that can securely hold any object type while maintaining compile-time type safety. This approach allows the same class logic to be reused for strings, integers, or custom objects without the risks associated with using the raw `Object` class.
