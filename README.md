@@ -51,7 +51,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Equals and hashCode contracts.
-- [Task 476 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_476_V0.1) — 
+- [Task 476 HR System: Object Identity in HashMaps V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_476_V0.1) — In professional software development, objects are often used as keys in a `Map`. This project explores the **Contract between equals() and hashCode()** specifically for `HashMap` performance. We simulate an HR system where employees are identified by a combination of their name and a unique ID. By correctly overriding the identity methods, we ensure that the system can retrieve an employee's role using any instance of an `Employee` object that carries the correct credentials, regardless of its location in memory.
 - [Task 475 Urban Planner: Identity & Hashing V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_475_V0.1) — In data-driven systems, object identity is not always defined by memory address but by internal state. This project demonstrates the fundamental **equals() and hashCode() contract** in Java. We simulate a city registry where two distinct `City` objects must be treated as a single entity if their attributes match. By overriding these methods, we enable `HashSet` to correctly identify duplicates, ensuring that the virtual world remains consistent and free of redundant records.
 ---
 
