@@ -46,7 +46,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Objects class: methods equals, hashCode, hash.
-- [Task 478 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_478_V0.1) — 
+- [Task 478 Event Planner: Custom Object Comparison V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_478_V0.1) — Sorting objects in Java requires a clear set of rules. This project explores the **Comparator Interface** and the **Objects.compare** utility. We simulate an event planning scenario where `Person` objects must be ordered alphabetically by their names. By decoupling the comparison logic from the data class itself, we create a flexible and robust system that can be easily extended for different sorting criteria in the future.
 - [Task 477 Digital Library: Hashing & Identity V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_477_V0.1) — In large-scale digital catalogs, comparing full strings or entire objects is computationally expensive. This project introduces the concept of **Hashing**, where complex object data is reduced to a single integer "fingerprint". By overriding the `hashCode()` method and utilizing the `Objects.hash` utility, we ensure that any `Book` with the same title and author consistently generates the same identifier. This is a fundamental requirement for storing objects in high-performance data structures like `HashMap` or `HashSet`.
 ---
 
