@@ -47,7 +47,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Objects class: methods equals, hashCode, hash.
 - [Task 478 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_478_V0.1) — 
-- [Task 477 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_477_V0.1) — 
+- [Task 477 Digital Library: Hashing & Identity V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_477_V0.1) — In large-scale digital catalogs, comparing full strings or entire objects is computationally expensive. This project introduces the concept of **Hashing**, where complex object data is reduced to a single integer "fingerprint". By overriding the `hashCode()` method and utilizing the `Objects.hash` utility, we ensure that any `Book` with the same title and author consistently generates the same identifier. This is a fundamental requirement for storing objects in high-performance data structures like `HashMap` or `HashSet`.
 ---
 
 ## Equals and hashCode contracts.
