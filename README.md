@@ -37,7 +37,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Comparator Interface: Creation, Use.
 - [Task 482 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_482_V0.1) — 
-- [Task 481 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_481_V0.1) — 
+- [Task 481 Event Coordinator: Anonymous Comparators V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_481_V0.1) — In many development scenarios, specific sorting logic is only required once within a particular method. This project explores the use of **Anonymous Inner Classes** in Java. Instead of creating a standalone class file for a `Comparator`, we define the comparison logic directly within the `sort` method call. We apply this to an event guest list, ordering `Person` objects by `personAge` in ascending order. This approach demonstrates code locality and reduces the number of small, single-use files in the project.
 ---
 
 ## Interface Comparable: implementation, compareTo.
