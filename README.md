@@ -42,7 +42,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Interface Comparable: implementation, compareTo.
 - [Task 480 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_480_V0.1) — 
-- [Task 479 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_479_V0.1) — 
+- [Task 479 Digital Catalog: Multi-Criteria Sorting V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_479_V0.1) — In sophisticated systems, a single sorting criterion is often insufficient. This project demonstrates **Natural Ordering** in Java by implementing the `Comparable<Book>` interface. We simulate a library catalog that prioritizes chronological order (`publicationYear`). To handle books from the same year, a secondary alphabetical sort (`bookTitle`) is applied. This "chained" comparison logic ensures a deterministic and predictable order in any collection, which is essential for professional data management.
 ---
 
 ## Objects class: methods equals, hashCode, hash.
