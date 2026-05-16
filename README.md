@@ -32,7 +32,7 @@ Welcome! This is the main navigator for my educational projects.
 # 👉 Comparators and object comparisons.
 ## Searching and Sorting Elements in Java Collections.
 - [Task 484 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_484_V0.1) — 
-- [Task 483 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_483_V0.1) — 
+- [Task 483 Wildlife Tracker: List Indexing Operations V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_483_V0.1) — Tracking occurrences within an ordered data set is a fundamental task in log analysis and auditing systems. This project explores the **List Searching** in Java. We simulate a wildlife explorer's log to pinpoint the exact sequence positions of a target element ("cat"). By leveraging `indexOf()` and `lastIndexOf()`, we efficiently determine the boundaries of an element's presence within an `ArrayList` without manual iteration, showcasing clean and optimized collection traversal.
 ---
 
 ## Comparator Interface: Creation, Use.
