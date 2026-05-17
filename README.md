@@ -25,7 +25,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Introduction to the Stream API: Why Streams Matter?
-- [Task 486 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_486_V0.1) — 
+- [Task 486 E-Commerce Category Processor: Stream Mapping V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_486_V0.1) — Standardizing user-generated content or raw data tags is a routine requirement for modern web applications. This project demonstrates the core capabilities of the **Java Stream API** for data transformation. We process a list of product categories, converting each string from lowercase to uppercase using the intermediate `map()` operation. Crucially, the transformation is non-destructive, preserving the integrity of the original dataset while gathering the modified elements into a brand-new, clean list using a collector.
 - [Task 485 Adventure Game: Stream API Progress Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_485_V0.1) — Iterating over arrays using traditional `for` loops can introduce boilerplate syntax and mutable state. This project introduces the **Java Stream API** to track and display player progress in a simple adventure game. By converting a primitive `int[]` array into an `IntStream`, we process each completed level individually using the declarative `forEach` operation. This approach highlights the transition from imperative to functional programming patterns in modern Java development.
 ---
 
