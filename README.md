@@ -31,7 +31,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Comparators and object comparisons.
 ## Searching and Sorting Elements in Java Collections.
-- [Task 484 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_484_V0.1) — 
+- [Task 484 Gaming League Analytics: Extreme Scores V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_484_V0.1) — Analyzing performance data requires rapid identification of statistical extremes. This project demonstrates how to find the minimum and maximum values in a Java collection using standard library tools. Instead of manually iterating through the player scores using loops and conditional statements, we utilize the high-performance utility methods `Collections.max()` and `Collections.min()`. This approach ensures optimal code density and eliminates potential off-by-one errors common in manual search algorithms.
 - [Task 483 Wildlife Tracker: List Indexing Operations V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_483_V0.1) — Tracking occurrences within an ordered data set is a fundamental task in log analysis and auditing systems. This project explores the **List Searching** in Java. We simulate a wildlife explorer's log to pinpoint the exact sequence positions of a target element ("cat"). By leveraging `indexOf()` and `lastIndexOf()`, we efficiently determine the boundaries of an element's presence within an `ArrayList` without manual iteration, showcasing clean and optimized collection traversal.
 ---
 
