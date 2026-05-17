@@ -26,7 +26,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Introduction to the Stream API: Why Streams Matter?
 - [Task 486 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_486_V0.1) — 
-- [Task 485 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_485_V0.1) — 
+- [Task 485 Adventure Game: Stream API Progress Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_485_V0.1) — Iterating over arrays using traditional `for` loops can introduce boilerplate syntax and mutable state. This project introduces the **Java Stream API** to track and display player progress in a simple adventure game. By converting a primitive `int[]` array into an `IntStream`, we process each completed level individually using the declarative `forEach` operation. This approach highlights the transition from imperative to functional programming patterns in modern Java development.
 ---
 
 # 👉 Comparators and object comparisons.
