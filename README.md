@@ -21,7 +21,8 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Basic Stream API operations: map, filter, collect.
 - [Task 488 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_488_V0.1) — 
-- [Task 487 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_487_V0.1) — 
+- [Task 487 Magic Shop Inventory: Multi-Stage Stream Pipeline V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_487_V0.1) — Complex data processing often requires filtering out irrelevant records before transforming.
+The remaining data into a completely different format. This project demonstrates a multi-stage **Java Stream API** pipeline. We process an inventory list of magical items by first filtering strings that start with the letter "a" using a predicate. Then, we transform the surviving text elements into their respective integer lengths via the `map()` operation. The final numeric values are securely collected into a new list, showcasing type transformation in functional streams.
 ---
 
 ## Introduction to the Stream API: Why Streams Matter?
