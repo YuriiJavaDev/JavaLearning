@@ -20,7 +20,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Basic Stream API operations: map, filter, collect.
-- [Task 488 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_488_V0.1) — 
+- [Task 488 Equipment Monitoring: Stream-Based Anomaly Detection V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_488_V0.1) — In industrial monitoring and telemetry applications, isolating specific patterns from raw data streams is a critical requirement. This project implements an anomaly detection filter using the **Java Stream API**. We process a collection of raw integer sensor readings, isolating potentially critical odd values via a `.filter()` predicate. These numeric anomalies are then transformed into structured, human-readable string labels (`"Odd: X"`) using the `.map()` operation and gathered into a new notification list for operator review.
 - [Task 487 Magic Shop Inventory: Multi-Stage Stream Pipeline V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_487_V0.1) — Complex data processing often requires filtering out irrelevant records before transforming.
 The remaining data into a completely different format. This project demonstrates a multi-stage **Java Stream API** pipeline. We process an inventory list of magical items by first filtering strings that start with the letter "a" using a predicate. Then, we transform the surviving text elements into their respective integer lengths via the `map()` operation. The final numeric values are securely collected into a new list, showcasing type transformation in functional streams.
 ---
