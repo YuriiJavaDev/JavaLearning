@@ -11,7 +11,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Methods forEach, peek: side effects.
 - [Task 492 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_492_V0.1) — 
-- [Task 491 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_491_V0.1) — 
+- [Task 491 Classroom Management: Immediate Stream Processing V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_491_V0.1) — In many data-processing scenarios, accumulating results into a intermediate collection is redundant and wasteful for system memory. This project demonstrates **Immediate Stream Consumption** using the Java Stream API. We simulate a classroom environment where a teacher filters a student roster to find names starting with the letter 'A'. Instead of collecting these names into a new `List`, the pipeline utilizes the terminal `forEach()` operation combined with a method reference to print each matching student immediately as they pass through the filter.
 ---
 
 ## Stream API subsets: distinct, limit, skip.
