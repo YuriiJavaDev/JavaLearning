@@ -15,7 +15,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Stream API subsets: distinct, limit, skip.
-- [Task 490 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_490_V0.1) — 
+- [Task 490 Sales Data Analytics: Unique Figures Filtering V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_490_V0.1) — Data analysis frequently requires stripping away redundant information to focus on unique benchmarks. This project demonstrates how to clean and truncate a dataset using the **Java Stream API**. We process a raw list of sales figures containing multiple duplicates. By chaining the `.distinct()` operation (which filters out repetitive elements based on their `equals()` contract) and the `.limit(4)` operation, we safely extract a precise, high-significance subset for management reporting without manual set conversions.
 - [Task 489 Exclusive Party Manager: Stream Pagination & Skipping V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_489_V0.1) — Managing ordered queues often requires bypassing a specific subsets of records, such as pre-processed entries or VIP data. This project demonstrates the usage of the **Stream API `.skip()` operation** in Java. We simulate a party entrance queue where the first two guests (VIPs) have already been processed. By applying the `skip(2)` intermediate operation to the data stream, we cleanly slice the collection, isolating the remaining guests into a new list for regular pass issuance. This pattern mirrors real-world pagination logic used in enterprise data tables.
 ---
 
