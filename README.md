@@ -6,7 +6,7 @@ Welcome! This is the main navigator for my educational projects.
 # 👉 Stream API Basics.
 ## Transforming collections via Stream.
 - [Task 494 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_494_V0.1) — 
-- [Task 493 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_493_V0.1) — 
+- [Task 493 Conference Registry: Attendee Deduplication V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_493_V0.1) — Data entry errors, such as duplicate form submissions, frequently pollute raw registration rosters. This project demonstrates how to sanitize a dataset using the **Java Stream API**. We process a conference guest list containing redundant entries. By applying the intermediate `.distinct()` operation, the pipeline dynamically filters out duplicate string tokens based on their hash codes and equality contracts. The resulting stream preserves the original order of first appearance while ensuring a precise, unique headcount for logistics planning.
 ---
 
 ## Methods forEach, peek: side effects.
