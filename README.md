@@ -3,6 +3,58 @@
 Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
+# 👉 Events and event handling.
+## tmp (15).
+- [Task 514 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_514_V0.1) — 
+- [Task 513 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_513_V0.1) — 
+---
+
+## Events in Swing and AWT: Basics, Examples.
+- [Task 512 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_512_V0.1) — 
+- [Task 511 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_511_V0.1) — 
+---
+
+## Listeners and event interfaces.
+- [Task 510 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_510_V0.1) — 
+- [Task 509 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_509_V0.1) — 
+---
+
+## Arrangement of elements.
+- [Task 508 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_508_V0.1) — 
+- [Task 507 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_507_V0.1) — 
+---
+
+## Swing.
+- [Task 506 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_506_V0.1) — 
+- [Task 505 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_505_V0.1) — 
+---
+
+# 👉 Lambda expressions.
+## Anonymous classes: difference from lambda, examples.
+- [Task 504 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_504_V0.1) — 
+- [Task 503 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_503_V0.1) — 
+---
+
+## Closures in Java: Features.
+- [Task 502 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_502_V0.1) — 
+- [Task 501 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_501_V0.1) — 
+---
+
+## Advantages and disadvantages of lambda expressions.
+- [Task 500 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_500_V0.1) — 
+- [Task 499 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_499_V0.1) — 
+---
+
+## Using lambda in collections and streams.
+- [Task 498 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_498_V0.1) — 
+- [Task 497 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_497_V0.1) — 
+---
+
+## Lambda expressions: syntax, scopes.
+- [Task 496 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_496_V0.1) — 
+- [Task 495 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_495_V0.1) — 
+---
+
 # 👉 Stream API Basics.
 ## Transforming collections via Stream.
 - [Task 494 V0.2 User Profile Database: Advanced Map Refactoring V0.2](https://github.com/YuriiJavaDev/JavaBasics_Task_494_V0.2) — Modern enterprise Java applications separate domain models from execution logic to preserve the **Single Responsibility Principle**. This project refactors the previous user management system by extracting the inner class into an independent **Java Record** (`User.java`). By utilizing a record, we automatically inherit immutability, thread-safety, and boilerplate-free data carriers. The pipeline processes this clean data structure using `Collectors.toMap()`, resolving identity collisions while preserving the sequential integrity of the import via `LinkedHashMap`.
