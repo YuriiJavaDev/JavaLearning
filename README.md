@@ -52,7 +52,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Lambda expressions: syntax, scopes.
 - [Task 496 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_496_V0.1) — 
-- [Task 495 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_495_V0.1) — 
+- [Task 495 Magical Workshop: Independent Comparator Variables V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_495_V0.1) — In advanced Java development, extracting sorting logic into independent, reusable components is an architectural best practice. This project demonstrates how to instantiate a `Comparator<String>` as a separate variable using a **Lambda Expression**. We simulate a magical workshop sorting objects ("cat", "elephant", "dog") by their character length. Instead of embedding the comparison inline, the lambda is assigned directly to a functional interface variable and then passed to the collection's sorting engine, showcasing decoupled and clean code design.
 ---
 
 # 👉 Stream API Basics.
