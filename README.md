@@ -51,7 +51,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Lambda expressions: syntax, scopes.
-- [Task 496 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_496_V0.1) — 
+- [Task 496 Mystic Number Predictor: The Function Interface V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_496_V0.1) — Functional programming in Java standardizes common behavioral patterns using predefined functional interfaces. This project explores the **`Function<Integer, String>` interface**, which captures the concept of a routine that transforms an input of one type into an output of another. We simulate a mystic artifact that evaluates whether an integer possesses "Even" or "Odd" properties. By assigning a lambda expression to a `Function` variable, we encapsulate this conditional logic cleanly and execute it dynamically via the `.apply()` method.
 - [Task 495 Magical Workshop: Independent Comparator Variables V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_495_V0.1) — In advanced Java development, extracting sorting logic into independent, reusable components is an architectural best practice. This project demonstrates how to instantiate a `Comparator<String>` as a separate variable using a **Lambda Expression**. We simulate a magical workshop sorting objects ("cat", "elephant", "dog") by their character length. Instead of embedding the comparison inline, the lambda is assigned directly to a functional interface variable and then passed to the collection's sorting engine, showcasing decoupled and clean code design.
 ---
 
