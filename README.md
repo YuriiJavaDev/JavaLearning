@@ -46,7 +46,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Using lambda in collections and streams.
-- [Task 498 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_498_V0.1) — 
+- [Task 498 Great Waters Expedition: Stream Pipeline Filtering V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_498_V0.1) — Cartographic data processing requires filtering out minor geographical features to focus on high-significance landmarks. This project demonstrates a multi-stage **Java Stream API** pipeline that refines a list of water bodies. By chaining the `.filter()` operation to isolate names longer than 4 characters and the `.map()` operation to standardize them to uppercase, we process data efficiently in a functional style. The final structured elements are collected into a completely new list, preserving the immutability of the source dataset.
 - [Task 497 Supermarket Inventory: In-Place Collection Transformation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_497_V0.1) — While the Stream API is ideal for non-destructive data pipelines, certain scenarios require modifying the elements of an existing mutable collection directly to optimize memory allocation. This project explores the **`List.replaceAll()`** method introduced in Java 8. We simulate a modern supermarket inventory system where lowercase product names ("milk", "cheese", "bread", etc.) must be standardized to uppercase for digital displays. By passing a compact lambda expression to `replaceAll()`, the elements within the `ArrayList` are modified in-place, showcasing efficient state mutation using functional interfaces.
 ---
 
