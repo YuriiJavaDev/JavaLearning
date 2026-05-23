@@ -41,7 +41,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Advantages and disadvantages of lambda expressions.
-- [Task 500 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_500_V0.1) — 
+- [Task 500 Wizard Scroll Purge: In-Place Element Removal V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_500_V0.1) — Modifying the structure of a collection while iterating over it using standard loops often results in runtime errors. This project explores the **`List.removeIf()`** method, which solves this problem by using functional predicates. We simulate a wizard's scroll containing integers from 1 to 5, where all even numbers are deemed "impure" and must be expunged. By passing a precise lambda predicate to `removeIf()`, the underlying `ArrayList` dynamically purges all elements that match the condition in a single, memory-efficient operation.
 - [Task 499 Secret Service Dispatch: Optimized Sequence Sorting V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_499_V0.1) — In high-throughput or time-critical systems, reducing code verbosity and maximizing execution clarity is essential. This project demonstrates optimized collection sorting using the **Java Collections and Comparator APIs**. We simulate a secret service operation where intercepted messages of varying lengths must be ordered from shortest to longest. By utilizing the modern `Comparator.comparingInt()` utility method and a method reference, we build a highly expressive, boilerplate-free sorting routine that modifies the mutable list in place.
 ---
 
