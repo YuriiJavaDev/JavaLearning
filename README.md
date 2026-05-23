@@ -47,7 +47,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Using lambda in collections and streams.
 - [Task 498 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_498_V0.1) — 
-- [Task 497 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_497_V0.1) — 
+- [Task 497 Supermarket Inventory: In-Place Collection Transformation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_497_V0.1) — While the Stream API is ideal for non-destructive data pipelines, certain scenarios require modifying the elements of an existing mutable collection directly to optimize memory allocation. This project explores the **`List.replaceAll()`** method introduced in Java 8. We simulate a modern supermarket inventory system where lowercase product names ("milk", "cheese", "bread", etc.) must be standardized to uppercase for digital displays. By passing a compact lambda expression to `replaceAll()`, the elements within the `ArrayList` are modified in-place, showcasing efficient state mutation using functional interfaces.
 ---
 
 ## Lambda expressions: syntax, scopes.
