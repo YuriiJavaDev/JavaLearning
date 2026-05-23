@@ -37,7 +37,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Closures in Java: Features.
 - [Task 502 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_502_V0.1) — 
-- [Task 501 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_501_V0.1) — 
+- [Task 501 Robotic Greeter: Functional Closures & Deferred Execution V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_501_V0.1) — Functional programming relies heavily on the concept of **Closures**, where a lambda expression retains access to variables from its originating scope even after that scope has closed. This project demonstrates this behavior using the standard **`Runnable` interface** in Java. We model a robotic greeter service where a method configuration stores a targeted name state. Instead of immediately printing a string, the method yields an operational block (a lambda blueprint) that encapsulates this specific name. When triggered at a later point in the lifecycle via the `.run()` method, the machine outputs the personalized salute.
 ---
 
 ## Advantages and disadvantages of lambda expressions.
