@@ -32,7 +32,7 @@ Welcome! This is the main navigator for my educational projects.
 # 👉 Lambda expressions.
 ## Anonymous classes: difference from lambda, examples.
 - [Task 504 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_504_V0.1) — 
-- [Task 503 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_503_V0.1) — 
+- [Task 503 Digital Zoo Manager: Anonymous Inner Classes & Filtering V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_503_V0.1) — Before the introduction of lambda expressions in Java 8, structural behavioral parameterization relied heavily on anonymous inner classes. This project demonstrates in-place collection filtering using the **`List.removeIf()`** method combined with an explicit **anonymous class** implementing the `Predicate<String>` contract. We simulate a digital zoo catalog containing various animal names. The application isolates and purges short, non-compliant names directly within the mutable `ArrayList`, showcasing the foundational syntax that underpins modern functional programming in Java.
 ---
 
 ## Closures in Java: Features.
