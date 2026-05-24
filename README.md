@@ -31,7 +31,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Lambda expressions.
 ## Anonymous classes: difference from lambda, examples.
-- [Task 504 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_504_V0.1) — 
+- [Task 504 Playwright Voices: Deep Scope & Context Analysis V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_504_V0.1) — Understanding the execution context of the `this` keyword is critical when shifting from classic Java structures to functional paradigms. This project maps out the behavioral dichotomy between **anonymous inner classes** and **lambda expressions**. We structure a theatrical play scenario where a primary `Main` narrator class and an inline anonymous character both attempt to resolve their own internal name properties via `this.name`. The project proves that an anonymous inner class introduces a new scope level, whereas a lambda expression remains structurally transparent and inherits the surrounding lexical scope.
 - [Task 503 Digital Zoo Manager: Anonymous Inner Classes & Filtering V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_503_V0.1) — Before the introduction of lambda expressions in Java 8, structural behavioral parameterization relied heavily on anonymous inner classes. This project demonstrates in-place collection filtering using the **`List.removeIf()`** method combined with an explicit **anonymous class** implementing the `Predicate<String>` contract. We simulate a digital zoo catalog containing various animal names. The application isolates and purges short, non-compliant names directly within the mutable `ArrayList`, showcasing the foundational syntax that underpins modern functional programming in Java.
 ---
 
