@@ -4,6 +4,10 @@ Welcome! This is the main navigator for my educational projects.
 
 # 📁 JavaBasics
 # 👉 Events and event handling.
+## Bonus - Pinball.
+- [Pinball by YuriiJavaDev V0.1](https://github.com/YuriiJavaDev/PinballGame_V0.1) — Game Pinball by YuriiJavaDev V0.1
+---
+Pinball by YuriiJavaDev V0.1
 ## tmp (15).
 - [Task 514 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_514_V0.1) — 
 - [Task 513 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_513_V0.1) — 
