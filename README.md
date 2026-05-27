@@ -5,6 +5,7 @@ Welcome! This is the main navigator for my educational projects.
 # 📁 JavaBasics
 # 👉 Events and event handling.
 ## Bonus - Pinball.
+- [BonusTask "Catch Me If You Can" V0.1](https://github.com/YuriiJavaDev/JavaBasics_BonusTask_CatchMeIfYouCan_V0.1) — User interfaces are typically designed to facilitate seamless interaction. This bonus project flips that paradigm for an entertaining educational purpose. Using **Java Swing**, we implement a classic "Catch Me If You Can" trick game. The central component is a button labeled "Click Me!". As soon as the user guides the mouse cursor near the button's active boundary region, the application intercepts the motion vectors and instantly repositions the button to a random, safe location within the frame coordinates. This prevents the mouse from ever triggering a click event, demonstrating dynamic geometry updates and real-time cursor tracking.
 - [Pinball by YuriiJavaDev V0.1](https://github.com/YuriiJavaDev/PinballGame_V0.1) — Game Pinball by YuriiJavaDev V0.1
 ---
 Pinball by YuriiJavaDev V0.1
