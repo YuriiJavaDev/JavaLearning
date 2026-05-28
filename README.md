@@ -26,7 +26,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Arrangement of elements.
 - [Task 508 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_508_V0.1) — 
-- [Task 507 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_507_V0.1) — 
+- [Task 507 Window Lifecycle Events: Window Activity Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_507_V0.1) — In advanced user interface engineering, detecting window focus states is paramount for optimizing resource allocations and rendering behavior. This project isolates the **`windowActivated`** and **`windowDeactivated`** events from the Java Swing state machine. By mapping an observer onto the core `JFrame`, the application dynamically tracks whether the frame is currently the active window in the native operating system environment. When focus shifts to the application, the underlying content panel transitions its background layout to green. Conversely, when the window loses system focus, it gracefully switches to a neutral gray tone.
 ---
 
 ## Swing.
