@@ -36,15 +36,18 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Key Bindings.
 - [Task 512 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_512_V0.1) —
-- [Task 511 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_511_V0.1) — 
+- [Task 511 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_511_V0.1) —
+
+- 
 ---
 
 ## Action and action handling in Swing.
+- [Task 511 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_511_V0.1) — 
 - [Task 510 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_510_V0.1) —
-- [Task 509 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_509_V0.1) — 
 ---
 
 ## WindowListener – Handling window events in Swing.
+- [Task 509 Window Lifecycle Events: Save Before Closing Simulation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_509_V0.1) — In data-centric software development, safeguarding active runtime user state against accidental loss is a primary architectural pattern. This project simulates a professional "save-on-exit" system within a graphical text processing application. Utilizing a **`JTextArea`** container wrapped in a **`JScrollPane`**, users can compose arbitrary textual data. When an operating system window closure dispatch is triggered, our system intercepts the pipeline, suppressing immediate destruction. If data validation confirms the text layout is not empty, a modal dialog presents three routing outcomes: saving the data structure to standard stream output logs, discarding changes to exit, or aborting the exit flow completely to resume editing.
 - [Task 508 Window Lifecycle Events: Minimize & Restore Counter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_508_V0.1) — In desktop application tracking and performance analytics, intercepting window resizing and minimization cycles provides critical metrics regarding user engagement. This project isolates the **`windowIconified`** (minimized to taskbar) and **`windowDeiconified`** (restored from taskbar) lifecycle states in Java Swing. Because event triggers modify shared tracking metrics from within an asynchronous event listener block, the architecture utilizes thread-safe **`AtomicInteger`** variables. The current calculation totals are dynamically formatted and rendered onto the UI screen in real time using a standard responsive `JLabel` component.
 - [Task 507 Window Lifecycle Events: Window Activity Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_507_V0.1) — In advanced user interface engineering, detecting window focus states is paramount for optimizing resource allocations and rendering behavior. This project isolates the **`windowActivated`** and **`windowDeactivated`** events from the Java Swing state machine. By mapping an observer onto the core `JFrame`, the application dynamically tracks whether the frame is currently the active window in the native operating system environment. When focus shifts to the application, the underlying content panel transitions its background layout to green. Conversely, when the window loses system focus, it gracefully switches to a neutral gray tone.
 ---
