@@ -31,7 +31,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Swing.
 - [Task 506 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_506_V0.1) — 
-- [Task 505 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_505_V0.1) — 
+- [Task 505 Window Lifecycle Events: Handling Window Opened V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_505_V0.1) — In event-driven graphical architectures, reacting to window state mutations (such as creation, opening, minimizing, or closing) is vital for setting up background resources, initializing network configurations, or tracking state. This project isolates the **`windowOpened`** event lifecycle trigger. Utilizing Java Swing's standard observer infrastructure, we map a window event listener onto a `JFrame`. When the operating system triggers the initialization sequence and paints the frame for the first time, our listener dynamically shifts the application title and registers a clean log record inside the standard system output stream.
 ---
 
 # 👉 Lambda expressions.
