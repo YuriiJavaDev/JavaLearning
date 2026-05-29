@@ -43,7 +43,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Action and action handling in Swing.
 - [Task 512 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_512_V0.1) — 
-- [Task 511 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_511_V0.1) — 
+- [Task 511 Component Event Interaction: ActionListener Basics V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_511_V0.1) — In event-driven graphical desktop designs, interactive components rely on localized listener abstractions to process behavioral user feedback. This project introduces the core **`ActionListener`** mechanics using a single **`JButton`** element. By mounting an event listener to the operational button component, we register an observer that waits for a user push dispatch. Upon activation, the underlying event pipeline captures the trigger, instantly updates the text state of the button component to reflect the interaction, and routes a confirmation entry to the standard console system output log.
 ---
 
 ## WindowListener – Handling window events in Swing.
