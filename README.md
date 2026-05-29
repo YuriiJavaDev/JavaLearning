@@ -10,43 +10,44 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Creating and handling your own events..
+- [Task 524 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_524_V0.1) — 
+- [Task 523 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_523_V0.1) — 
+---
+
+## Events in Swing and AWT: Basics, Examples.
 - [Task 522 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_522_V0.1) — 
 - [Task 521 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_521_V0.1) — 
 ---
 
-## Events in Swing and AWT: Basics, Examples.
+## Listeners and event interfaces.
 - [Task 520 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_520_V0.1) — 
 - [Task 519 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_519_V0.1) — 
 ---
 
-## Listeners and event interfaces.
-- [Task 518 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_518_V0.1) — 
+## Arrangement of elements.
+- [Task 518 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_518_V0.1) —
 - [Task 517 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_517_V0.1) — 
 ---
 
-## Arrangement of elements.
+## Mouse Events.
 - [Task 516 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_516_V0.1) —
 - [Task 515 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_515_V0.1) — 
 ---
 
-## Mouse Events.
-- [Task 514 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_514_V0.1) —
-- [Task 513 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_513_V0.1) — 
----
-
 ## Key Bindings.
-- [Task 512 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_512_V0.1) —
-- [Task 511 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_511_V0.1) —
+- [Task 514 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_514_V0.1) —
+- [Task 513 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_513_V0.1) —
 
 - 
 ---
 
 ## Action and action handling in Swing.
+- [Task 512 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_512_V0.1) — 
 - [Task 511 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_511_V0.1) — 
-- [Task 510 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_510_V0.1) —
 ---
 
 ## WindowListener – Handling window events in Swing.
+- [Task 510 Window Lifecycle Events: Full Window Monitor V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_510_V0.1) — In sophisticated desktop client architectures, comprehensive monitoring of window state transitions is vital for telemetry, analytical auditing, and automated session management. This project builds a unified event auditing dashboard. By binding a comprehensive **`WindowAdapter`** interceptor to the application frame, the system captures a full suite of operational lifecycle dispatches. Every state mutation—including window initiation, focus changes, taskbar shifts, and destruction requests—is instantly formatted, piped directly into the standard console output, and appended as a new track line inside a scrollable **`JTextArea`** presentation view.
 - [Task 509 Window Lifecycle Events: Save Before Closing Simulation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_509_V0.1) — In data-centric software development, safeguarding active runtime user state against accidental loss is a primary architectural pattern. This project simulates a professional "save-on-exit" system within a graphical text processing application. Utilizing a **`JTextArea`** container wrapped in a **`JScrollPane`**, users can compose arbitrary textual data. When an operating system window closure dispatch is triggered, our system intercepts the pipeline, suppressing immediate destruction. If data validation confirms the text layout is not empty, a modal dialog presents three routing outcomes: saving the data structure to standard stream output logs, discarding changes to exit, or aborting the exit flow completely to resume editing.
 - [Task 508 Window Lifecycle Events: Minimize & Restore Counter V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_508_V0.1) — In desktop application tracking and performance analytics, intercepting window resizing and minimization cycles provides critical metrics regarding user engagement. This project isolates the **`windowIconified`** (minimized to taskbar) and **`windowDeiconified`** (restored from taskbar) lifecycle states in Java Swing. Because event triggers modify shared tracking metrics from within an asynchronous event listener block, the architecture utilizes thread-safe **`AtomicInteger`** variables. The current calculation totals are dynamically formatted and rendered onto the UI screen in real time using a standard responsive `JLabel` component.
 - [Task 507 Window Lifecycle Events: Window Activity Tracker V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_507_V0.1) — In advanced user interface engineering, detecting window focus states is paramount for optimizing resource allocations and rendering behavior. This project isolates the **`windowActivated`** and **`windowDeactivated`** events from the Java Swing state machine. By mapping an observer onto the core `JFrame`, the application dynamically tracks whether the frame is currently the active window in the native operating system environment. When focus shifts to the application, the underlying content panel transitions its background layout to green. Conversely, when the window loses system focus, it gracefully switches to a neutral gray tone.
