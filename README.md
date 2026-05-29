@@ -35,9 +35,11 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Key Bindings.
-- [Task 514 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_514_V0.1) —
-
-- 
+- [Task 518 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_518_V0.1) — 
+- [Task 517 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_517_V0.1) — 
+- [Task 516 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_516_V0.1) — 
+- [Task 515 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_515_V0.1) — 
+- [Task 514 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_514_V0.1) — 
 ---
 
 ## Action and action handling in Swing.
