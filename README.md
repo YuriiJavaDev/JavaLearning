@@ -39,7 +39,7 @@ Welcome! This is the main navigator for my educational projects.
 - [Task 517 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_517_V0.1) — 
 - [Task 516 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_516_V0.1) — 
 - [Task 515 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_515_V0.1) — 
-- [Task 514 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_514_V0.1) — 
+- [Task 514 Component Event Interaction: Basic Key Binding V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_514_V0.1) — In industrial graphical software development, using primitive AWT `KeyListener` sensors often introduces fragile focus management bugs. To establish highly reliable keyboard navigation pathways, production desktop architectures implement Java Swing's **Key Bindings** subsystem. This project isolates the interaction mechanics of **`InputMap`** and **`ActionMap`** components. By mapping the physical keystroke matrix **`CTRL + G`** inside the input layer, the registry routes the user gesture directly to an abstract named token. The underlying action engine captures this token and evaluates our custom closure, shifting the core **`JPanel`** background properties to green.
 ---
 
 ## Action and action handling in Swing.
