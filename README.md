@@ -30,8 +30,11 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Mouse Events.
-- [Task 516 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_516_V0.1) —
-- [Task 515 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_515_V0.1) — 
+- [Task 523 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_523_V0.1) — 
+- [Task 522 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_522_V0.1) — 
+- [Task 521 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_521_V0.1) — 
+- [Task 520 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_520_V0.1) — 
+- [Task 519 Component Event Interaction: Mouse Click Event Tracking V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_519_V0.1) — In advanced graphical user interfaces, capturing precision mouse interactions directly on structural container coordinates—rather than relying solely on abstract button components—is essential for spatial coordinate tracking and customized interactive canvases. This project introduces low-level mouse event delegation using Java Swing's **`MouseAdapter`** core class. By overlaying a spatial listener onto a standard **`JPanel`**, the system intercepts physical user mouse click dispatches across any coordinate area of the panel substrate. Each detected click event triggers an encapsulated state mutator that increments a primitive counter and synchronizes the updated value seamlessly within a presentation **`JLabel`** layout.
 ---
 
 ## Key Bindings.
