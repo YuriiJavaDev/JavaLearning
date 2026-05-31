@@ -15,18 +15,18 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Events in Swing and AWT: Basics, Examples.
-- [Task 522 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_522_V0.1) — 
-- [Task 521 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_521_V0.1) — 
+- [Task 529 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_529_V0.1) — 
+- [Task 528 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_528_V0.1) — 
 ---
 
 ## Listeners and event interfaces.
-- [Task 520 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_520_V0.1) — 
-- [Task 519 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_519_V0.1) — 
+- [Task 527 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_527_V0.1) — 
+- [Task 526 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_526_V0.1) — 
 ---
 
 ## Arrangement of elements.
-- [Task 518 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_518_V0.1) —
-- [Task 517 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_517_V0.1) — 
+- [Task 525 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_525_V0.1) — 
+- [Task 524 Component Event Interaction: Nested Login Layout V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_524_V0.1) — In professional desktop application design, arranging graphical elements requires a strict hierarchical layout strategy to guarantee proper window resizing behavior and visual alignment. This project demonstrates composite window structuring by nesting layout managers within Java Swing. The root container leverages a **`BorderLayout`** framework to split the workspace into directional structural sectors. The `NORTH` zone hosts a static header, and the `SOUTH` zone handles system status updates. The `CENTER` structural zone isolates the actual user credentials intake form inside a dedicated **`JPanel`** operating on an inline **`FlowLayout`** scheme, ensuring automatic component wrapping and sequential component positioning.
 ---
 
 ## Mouse Events.
