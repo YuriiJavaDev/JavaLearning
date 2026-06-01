@@ -10,21 +10,22 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Creating and handling your own events..
-- [Task 524 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_524_V0.1) — 
-- [Task 523 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_523_V0.1) — 
+- [Task 532 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_532_V0.1) — 
+- [Task 531 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_531_V0.1) — 
 ---
 
 ## Events in Swing and AWT: Basics, Examples.
+- [Task 530 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_530_V0.1) — 
 - [Task 529 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_529_V0.1) — 
-- [Task 528 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_528_V0.1) — 
 ---
 
 ## Listeners and event interfaces.
-- [Task 527 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_527_V0.1) — 
-- [Task 526 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_526_V0.1) — 
+- [Task 528 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_528_V0.1) — 
+- [Task 527 Component Event Interaction: Complete Multi-Panel Layout V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_527_V0.1) — 
 ---
 
 ## Arrangement of elements.
+- [Task 526 Component Event Interaction: Complete Multi-Panel Layout V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_526_V0.1) — In advanced enterprise desktop client designs, achieving a symmetrical, feature-rich interface requires utilizing all primary directional domains of a root layout canvas. This project finalizes the composite dashboard design by populating the unallocated **`BorderLayout.WEST`** boundary. By nesting a dedicated navigation toolbar panel operating on a vertical **`GridLayout(2, 1)`** matrix, the frame integrates explicit navigation triggers ("Up" and "Down" buttons) directly opposite the eastern telemetry tracker. This configuration completes a balanced, fully responsive user control dashboard, proving the scalability of structured layout nesting within Java Swing.
 - [Task 525 Component Event Interaction: Layout Sidebar Integration V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_525_V0.1) — In corporate system dashboard architectures, modern desktop screens require localized telemetry zones or status sidebars positioned on peripheral boundaries to continually feed server metrics back to active operators. This project extends the pre-existing input form layout framework by utilizing the unallocated **`BorderLayout.EAST`** geographical boundary. By nesting a secondary structured panel inside this eastern zone operating on a rigid **`GridLayout`** coordinate scheme, the interface hosts a clear status matrix grid. This grid maps static operational descriptors against real-time system metrics via aligned multi-label configuration blocks.
 - [Task 524 Component Event Interaction: Nested Login Layout V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_524_V0.1) — In professional desktop application design, arranging graphical elements requires a strict hierarchical layout strategy to guarantee proper window resizing behavior and visual alignment. This project demonstrates composite window structuring by nesting layout managers within Java Swing. The root container leverages a **`BorderLayout`** framework to split the workspace into directional structural sectors. The `NORTH` zone hosts a static header, and the `SOUTH` zone handles system status updates. The `CENTER` structural zone isolates the actual user credentials intake form inside a dedicated **`JPanel`** operating on an inline **`FlowLayout`** scheme, ensuring automatic component wrapping and sequential component positioning.
 ---
