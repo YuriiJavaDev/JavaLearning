@@ -21,7 +21,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Listeners and event interfaces.
 - [Task 528 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_528_V0.1) — 
-- [Task 527 Component Event Interaction: Complete Multi-Panel Layout V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_527_V0.1) — 
+- [Task 527 Component Event Interaction: Starship Command Processor V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_527_V0.1) — In advanced software architecture, separating the core business event execution layer from the physical user interface tier is fundamental to building resilient, testable codebases. This project demonstrates this behavioral isolation inside a futuristic starship command module context. By implementing a dedicated **`StarshipCommandProcessor`** class bound directly to the standard Java **`ActionListener`** protocol, the execution engine decouples system action reactions from hardware buttons or voice streams. The execution sequence is simulated directly inside the application bootstrap entry point by passing a `null` argument matrix into the processor, proving that operational business actions can be validated entirely outside active graphical rendering threads.
 ---
 
 ## Arrangement of elements.
