@@ -9,8 +9,35 @@ Welcome! This is the main navigator for my educational projects.
 - [Pinball by YuriiJavaDev V0.1](https://github.com/YuriiJavaDev/PinballGame_V0.1) — Game Pinball by YuriiJavaDev V0.1
 ---
 
-## Creating and handling your own events..
+## The Task Manager implementation is a layered architecture.
+- [Task 538 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_538_V0.1) — 
+---
+
+## Creating a TaskPanel in GUI Designer.
+- [Task 537 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_537_V0.1) — 
+---
+
+## Entry point, main window and GUI Designer.
+- [Task 536 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_536_V0.1) — 
+---
+
+## Java Packages and Project Structure.
+- [Task 535 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_535_V0.1) — 
+---
+
+## Maven and why is it needed?
+- [Task 534 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_534_V0.1) — 
+---
+
+## UI Designer.
+- [Task 533 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_533_V0.1) — 
+---
+
+## Look and Feel.
 - [Task 532 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_532_V0.1) — 
+---
+
+## Creating and handling your own events.
 - [Task 531 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_531_V0.1) — 
 ---
 
