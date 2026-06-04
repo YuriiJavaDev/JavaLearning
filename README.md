@@ -53,7 +53,7 @@ Welcome! This is the main navigator for my educational projects.
 
 ## Events in Swing and AWT: Basics, Examples.
 - [Task 530 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_530_V0.1) — 
-- [Task 529 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_529_V0.1) — 
+- [Task 529 Smart Home Core Bootstrap Interface V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_529_V0.1) — Every advanced automated ecosystem begins with a foundational connection confirmation. This project initiates establishing a baseline graphical verification frame for a smart home interaction desk. It constructs a standardized window framework utilizing Java Swing's **`JFrame`** structure, embedding a single non-operational demonstrative **`JButton`** containing a static welcome greeting. The application lifecycle is bound directly to the frame layer, ensuring that closing the user interface gracefully terminates all background processes.
 ---
 
 ## Listeners and event interfaces.
