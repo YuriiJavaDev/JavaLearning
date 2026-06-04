@@ -32,7 +32,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Java Packages and Project Structure.
-- [Task 535 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_535_V0.1) — 
+- [Task 535 MyAssistant - Layered Desktop Architecture: Decoupled View Patterns and Command Actions V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_535_V0.1) — Building scalable enterprise desktop client environments requires a strict adherence to modular software boundaries. This project initializes **MyAssistant**, delivering a decoupled **Layered Architecture** implementation using Java Swing. The core GUI layer (**`TaskPanel`**) serves strictly as a presentation anchor, delegating interactive operational mutations (`addTask`, `deleteTask`, `editTask`) to standalone encapsulated objects extending **`AbstractAction`**. Business layers are mapped across distinct operational boundaries (`controller`, `service`, `repository`, `model`), separating data caching mechanics from interactive widgets. Visual look-and-feel configurations are centralized inside a dedicated utility framework to avoid hardcoded interface rules.
 ---
 
 ## Maven and why is it needed?
