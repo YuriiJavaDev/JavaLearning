@@ -28,7 +28,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Entry point, main window and GUI Designer.
-- [Task 536 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_536_V0.1) — 
+- [Task 536  Multi-Tabbed Workspace Integration and EDT Validation V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_536_V0.1) — As desktop utilities grow, a single control screen becomes insufficient, requiring layout managers that support seamless screen switching without cluttering the framing layers. This project refactoring **JavaBasics_Task_535_V0.1** to inject a global tabbed navigation container (**`JTabbedPane`**) directly inside the core **`TaskFrame`**. The existing, purely hand-coded **`TaskPanel`** is mounted as the primary operational workspace under the "Tasks" tab lane, while secondary slots are reserved for future features. Additionally, the execution pipeline enforces strict **Event Dispatch Thread (EDT)** synchronization to protect component initialization states across different operating system environments.
 ---
 
 ## Java Packages and Project Structure.
