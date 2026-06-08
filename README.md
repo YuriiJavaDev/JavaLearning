@@ -24,7 +24,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Creating a TaskPanel in GUI Designer.
-- [Task 537 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_537_V0.1) — 
+- [Task 537 Advanced Task Viewports: Custom List Renderers and Statistics Footers V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_537_V0.1) — Enhancing user interaction patterns requires advanced component specialization within the presentation layer. This project building directly on top of the composite navigation architecture established in **JavaBasics_Task_536_V0.1**. It introduces a highly customized **`ListCellRenderer`** backed by a **`JCheckBox`** element to track completion flags directly within the main task catalog viewport. Additionally, the lower window section is augmented with a dedicated, isolated structural sub-panel named **`TaskFooterPanel`**. This component encapsulates aggregate task tracking labels (Total, Completed, Left, Progress metrics) and couples them with centralized workflow action buttons, maintaining a strict non-designer, pure Java modular architecture.
 ---
 
 ## Entry point, main window and GUI Designer.
