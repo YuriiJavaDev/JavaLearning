@@ -20,7 +20,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## The Task Manager implementation is a layered architecture.
-- [Task 538 User Profiles: Mutability vs Immutability V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_538_V0.1) — 
+- [Task 538 Refactoring and functional expansion of the MyAssistant project V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_538_V0.1) — The "MyAssistant" JavaBasics_Task_537_V0.1 project has been refactored and functionally expanded: JSON serialization, unique IDs, timestamps, and task priorities have been added, multi-level filters have been implemented, interaction with the UI has been improved, logging via SLF4J has been implemented, and the project has been migrated to Maven.
 ---
 
 ## Creating a TaskPanel in GUI Designer.
