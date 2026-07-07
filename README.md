@@ -6,6 +6,10 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 # 👉 Server-Side Development.
+## Spring Boot project launch and first REST controller.
+- [Task 541 Library Catalog REST API V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_541_V0.1) — This project introduces Spring Boot and its auto-configuration capabilities. It demonstrates how to build a RESTful service, handle JSON responses, and manage application settings externally via application.properties without manual configuration files.
+---
+
 ## Multiple Implementations, Profiles, and Environments.
 - [Task 540 Library Notification System: Profile-Driven Architecture V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_540_V0.1) — This project demonstrates advanced Spring Framework dependency management. It implements a library notification service that dynamically adjusts its behavior based on environment profiles (dev vs prod). It utilizes constructor-based injection, bean qualification, external property configuration via @Value, and prototype bean scoping.
 ---
