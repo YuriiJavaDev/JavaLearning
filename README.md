@@ -6,8 +6,13 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 # 👉 Server-Side Development.
+## Multiple Implementations, Profiles, and Environments.
+- [Task 540 Library Notification System: Profile-Driven Architecture V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_540_V0.1) — This project demonstrates advanced Spring Framework dependency management. It implements a library notification service that dynamically adjusts its behavior based on environment profiles (dev vs prod). It utilizes constructor-based injection, bean qualification, external property configuration via @Value, and prototype bean scoping.
+---
+
 ## Bean и Component Scanning.
 - [Task 539 Implementing a Spring-based application using component scanning for dependency injection. V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_539_V0.1) — This project focuses on transitioning from manual object instantiation to an automated dependency injection pattern using the Spring Framework. It implements a decoupled modular architecture for a task management system, leveraging Spring Component Scanning to discover and register application beans. The system comprises a model layer, a repository for data persistence, a business service layer for logic handling, and a dedicated UI component for data presentation. By removing hard-coded dependencies and shifting configuration to a pure @Configuration approach, the project ensures high maintainability and adherence to modern inversion of control principles.
+---
 
 # 📁 JavaBasics
 ---
