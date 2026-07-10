@@ -11,7 +11,7 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 ## Application configuration in Boot.
-- [Task 542 Coffeeshop Configuration Service V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_542_V0.1) — This project demonstrates advanced configuration management in Spring Boot using @ConfigurationProperties. It shows how to map external YAML properties to strongly-typed Java objects and how to leverage environment-specific profiles (dev and prod) to manage varying business constraints.
+- [Task 542 Coffeeshop Configuration Service V0.1](https://github.com/YuriiJavaDev/JavaBasics_Task_542_V0.1_coffeeshop) — This project demonstrates advanced configuration management in Spring Boot using @ConfigurationProperties. It shows how to map external YAML properties to strongly-typed Java objects and how to leverage environment-specific profiles (dev and prod) to manage varying business constraints.
 ---
 
 ## Spring Boot project launch and first REST controller.
