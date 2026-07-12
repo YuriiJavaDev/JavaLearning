@@ -7,7 +7,7 @@ Welcome! This is the main navigator for my educational projects.
 
 # 👉 Server-Side Development.
 ## Validation and single error response.
-- [Task 542 Coffeeshop Configuration Service V0.2](https://github.com/YuriiJavaDev/JavaBasics_Task_542_V0.2) — This project implements a order processing service for a coffee shop. It integrates REST API development with strict input validation, centralized error handling using @ControllerAdvice, and type-safe configuration management via @ConfigurationProperties.
+- [Task 542 Coffeeshop Configuration Service V0.2](https://github.com/YuriiJavaDev/JavaBasics_Task_542_V0.2_coffeeshop) — This project implements a order processing service for a coffee shop. It integrates REST API development with strict input validation, centralized error handling using @ControllerAdvice, and type-safe configuration management via @ConfigurationProperties.
 ---
 
 ## Application configuration in Boot.
