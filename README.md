@@ -6,6 +6,11 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 # 👉 Server-Side Development.
+## Packaging and minimal testing baseline.
+- [Task 542 Coffeeshop Configuration Service V0.4](https://github.com/YuriiJavaDev/JavaBasics_Task_542_V0.4_coffeeshop) — 
+---
+
+
 ## CRUD and logging.
 - [Task 542 Coffeeshop Configuration Service V0.3](https://github.com/YuriiJavaDev/JavaBasics_Task_542_V0.3_coffeeshop) — 
 ---
