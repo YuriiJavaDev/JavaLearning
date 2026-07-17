@@ -6,10 +6,14 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 # 👉 Server-Side Development.
+
+## We are finishing the project: connecting Swing and the server, a bridge to the databases.
+- [Task 543 MyAssistant project V0.2](https://github.com/YuriiJavaDev/JavaBasics_Task_543_V0.2_coffeeshop) — 
+---
+
 ## Packaging and minimal testing baseline.
 - [Task 542 Coffeeshop Configuration Service V0.4](https://github.com/YuriiJavaDev/JavaBasics_Task_542_V0.4_coffeeshop) — 
 ---
-
 
 ## CRUD and logging.
 - [Task 542 Coffeeshop Configuration Service V0.3](https://github.com/YuriiJavaDev/JavaBasics_Task_542_V0.3_coffeeshop) — 
