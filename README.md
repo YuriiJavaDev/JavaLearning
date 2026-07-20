@@ -8,7 +8,7 @@ Welcome! This is the main navigator for my educational projects.
 # 👉 Server-Side Development.
 
 ## We are finishing the project: connecting Swing and the server, a bridge to the databases.
-- [Task 538 MyAssistant project V0.2](https://github.com/YuriiJavaDev/JavaBasics_Task_538_V0.2) — 
+- [Task 538 MyAssistant project V0.2](https://github.com/YuriiJavaDev/JavaBasics_Task_538_V0.2_MyAssistant) — 
 ---
 
 ## Packaging and minimal testing baseline.
