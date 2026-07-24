@@ -6,6 +6,10 @@ Welcome! This is the main navigator for my educational projects.
 ---
 
 # 👉 Server-Side Development.
+## Universal Server Initialization.
+- [MyUniversalServer](https://github.com/YuriiJavaDev/MyUniversalServer) — Setting up the core Spring Boot application, configuring PostgreSQL database connectivity, and establishing the foundational server architecture. 
+---
+
 
 ## We are finishing the project: connecting Swing and the server, a bridge to the databases.
 - [Task 538 MyAssistant project V0.2](https://github.com/YuriiJavaDev/JavaBasics_Task_538_V0.2_MyAssistant) — Implementing Spring Boot web configuration with Swing UI integration, DTO records, and exception handling.
